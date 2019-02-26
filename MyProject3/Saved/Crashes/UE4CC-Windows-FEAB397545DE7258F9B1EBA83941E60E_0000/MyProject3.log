@@ -1,0 +1,1320 @@
+﻿Log file open, 02/11/19 14:18:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.458847
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.115s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.11-19.18.15:156][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.11-19.18.15:156][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:157][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.11-19.18.15:164][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:164][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.11-19.18.15:165][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.11-19.18.15:167][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.11-19.18.15:167][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.11-19.18.15:180][  0]LogHAL: Display: Platform has ~ 16 GB [17018638336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.11-19.18.15:182][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.11-19.18.15:182][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.11-19.18.15:184][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.11-19.18.15:187][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.11-19.18.15:187][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.11-19.18.15:188][  0]LogInit: Computer: MSI
+[2019.02.11-19.18.15:188][  0]LogInit: User: Gretchen
+[2019.02.11-19.18.15:188][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.02.11-19.18.15:188][  0]LogInit: High frequency timer resolution =2.156252 MHz
+[2019.02.11-19.18.15:188][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.02.11-19.18.15:188][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.11-19.18.15:188][  0]LogMemory: Process Physical Memory: 110.48 MB used, 110.48 MB peak
+[2019.02.11-19.18.15:188][  0]LogMemory: Process Virtual Memory: 98.83 MB used, 98.83 MB peak
+[2019.02.11-19.18.15:188][  0]LogMemory: Physical Memory: 7182.40 MB used,  9047.84 MB free, 16230.24 MB total
+[2019.02.11-19.18.15:188][  0]LogMemory: Virtual Memory: 4692.05 MB used,  134213032.00 MB free, 134217728.00 MB total
+[2019.02.11-19.18.15:609][  0]LogInit: Using OS detected language (en-US).
+[2019.02.11-19.18.15:609][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.11-19.18.15:613][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.11-19.18.16:033][  0]LogStreaming: Display: Took  0.425s to InitEngineTextLocalization.
+[2019.02.11-19.18.16:034][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.11-19.18.16:124][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.11-19.18.16:124][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.11-19.18.18:568][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.11-19.18.18:629][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.02.11-19.18.18:629][  0]LogD3D11RHI:       6052/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.11-19.18.18:645][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.02.11-19.18.18:645][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.11-19.18.18:647][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.11-19.18.18:647][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.11-19.18.18:647][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.11-19.18.18:674][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.11-19.18.18:674][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.02.11-19.18.18:674][  0]LogWindows: EnumDisplayDevices:
+[2019.02.11-19.18.18:674][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.02.11-19.18.18:675][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.11-19.18.18:675][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.02.11-19.18.18:675][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.11-19.18.18:675][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.11-19.18.18:675][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.11-19.18.18:675][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.02.11-19.18.18:676][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.02.11-19.18.18:676][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.02.11-19.18.18:677][  0]LogD3D11RHI:   Driver Version: 398.35 (internal:24.21.13.9835, unified:398.35)
+[2019.02.11-19.18.18:677][  0]LogD3D11RHI:      Driver Date: 6-21-2018
+[2019.02.11-19.18.18:677][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.02.11-19.18.18:717][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.11-19.18.18:758][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.11-19.18.19:536][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.11-19.18.19:554][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.11-19.18.19:573][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.11-19.18.19:591][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.11-19.18.19:614][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.11-19.18.19:634][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.11-19.18.19:654][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.11-19.18.19:673][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.11-19.18.19:686][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:769][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.11-19.18.19:779][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.11-19.18.19:868][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.11-19.18.19:868][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.11-19.18.19:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.11-19.18.19:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.11-19.18.19:914][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.11-19.18.19:934][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.11-19.18.19:952][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.11-19.18.19:977][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.11-19.18.20:026][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.11-19.18.20:026][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.11-19.18.20:026][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.11-19.18.20:368][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Intermediate/Shaders/WorkingDirectory/15468/).
+[2019.02.11-19.18.20:368][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gretchen/AppData/Local/Temp/UnrealShaderWorkingDir/B9D9E2D340FF3C79B4D2659DA1EFC9EB/'.
+[2019.02.11-19.18.20:371][  0]LogXGEController: Cleaning working directory: C:/Users/Gretchen/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.02.11-19.18.20:372][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.11-19.18.20:372][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.11-19.18.20:372][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.11-19.18.21:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: Loaded boot cache 0.43s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.11-19.18.22:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.11-19.18.22:317][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.11-19.18.22:317][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.11-19.18.22:317][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.11-19.18.22:331][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gretchen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.11-19.18.22:331][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.11-19.18.22:331][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.11-19.18.22:356][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.11-19.18.22:366][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.11-19.18.22:385][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.11-19.18.23:050][  0]LogAssetRegistry: FAssetRegistry took 0.0347 seconds to start up
+[2019.02.11-19.18.23:542][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.11-19.18.23:948][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.11-19.18.23:996][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.11-19.18.23:997][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.11-19.18.23:997][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.11-19.18.23:997][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.11-19.18.24:061][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2916331349)
+[2019.02.11-19.18.25:220][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.075339 seconds
+[2019.02.11-19.18.25:225][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.11-19.18.25:225][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.11-19.18.25:225][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.11-19.18.32:402][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.11-19.18.32:430][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.11-19.18.33:436][  0]SourceControl: Source control is disabled
+[2019.02.11-19.18.33:436][  0]SourceControl: Source control is disabled
+[2019.02.11-19.18.33:459][  0]SourceControl: Source control is disabled
+[2019.02.11-19.18.33:474][  0]SourceControl: Source control is disabled
+[2019.02.11-19.18.34:172][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.11-19.18.34:464][  0]LogOcInput: OculusInput pre-init called
+[2019.02.11-19.18.34:731][  0]LogEngine: Initializing Engine...
+[2019.02.11-19.18.34:737][  0]LogHMD: Oculus plugin initialized. Version: 4.21.2-4753647+++UE4+Release-4.21, OVRPlugin: 1.28.0
+[2019.02.11-19.18.34:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.02.11-19.18.34:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.11-19.18.34:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.11-19.18.34:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.11-19.18.35:097][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.11-19.18.35:169][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.11-19.18.35:197][  0]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.11-19.18.35:213][  0]LogInit: FAudioDevice initialized.
+[2019.02.11-19.18.35:213][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.11-19.18.35:346][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.11-19.18.35:358][  0]LogInit: Texture streaming: Enabled
+[2019.02.11-19.18.35:405][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.11-19.18.35:405][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={EE2DB905-4D8C-A331-DF28-54962BF26091}
+[2019.02.11-19.18.35:429][  0]LogInit: Transaction tracking system initialized
+[2019.02.11-19.18.35:516][  0]BlueprintLog: New page: Editor Load
+[2019.02.11-19.18.35:936][  0]LocalizationService: Localization service is disabled
+[2019.02.11-19.18.36:770][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/' took 0.02s
+[2019.02.11-19.18.36:770][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.11-19.18.36:771][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.11-19.18.36:771][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.11-19.18.36:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.11-19.18.36:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.11-19.18.36:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.11-19.18.36:771][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.11-19.18.37:453][  0]SourceControl: Source control is disabled
+[2019.02.11-19.18.37:455][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.11-19.18.37:457][  0]LightingResults: New page: Lighting Build
+[2019.02.11-19.18.37:470][  0]MapCheck: New page: Map Check
+[2019.02.11-19.18.37:470][  0]LightingResults: New page: Lighting Build
+[2019.02.11-19.18.38:490][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/BreakSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:495][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/MakeSet.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:500][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Basic/Roughness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:505][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Dye_SingleColor.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:511][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/Texture/Tex_SimpleGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:516][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:528][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Materials/Functions/UV/UV_SetupGrid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:534][  0]LogLinker: Warning: Asset '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/SuperGrid/StarterPack/Source/Textures/T_BasicGrid_N.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2019.02.11-19.18.38:813][  0]LoadErrors: Warning: hs_register Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.11-19.18.38:854][  0]LoadErrors: Warning: hs_soda Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.11-19.18.38:907][  0]LoadErrors: Warning: hs_sack Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.11-19.18.38:919][  0]LoadErrors: Warning: hs_pack Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.11-19.18.38:934][  0]LoadErrors: Warning: hs_bomb Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.11-19.18.39:252][  0]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.11-19.18.39:309][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.11-19.18.39:348][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.11-19.18.39:350][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.179ms to complete.
+[2019.02.11-19.18.39:350][  0]LogFileHelpers: Loading map 'Minimal_Default_2' took 1.896
+[2019.02.11-19.18.39:527][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.18.39:533][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.18.39:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.18.39:544][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.18.39:575][  0]LogCollectionManager: Loaded 0 collections in 0.001748 seconds
+[2019.02.11-19.18.39:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Collections/' took 0.01s
+[2019.02.11-19.18.39:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/Developers/Gretchen/Collections/' took 0.01s
+[2019.02.11-19.18.39:638][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/humanStuff/MyProject3/Content/Collections/' took 0.00s
+[2019.02.11-19.18.39:638][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.11-19.18.39:650][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2651 classes and 620 folders.
+[2019.02.11-19.18.39:664][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.11-19.18.39:686][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:696][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:704][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:713][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:734][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:739][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:747][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:774][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:779][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:782][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:787][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.39:791][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.11-19.18.40:048][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.11-19.18.40:070][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.02.11-19.18.40:306][  0]LogSlate: Took 0.006168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.11-19.18.40:315][  0]LogSlate: Took 0.006695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.11-19.18.40:326][  0]LogSlate: Took 0.005594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.11-19.18.40:451][  0]LogRenderer: Reallocating scene render targets to support 936x436 Format 26 NumSamples 1 (Frame:1).
+[2019.02.11-19.18.40:658][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.11-19.18.40:658][  0]LogLoad: (Engine Initialization) Total time: 30.65 seconds
+[2019.02.11-19.18.40:658][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.11-19.18.40:683][  0]LogOcInput: OculusInput is initialized
+[2019.02.11-19.18.40:743][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.11-19.18.40:748][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.18.40:784][  0]LogSlate: Took 0.006255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.11-19.18.41:257][  3]LogAssetRegistry: Asset discovery search completed in 18.2296 seconds
+[2019.02.11-19.18.41:259][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.11-19.18.41:259][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2019.02.11-19.18.42:225][  6]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.11-19.18.46:345][118]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.18.46:350][118]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.20.52:319][306]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.11-19.23.33:999][416]LogEditorViewport: Clicking on Actor (LMB): Conveyor_C (Conveyor)
+[2019.02.11-19.23.49:928][361]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.23.51:545][457]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.23.51:545][457]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.11-19.23.51:548][457]PIE: New page: SIE session: Minimal_Default_2 (Feb 11, 2019, 9:23:51 AM)
+[2019.02.11-19.23.51:562][457]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.11-19.23.51:570][457]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007487s)
+[2019.02.11-19.23.51:570][457]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.11-19.23.51:571][457]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2019.02.11-19.23.51:571][457]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.008584s)
+[2019.02.11-19.23.51:605][457]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.02.11-19.23.51:686][457]LogInit: FAudioDevice initialized.
+[2019.02.11-19.23.51:687][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.23.51:733][457]LogLoad: Game class is 'GameModeBase'
+[2019.02.11-19.23.51:737][457]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 60) at 2019.02.11-14.23.51
+[2019.02.11-19.23.51:741][457]LogWorld: Bringing up level for play took: 0.005641
+[2019.02.11-19.23.51:763][457]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.02.11-19.23.51:765][457]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.11-19.23.51:766][457]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.11-19.23.51:777][457]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.11-19.23.51:778][457]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.11-19.23.51:779][457]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.97
+[2019.02.11-19.23.51:806][457]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.23.52:520][498]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.11-19.23.53:719][570]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.11-19.23.54:924][642]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.11-19.23.56:125][714]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.11-19.23.57:470][737]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.11-19.23.58:802][741]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.11-19.24.00:149][745]LogBlueprintUserMessages: [MotionControllerPawn_2] 113
+[2019.02.11-19.24.01:485][749]LogBlueprintUserMessages: [MotionControllerPawn_2] 112
+[2019.02.11-19.24.02:824][753]LogBlueprintUserMessages: [MotionControllerPawn_2] 111
+[2019.02.11-19.24.04:165][757]LogBlueprintUserMessages: [MotionControllerPawn_2] 110
+[2019.02.11-19.24.05:503][761]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.11-19.24.06:840][765]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.11-19.24.08:181][769]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.11-19.24.09:522][773]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.11-19.24.10:867][777]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.11-19.24.11:878][780]LogScript: Warning: Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.11:878][780]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.12:212][781]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.11-19.24.12:213][781]LogScript: Warning: Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.12:213][781]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.12:548][782]LogScript: Warning: Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.12:548][782]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_3 via property K2Node_DynamicCast_AsScannables, but Scannables_C_3 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.13:550][785]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.11-19.24.14:890][789]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.11-19.24.16:231][793]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.11-19.24.17:571][797]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.11-19.24.18:911][801]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.11-19.24.20:250][805]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.11-19.24.21:258][808]LogScript: Warning: Attempted to access Scannables_C_16 via property K2Node_DynamicCast_AsScannables, but Scannables_C_16 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.21:259][808]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_16 via property K2Node_DynamicCast_AsScannables, but Scannables_C_16 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.21:589][809]LogBlueprintUserMessages: [MotionControllerPawn_2] 97
+[2019.02.11-19.24.21:590][809]LogScript: Warning: Attempted to access Scannables_C_16 via property K2Node_DynamicCast_AsScannables, but Scannables_C_16 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.21:590][809]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_16 via property K2Node_DynamicCast_AsScannables, but Scannables_C_16 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.22:927][813]LogBlueprintUserMessages: [MotionControllerPawn_2] 96
+[2019.02.11-19.24.24:272][817]LogBlueprintUserMessages: [MotionControllerPawn_2] 95
+[2019.02.11-19.24.25:612][821]LogBlueprintUserMessages: [MotionControllerPawn_2] 94
+[2019.02.11-19.24.26:953][825]LogBlueprintUserMessages: [MotionControllerPawn_2] 93
+[2019.02.11-19.24.28:288][829]LogBlueprintUserMessages: [MotionControllerPawn_2] 92
+[2019.02.11-19.24.29:631][833]LogBlueprintUserMessages: [MotionControllerPawn_2] 91
+[2019.02.11-19.24.30:966][837]LogBlueprintUserMessages: [MotionControllerPawn_2] 90
+[2019.02.11-19.24.32:306][841]LogBlueprintUserMessages: [MotionControllerPawn_2] 89
+[2019.02.11-19.24.33:653][845]LogBlueprintUserMessages: [MotionControllerPawn_2] 88
+[2019.02.11-19.24.34:991][849]LogBlueprintUserMessages: [MotionControllerPawn_2] 87
+[2019.02.11-19.24.36:324][853]LogBlueprintUserMessages: [MotionControllerPawn_2] 86
+[2019.02.11-19.24.37:662][857]LogBlueprintUserMessages: [MotionControllerPawn_2] 85
+[2019.02.11-19.24.38:997][861]LogBlueprintUserMessages: [MotionControllerPawn_2] 84
+[2019.02.11-19.24.40:334][865]LogBlueprintUserMessages: [MotionControllerPawn_2] 83
+[2019.02.11-19.24.41:680][869]LogBlueprintUserMessages: [MotionControllerPawn_2] 82
+[2019.02.11-19.24.43:016][873]LogBlueprintUserMessages: [MotionControllerPawn_2] 81
+[2019.02.11-19.24.44:348][877]LogBlueprintUserMessages: [MotionControllerPawn_2] 80
+[2019.02.11-19.24.45:686][881]LogBlueprintUserMessages: [MotionControllerPawn_2] 79
+[2019.02.11-19.24.47:023][885]LogBlueprintUserMessages: [MotionControllerPawn_2] 78
+[2019.02.11-19.24.48:361][889]LogBlueprintUserMessages: [MotionControllerPawn_2] 77
+[2019.02.11-19.24.49:702][893]LogBlueprintUserMessages: [MotionControllerPawn_2] 76
+[2019.02.11-19.24.51:045][897]LogBlueprintUserMessages: [MotionControllerPawn_2] 75
+[2019.02.11-19.24.51:386][898]LogScript: Warning: Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.51:386][898]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.51:720][899]LogScript: Warning: Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.51:720][899]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.52:054][900]LogScript: Warning: Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.24.52:054][900]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_45 via property K2Node_DynamicCast_AsScannables, but Scannables_C_45 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.24.52:386][901]LogBlueprintUserMessages: [MotionControllerPawn_2] 74
+[2019.02.11-19.24.53:731][905]LogBlueprintUserMessages: [MotionControllerPawn_2] 73
+[2019.02.11-19.24.55:075][909]LogBlueprintUserMessages: [MotionControllerPawn_2] 72
+[2019.02.11-19.24.56:419][913]LogBlueprintUserMessages: [MotionControllerPawn_2] 71
+[2019.02.11-19.24.57:758][917]LogBlueprintUserMessages: [MotionControllerPawn_2] 70
+[2019.02.11-19.24.59:093][921]LogBlueprintUserMessages: [MotionControllerPawn_2] 69
+[2019.02.11-19.25.00:437][925]LogBlueprintUserMessages: [MotionControllerPawn_2] 68
+[2019.02.11-19.25.01:770][929]LogBlueprintUserMessages: [MotionControllerPawn_2] 67
+[2019.02.11-19.25.03:107][933]LogBlueprintUserMessages: [MotionControllerPawn_2] 66
+[2019.02.11-19.25.04:441][937]LogBlueprintUserMessages: [MotionControllerPawn_2] 65
+[2019.02.11-19.25.05:775][941]LogBlueprintUserMessages: [MotionControllerPawn_2] 64
+[2019.02.11-19.25.07:113][945]LogBlueprintUserMessages: [MotionControllerPawn_2] 63
+[2019.02.11-19.25.08:449][949]LogBlueprintUserMessages: [MotionControllerPawn_2] 62
+[2019.02.11-19.25.09:786][953]LogBlueprintUserMessages: [MotionControllerPawn_2] 61
+[2019.02.11-19.25.11:125][957]LogBlueprintUserMessages: [MotionControllerPawn_2] 60
+[2019.02.11-19.25.12:468][961]LogBlueprintUserMessages: [MotionControllerPawn_2] 59
+[2019.02.11-19.25.13:809][965]LogBlueprintUserMessages: [MotionControllerPawn_2] 58
+[2019.02.11-19.25.15:149][969]LogBlueprintUserMessages: [MotionControllerPawn_2] 57
+[2019.02.11-19.25.16:488][973]LogBlueprintUserMessages: [MotionControllerPawn_2] 56
+[2019.02.11-19.25.17:826][977]LogBlueprintUserMessages: [MotionControllerPawn_2] 55
+[2019.02.11-19.25.18:160][978]LogScript: Warning: Attempted to access Scannables_C_65 via property K2Node_DynamicCast_AsScannables, but Scannables_C_65 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.25.18:160][978]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_65 via property K2Node_DynamicCast_AsScannables, but Scannables_C_65 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.25.19:167][981]LogBlueprintUserMessages: [MotionControllerPawn_2] 54
+[2019.02.11-19.25.20:505][985]LogBlueprintUserMessages: [MotionControllerPawn_2] 53
+[2019.02.11-19.25.21:850][989]LogBlueprintUserMessages: [MotionControllerPawn_2] 52
+[2019.02.11-19.25.23:191][993]LogBlueprintUserMessages: [MotionControllerPawn_2] 51
+[2019.02.11-19.25.24:538][997]LogBlueprintUserMessages: [MotionControllerPawn_2] 50
+[2019.02.11-19.25.25:886][  1]LogBlueprintUserMessages: [MotionControllerPawn_2] 49
+[2019.02.11-19.25.27:231][  5]LogBlueprintUserMessages: [MotionControllerPawn_2] 48
+[2019.02.11-19.25.28:566][  9]LogBlueprintUserMessages: [MotionControllerPawn_2] 47
+[2019.02.11-19.25.29:909][ 13]LogBlueprintUserMessages: [MotionControllerPawn_2] 46
+[2019.02.11-19.25.31:245][ 17]LogBlueprintUserMessages: [MotionControllerPawn_2] 45
+[2019.02.11-19.25.32:590][ 21]LogBlueprintUserMessages: [MotionControllerPawn_2] 44
+[2019.02.11-19.25.33:929][ 25]LogBlueprintUserMessages: [MotionControllerPawn_2] 43
+[2019.02.11-19.25.35:265][ 29]LogBlueprintUserMessages: [MotionControllerPawn_2] 42
+[2019.02.11-19.25.36:607][ 33]LogBlueprintUserMessages: [MotionControllerPawn_2] 41
+[2019.02.11-19.25.37:941][ 37]LogBlueprintUserMessages: [MotionControllerPawn_2] 40
+[2019.02.11-19.25.39:283][ 41]LogBlueprintUserMessages: [MotionControllerPawn_2] 39
+[2019.02.11-19.25.40:616][ 45]LogBlueprintUserMessages: [MotionControllerPawn_2] 38
+[2019.02.11-19.25.41:956][ 49]LogBlueprintUserMessages: [MotionControllerPawn_2] 37
+[2019.02.11-19.25.43:297][ 53]LogBlueprintUserMessages: [MotionControllerPawn_2] 36
+[2019.02.11-19.25.44:636][ 57]LogBlueprintUserMessages: [MotionControllerPawn_2] 35
+[2019.02.11-19.25.45:983][ 61]LogBlueprintUserMessages: [MotionControllerPawn_2] 34
+[2019.02.11-19.25.47:322][ 65]LogBlueprintUserMessages: [MotionControllerPawn_2] 33
+[2019.02.11-19.25.48:663][ 69]LogBlueprintUserMessages: [MotionControllerPawn_2] 32
+[2019.02.11-19.25.50:005][ 73]LogBlueprintUserMessages: [MotionControllerPawn_2] 31
+[2019.02.11-19.25.51:346][ 77]LogBlueprintUserMessages: [MotionControllerPawn_2] 30
+[2019.02.11-19.25.52:683][ 81]LogBlueprintUserMessages: [MotionControllerPawn_2] 29
+[2019.02.11-19.25.54:043][ 85]LogBlueprintUserMessages: [MotionControllerPawn_2] 28
+[2019.02.11-19.25.55:363][ 89]LogBlueprintUserMessages: [MotionControllerPawn_2] 27
+[2019.02.11-19.25.56:703][ 93]LogBlueprintUserMessages: [MotionControllerPawn_2] 26
+[2019.02.11-19.25.58:043][ 97]LogBlueprintUserMessages: [MotionControllerPawn_2] 25
+[2019.02.11-19.25.59:379][101]LogBlueprintUserMessages: [MotionControllerPawn_2] 24
+[2019.02.11-19.26.00:725][105]LogBlueprintUserMessages: [MotionControllerPawn_2] 23
+[2019.02.11-19.26.02:059][109]LogBlueprintUserMessages: [MotionControllerPawn_2] 22
+[2019.02.11-19.26.03:395][113]LogBlueprintUserMessages: [MotionControllerPawn_2] 21
+[2019.02.11-19.26.04:730][117]LogBlueprintUserMessages: [MotionControllerPawn_2] 20
+[2019.02.11-19.26.06:071][121]LogBlueprintUserMessages: [MotionControllerPawn_2] 19
+[2019.02.11-19.26.07:405][125]LogBlueprintUserMessages: [MotionControllerPawn_2] 18
+[2019.02.11-19.26.08:742][129]LogBlueprintUserMessages: [MotionControllerPawn_2] 17
+[2019.02.11-19.26.10:083][133]LogBlueprintUserMessages: [MotionControllerPawn_2] 16
+[2019.02.11-19.26.11:429][137]LogBlueprintUserMessages: [MotionControllerPawn_2] 15
+[2019.02.11-19.26.12:096][139]LogScript: Warning: Attempted to access Scannables_C_119 via property K2Node_DynamicCast_AsScannables, but Scannables_C_119 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor2
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.26.12:096][139]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_119 via property K2Node_DynamicCast_AsScannables, but Scannables_C_119 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.26.12:763][141]LogBlueprintUserMessages: [MotionControllerPawn_2] 14
+[2019.02.11-19.26.14:104][145]LogBlueprintUserMessages: [MotionControllerPawn_2] 13
+[2019.02.11-19.26.15:441][149]LogBlueprintUserMessages: [MotionControllerPawn_2] 12
+[2019.02.11-19.26.16:779][153]LogBlueprintUserMessages: [MotionControllerPawn_2] 11
+[2019.02.11-19.26.18:121][157]LogBlueprintUserMessages: [MotionControllerPawn_2] 10
+[2019.02.11-19.26.19:471][161]LogBlueprintUserMessages: [MotionControllerPawn_2] 9
+[2019.02.11-19.26.20:817][165]LogBlueprintUserMessages: [MotionControllerPawn_2] 8
+[2019.02.11-19.26.22:155][169]LogBlueprintUserMessages: [MotionControllerPawn_2] 7
+[2019.02.11-19.26.23:505][173]LogBlueprintUserMessages: [MotionControllerPawn_2] 6
+[2019.02.11-19.26.24:840][177]LogBlueprintUserMessages: [MotionControllerPawn_2] 5
+[2019.02.11-19.26.26:176][181]LogBlueprintUserMessages: [MotionControllerPawn_2] 4
+[2019.02.11-19.26.27:516][185]LogBlueprintUserMessages: [MotionControllerPawn_2] 3
+[2019.02.11-19.26.28:848][189]LogBlueprintUserMessages: [MotionControllerPawn_2] 2
+[2019.02.11-19.26.30:191][193]LogBlueprintUserMessages: [MotionControllerPawn_2] 1
+[2019.02.11-19.26.31:529][197]LogBlueprintUserMessages: [MotionControllerPawn_2] 0
+[2019.02.11-19.26.32:868][201]LogBlueprintUserMessages: [MotionControllerPawn_2] -1
+[2019.02.11-19.26.36:890][213]LogNet: Browse: /Game/VirtualRealityBP/Maps/HMDLocomotionMap
+[2019.02.11-19.26.36:891][213]LogLoadingSplash: Loading begins
+[2019.02.11-19.26.36:891][213]LogLoad: LoadMap: /Game/VirtualRealityBP/Maps/HMDLocomotionMap
+[2019.02.11-19.26.37:063][213]LogAIModule: Creating AISystem for world HMDLocomotionMap
+[2019.02.11-19.26.37:064][213]LogLoad: Game class is 'GameModeBase'
+[2019.02.11-19.26.37:067][213]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_HMDLocomotionMap.HMDLocomotionMap up for play (max tick rate 3) at 2019.02.11-14.26.37
+[2019.02.11-19.26.37:067][213]LogWorld: Bringing up level for play took: 0.002852
+[2019.02.11-19.26.37:068][213]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.11-19.26.37:068][213]LogHMD: Initializing OVRPlugin session
+[2019.02.11-19.26.37:350][213]LogLevel: Warning: DisableInput on a LevelScript actor can not be specified for only one PlayerController.  Disabling for all PlayerControllers.
+[2019.02.11-19.26.37:351][213]LogLoadingSplash: Loading ends
+[2019.02.11-19.26.37:351][213]LogLoad: Took 0.460320 seconds to LoadMap(/Game/VirtualRealityBP/Maps/HMDLocomotionMap)
+[2019.02.11-19.27.13:608][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.27.13:692][454]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.27.13:692][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.27.13:727][454]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.11-19.27.13:727][454]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.27.13:749][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.27.13:799][455]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.02.11-19.27.16:422][612]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.27.16:427][612]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.27.16:907][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.27.17:133][639]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_29D732D284495569EF2FC27917DAC895C.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.11-19.27.17:161][639]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.232
+[2019.02.11-19.27.28:469][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_RingFull2)
+[2019.02.11-19.27.40:316][ 22]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_RingFull5)
+[2019.02.11-19.28.14:513][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.28.14:730][ 68]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_256091E2049B1DF28076E92A8EBCEA72D.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.11-19.28.14:754][ 68]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.224
+[2019.02.11-19.28.17:175][213]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts)
+[2019.02.11-19.28.21:991][500]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.28.22:114][507]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/ShoppingCarts.ShoppingCarts
+[2019.02.11-19.28.22:575][507]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.02.11-19.28.23:297][507]LogSlate: Took 0.004930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.11-19.28.23:502][508]LogSlate: Took 0.005358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.11-19.28.39:077][439]LogRenderer: Reallocating scene render targets to support 936x500 Format 26 NumSamples 1 (Frame:1).
+[2019.02.11-19.28.43:076][602]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.28.45:726][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.29.03:315][745]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts2)
+[2019.02.11-19.29.07:319][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.29.07:494][993]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scannables.Scannables
+[2019.02.11-19.29.30:500][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.29.30:658][348]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Spawner.Spawner
+[2019.02.11-19.30.18:510][193]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.31.19:254][813]Cmd: TRANSACTION UNDO
+[2019.02.11-19.31.19:254][813]LogEditorTransaction: Undo Add Variable
+[2019.02.11-19.31.19:481][821]Cmd: TRANSACTION UNDO
+[2019.02.11-19.31.19:482][821]LogEditorTransaction: Undo Delete current selection
+[2019.02.11-19.31.19:764][831]Cmd: TRANSACTION UNDO
+[2019.02.11-19.31.19:764][831]LogEditorTransaction: Undo Rename Node
+[2019.02.11-19.31.23:892][ 76]LogEditorTransaction: Undo Move Node
+[2019.02.11-19.31.24:120][ 84]LogEditorTransaction: Undo Move Node
+[2019.02.11-19.31.24:303][ 89]LogEditorTransaction: Undo Move Node
+[2019.02.11-19.31.36:159][787]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.32.26:263][758]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.33.36:362][558]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.33.47:359][202]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.35.58:168][ 34]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Box Brush2)
+[2019.02.11-19.35.59:198][ 93]Cmd: DELETE
+[2019.02.11-19.35.59:198][ 93]Cmd: ACTOR DELETE
+[2019.02.11-19.35.59:213][ 93]LogEditorActor: Deleted Actor: BlockingVolume
+[2019.02.11-19.35.59:242][ 93]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.02.11-19.36.01:015][200]LogEditorViewport: Clicking on Actor (LMB): BlockingVolume (Box Brush)
+[2019.02.11-19.36.01:739][242]Cmd: DELETE
+[2019.02.11-19.36.01:739][242]Cmd: ACTOR DELETE
+[2019.02.11-19.36.01:742][242]LogEditorActor: Deleted Actor: BlockingVolume
+[2019.02.11-19.36.01:773][242]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.02.11-19.36.11:389][780]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.36.47:185][856]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.36.48:265][907]LogEditorTransaction: Undo Break Pin Links
+[2019.02.11-19.36.50:592][ 42]LogEditorTransaction: Undo Move Node
+[2019.02.11-19.36.51:266][ 79]LogEditorTransaction: Undo Create Pin Link
+[2019.02.11-19.37.17:663][654]BlueprintLog: New page: Compile Spawner
+[2019.02.11-19.37.45:660][320]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.11-19.37.49:606][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.38.18:736][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.38.19:010][302]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_2_Auto1867FCB0244E5E55B52AB088067708A93.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_2_Auto1.umap'
+[2019.02.11-19.38.19:013][302]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default_2' took 0.254
+[2019.02.11-19.38.19:013][302]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.254
+[2019.02.11-19.38.19:019][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Scannables] ([1] browsable assets)...
+[2019.02.11-19.38.19:034][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Scannables.Scannables]
+[2019.02.11-19.38.19:034][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Scannables]
+[2019.02.11-19.38.19:141][302]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scannables_Auto1A1E7E1404CAA3E720146D28879863847.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Scannables_Auto1.uasset'
+[2019.02.11-19.38.19:143][302]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Spawner] ([1] browsable assets)...
+[2019.02.11-19.38.19:153][302]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Spawner.Spawner]
+[2019.02.11-19.38.19:153][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Spawner]
+[2019.02.11-19.38.19:260][302]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Spawner_Auto12174B10E4C0FF8434191EAB083CAF012.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Autosaves/Game/Blueprints/Spawner_Auto1.uasset'
+[2019.02.11-19.38.19:261][302]LogFileHelpers: Auto-saving content packages took 0.243
+[2019.02.11-19.38.21:660][444]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.38.21:912][444]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_296E2FF5B4E8FF30439EB848D9B8FB2C8.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.11-19.38.21:937][444]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.258
+[2019.02.11-19.38.21:950][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Scannables" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scannables.uasset" SILENT=true
+[2019.02.11-19.38.22:051][444]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Scannables8795D1914E034D713E7950A40B90EFE7.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Scannables.uasset'
+[2019.02.11-19.38.22:065][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Spawner" FILE="../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset" SILENT=true
+[2019.02.11-19.38.22:163][444]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Spawner14789CB94E823EF405E76582FC5DC406.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/Blueprints/Spawner.uasset'
+[2019.02.11-19.39.35:363][237]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.11-19.41.57:816][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.42.47:229][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.42.47:229][715]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.11-19.42.47:262][715]LogPlayLevel: [PlayLevel] Compiling Scannables before play...
+[2019.02.11-19.42.47:457][715]LogPlayLevel: PlayLevel: Blueprint regeneration took 228 ms (1 blueprints)
+[2019.02.11-19.42.47:457][715]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 9:42:47 AM)
+[2019.02.11-19.42.47:457][715]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.11-19.42.47:463][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005689s)
+[2019.02.11-19.42.47:464][715]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.11-19.42.47:464][715]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2019.02.11-19.42.47:464][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006603s)
+[2019.02.11-19.42.47:507][715]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.11-19.42.47:517][715]LogInit: FAudioDevice initialized.
+[2019.02.11-19.42.47:521][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.42.47:523][715]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.42.47:614][715]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.02.11-19.42.47:648][715]LogLoad: Game class is 'GameModeBase'
+[2019.02.11-19.42.47:650][715]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.11-14.42.47
+[2019.02.11-19.42.47:651][715]LogWorld: Bringing up level for play took: 0.001686
+[2019.02.11-19.42.47:664][715]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.11-19.42.47:664][715]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.11-19.42.47:665][715]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.11-19.42.47:668][715]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.11-19.42.47:675][715]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.865
+[2019.02.11-19.42.47:675][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.42.47:676][715]LogEngine: Changing dynamic resolution state.
+[2019.02.11-19.42.47:687][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:687][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:687][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:687][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:689][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:689][715]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.42.47:700][715]LogRenderer: Reallocating scene render targets to support 2656x1584 Format 26 NumSamples 1 (Frame:1).
+[2019.02.11-19.42.47:700][715]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.02.11-19.42.47:753][717]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.02.11-19.42.48:337][753]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.11-19.42.49:537][850]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.11-19.42.50:747][953]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.11-19.42.51:958][ 59]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.11-19.42.53:167][164]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.11-19.42.54:372][265]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.11-19.42.55:587][367]LogBlueprintUserMessages: [MotionControllerPawn_2] 113
+[2019.02.11-19.42.56:800][469]LogBlueprintUserMessages: [MotionControllerPawn_2] 112
+[2019.02.11-19.42.58:016][571]LogBlueprintUserMessages: [MotionControllerPawn_2] 111
+[2019.02.11-19.42.59:222][676]LogBlueprintUserMessages: [MotionControllerPawn_2] 110
+[2019.02.11-19.43.00:430][780]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.11-19.43.01:640][882]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.11-19.43.02:768][978]LogBlueprintUserMessages: [ShoppingCarts_2] I aint no theif
+[2019.02.11-19.43.02:813][982]LogBlueprintUserMessages: [ShoppingCarts_2] I aint no theif
+[2019.02.11-19.43.02:813][982]LogBlueprintUserMessages: [ShoppingCarts_2] I aint no theif
+[2019.02.11-19.43.02:849][985]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.11-19.43.02:862][986]LogBlueprintUserMessages: [ShoppingCarts_2] I aint no theif
+[2019.02.11-19.43.04:061][ 89]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.11-19.43.05:269][194]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.11-19.43.06:478][296]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.11-19.43.07:687][402]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.11-19.43.08:908][511]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.11-19.43.10:116][617]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.11-19.43.11:179][709]LogScript: Warning: Attempted to access Scannables_C_18 via property K2Node_DynamicCast_AsScannables, but Scannables_C_18 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.43.11:179][709]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_18 via property K2Node_DynamicCast_AsScannables, but Scannables_C_18 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.43.11:329][722]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.11-19.43.12:540][827]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.11-19.43.13:757][923]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.11-19.43.14:477][977]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.43.14:561][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.43.14:610][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.43.14:624][977]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.11-19.43.14:659][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.11-19.43.14:660][977]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.43.14:709][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.43.14:744][978]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.02.11-19.43.14:744][978]LogEngine: Changing dynamic resolution state.
+[2019.02.11-19.43.20:415][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SuperGrid_RingFull5)
+[2019.02.11-19.43.21:539][375]Cmd: DELETE
+[2019.02.11-19.43.21:540][375]Cmd: ACTOR DELETE
+[2019.02.11-19.43.21:542][375]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.11-19.43.21:572][375]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2019.02.11-19.43.22:928][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.43.23:011][462]LogTemp: Repeating last play command: VR Preview
+[2019.02.11-19.43.23:028][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.43.23:028][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.11-19.43.23:028][462]LogHMD: Initializing OVRPlugin session
+[2019.02.11-19.43.23:292][462]PIE: New page: PIE session: Minimal_Default_2 (Feb 11, 2019, 9:43:23 AM)
+[2019.02.11-19.43.23:292][462]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2
+[2019.02.11-19.43.23:298][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005674s)
+[2019.02.11-19.43.23:298][462]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.11-19.43.23:298][462]LogPlayLevel: PIE: World Init took: (0.000473s)
+[2019.02.11-19.43.23:298][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 (0.006261s)
+[2019.02.11-19.43.23:338][462]LogInit: XAudio2 using 'Headphones (2- Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.11-19.43.23:347][462]LogInit: FAudioDevice initialized.
+[2019.02.11-19.43.23:355][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.11-19.43.23:446][462]LogHMD: Allocating Oculus 2656 x 1584 rendertarget swapchain
+[2019.02.11-19.43.23:478][462]LogLoad: Game class is 'GameModeBase'
+[2019.02.11-19.43.23:484][462]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.11-14.43.23
+[2019.02.11-19.43.23:484][462]LogWorld: Bringing up level for play took: 0.005006
+[2019.02.11-19.43.23:500][462]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.11-19.43.23:501][462]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.11-19.43.23:505][462]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.11-19.43.23:506][462]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.11-19.43.23:520][462]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2 0.711
+[2019.02.11-19.43.23:521][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.43.23:522][462]LogEngine: Changing dynamic resolution state.
+[2019.02.11-19.43.23:529][462]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.02.11-19.43.23:529][462]LogHMD: Allocating Oculus 2656 x 1584 depth rendertarget swapchain
+[2019.02.11-19.43.23:604][464]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2019.02.11-19.43.24:181][494]LogBlueprintUserMessages: [MotionControllerPawn_2] 119
+[2019.02.11-19.43.25:397][551]LogBlueprintUserMessages: [MotionControllerPawn_2] 118
+[2019.02.11-19.43.26:600][605]LogBlueprintUserMessages: [MotionControllerPawn_2] 117
+[2019.02.11-19.43.27:803][659]LogBlueprintUserMessages: [MotionControllerPawn_2] 116
+[2019.02.11-19.43.29:004][713]LogBlueprintUserMessages: [MotionControllerPawn_2] 115
+[2019.02.11-19.43.30:228][768]LogBlueprintUserMessages: [MotionControllerPawn_2] 114
+[2019.02.11-19.43.31:450][823]LogBlueprintUserMessages: [MotionControllerPawn_2] 113
+[2019.02.11-19.43.32:694][879]LogBlueprintUserMessages: [MotionControllerPawn_2] 112
+[2019.02.11-19.43.33:916][934]LogBlueprintUserMessages: [MotionControllerPawn_2] 111
+[2019.02.11-19.43.35:139][989]LogBlueprintUserMessages: [MotionControllerPawn_2] 110
+[2019.02.11-19.43.36:339][ 43]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.11-19.43.37:552][124]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.11-19.43.38:757][177]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.11-19.43.39:960][234]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.11-19.43.41:017][305]LogScript: Warning: Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.43.41:017][305]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_9 via property K2Node_DynamicCast_AsScannables, but Scannables_C_9 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.43.41:174][312]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.11-19.43.42:377][366]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.11-19.43.43:581][420]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.11-19.43.44:782][474]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.11-19.43.45:983][528]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.11-19.43.47:206][583]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.11-19.43.48:450][639]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.11-19.43.48:917][660]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.48:938][661]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:072][667]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:073][667]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:339][679]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:362][680]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:562][689]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.49:653][693]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.11-19.43.49:762][698]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:074][712]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:162][716]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:185][717]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:453][729]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:474][730]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:653][738]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.50:852][747]LogBlueprintUserMessages: [MotionControllerPawn_2] 97
+[2019.02.11-19.43.51:251][765]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.51:295][767]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.51:452][774]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.51:562][779]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.51:607][781]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.51:962][797]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.52:051][801]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.52:095][803]LogBlueprintUserMessages: [MotionControllerPawn_2] 96
+[2019.02.11-19.43.52:895][839]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.52:895][839]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.53:073][847]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.53:073][847]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.43.53:296][857]LogBlueprintUserMessages: [MotionControllerPawn_2] 95
+[2019.02.11-19.43.54:518][912]LogBlueprintUserMessages: [MotionControllerPawn_2] 94
+[2019.02.11-19.43.55:762][968]LogBlueprintUserMessages: [MotionControllerPawn_2] 93
+[2019.02.11-19.43.56:962][ 22]LogBlueprintUserMessages: [MotionControllerPawn_2] 92
+[2019.02.11-19.43.58:207][ 78]LogBlueprintUserMessages: [MotionControllerPawn_2] 91
+[2019.02.11-19.43.59:409][152]LogBlueprintUserMessages: [MotionControllerPawn_2] 90
+[2019.02.11-19.44.00:618][235]LogBlueprintUserMessages: [MotionControllerPawn_2] 89
+[2019.02.11-19.44.01:843][290]LogBlueprintUserMessages: [MotionControllerPawn_2] 88
+[2019.02.11-19.44.03:048][344]LogBlueprintUserMessages: [MotionControllerPawn_2] 87
+[2019.02.11-19.44.04:250][398]LogBlueprintUserMessages: [MotionControllerPawn_2] 86
+[2019.02.11-19.44.05:471][453]LogBlueprintUserMessages: [MotionControllerPawn_2] 85
+[2019.02.11-19.44.06:690][514]LogBlueprintUserMessages: [MotionControllerPawn_2] 84
+[2019.02.11-19.44.07:893][568]LogBlueprintUserMessages: [MotionControllerPawn_2] 83
+[2019.02.11-19.44.09:094][622]LogBlueprintUserMessages: [MotionControllerPawn_2] 82
+[2019.02.11-19.44.10:295][676]LogBlueprintUserMessages: [MotionControllerPawn_2] 81
+[2019.02.11-19.44.11:517][731]LogBlueprintUserMessages: [MotionControllerPawn_2] 80
+[2019.02.11-19.44.12:053][755]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.12:075][756]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.12:517][776]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.12:740][786]LogBlueprintUserMessages: [MotionControllerPawn_2] 79
+[2019.02.11-19.44.13:940][840]LogBlueprintUserMessages: [MotionControllerPawn_2] 78
+[2019.02.11-19.44.15:177][922]LogBlueprintUserMessages: [MotionControllerPawn_2] 77
+[2019.02.11-19.44.15:265][926]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.15:265][926]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.16:402][977]LogBlueprintUserMessages: [MotionControllerPawn_2] 76
+[2019.02.11-19.44.17:606][ 31]LogBlueprintUserMessages: [MotionControllerPawn_2] 75
+[2019.02.11-19.44.18:828][ 86]LogBlueprintUserMessages: [MotionControllerPawn_2] 74
+[2019.02.11-19.44.20:030][140]LogBlueprintUserMessages: [MotionControllerPawn_2] 73
+[2019.02.11-19.44.21:246][204]LogBlueprintUserMessages: [MotionControllerPawn_2] 72
+[2019.02.11-19.44.22:449][258]LogBlueprintUserMessages: [MotionControllerPawn_2] 71
+[2019.02.11-19.44.23:671][320]LogBlueprintUserMessages: [MotionControllerPawn_2] 70
+[2019.02.11-19.44.24:893][375]LogBlueprintUserMessages: [MotionControllerPawn_2] 69
+[2019.02.11-19.44.24:916][376]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.24:938][377]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.26:096][429]LogBlueprintUserMessages: [MotionControllerPawn_2] 68
+[2019.02.11-19.44.27:318][484]LogBlueprintUserMessages: [MotionControllerPawn_2] 67
+[2019.02.11-19.44.28:518][538]LogBlueprintUserMessages: [MotionControllerPawn_2] 66
+[2019.02.11-19.44.29:762][594]LogBlueprintUserMessages: [MotionControllerPawn_2] 65
+[2019.02.11-19.44.31:002][657]LogBlueprintUserMessages: [MotionControllerPawn_2] 64
+[2019.02.11-19.44.32:204][711]LogBlueprintUserMessages: [MotionControllerPawn_2] 63
+[2019.02.11-19.44.33:405][765]LogBlueprintUserMessages: [MotionControllerPawn_2] 62
+[2019.02.11-19.44.34:624][826]LogBlueprintUserMessages: [MotionControllerPawn_2] 61
+[2019.02.11-19.44.35:848][881]LogBlueprintUserMessages: [MotionControllerPawn_2] 60
+[2019.02.11-19.44.37:050][935]LogBlueprintUserMessages: [MotionControllerPawn_2] 59
+[2019.02.11-19.44.38:269][997]LogBlueprintUserMessages: [MotionControllerPawn_2] 58
+[2019.02.11-19.44.39:427][ 49]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:427][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:449][ 50]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:449][ 50]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:471][ 51]LogBlueprintUserMessages: [MotionControllerPawn_2] 57
+[2019.02.11-19.44.39:472][ 51]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:472][ 51]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:493][ 52]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:494][ 52]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:516][ 53]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:516][ 53]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:538][ 54]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:538][ 54]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:560][ 55]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:561][ 55]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:582][ 56]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:582][ 56]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:604][ 57]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:604][ 57]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:627][ 58]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:627][ 58]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:649][ 59]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:649][ 59]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:671][ 60]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:671][ 60]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.39:694][ 61]LogScript: Warning: Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill
+	Conveyor_C /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default_2.Minimal_Default_2:PersistentLevel.Conveyor_6
+	Function /Game/Blueprints/Conveyor.Conveyor_C:ExecuteUbergraph_Conveyor:0070
+[2019.02.11-19.44.39:694][ 61]PIE: Error: Blueprint Runtime Error: "Attempted to access Scannables_C_74 via property K2Node_DynamicCast_AsScannables, but Scannables_C_74 is pending kill". Blueprint:  Conveyor Function:  Execute Ubergraph Conveyor Graph:  EventGraph Node:  Branch
+[2019.02.11-19.44.40:695][105]LogBlueprintUserMessages: [MotionControllerPawn_2] 56
+[2019.02.11-19.44.41:896][159]LogBlueprintUserMessages: [MotionControllerPawn_2] 55
+[2019.02.11-19.44.43:073][212]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.43:074][212]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.43:117][214]LogBlueprintUserMessages: [MotionControllerPawn_2] 54
+[2019.02.11-19.44.44:319][268]LogBlueprintUserMessages: [MotionControllerPawn_2] 53
+[2019.02.11-19.44.45:542][323]LogBlueprintUserMessages: [MotionControllerPawn_2] 52
+[2019.02.11-19.44.46:763][378]LogBlueprintUserMessages: [MotionControllerPawn_2] 51
+[2019.02.11-19.44.47:986][433]LogBlueprintUserMessages: [MotionControllerPawn_2] 50
+[2019.02.11-19.44.49:230][489]LogBlueprintUserMessages: [MotionControllerPawn_2] 49
+[2019.02.11-19.44.50:454][544]LogBlueprintUserMessages: [MotionControllerPawn_2] 48
+[2019.02.11-19.44.51:675][599]LogBlueprintUserMessages: [MotionControllerPawn_2] 47
+[2019.02.11-19.44.51:720][601]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.51:720][601]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.52:875][653]LogBlueprintUserMessages: [MotionControllerPawn_2] 46
+[2019.02.11-19.44.53:074][662]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.53:097][663]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.53:963][702]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.54:098][708]LogBlueprintUserMessages: [MotionControllerPawn_2] 45
+[2019.02.11-19.44.54:542][728]LogBlueprintUserMessages: [ShoppingCarts4] I aint no theif
+[2019.02.11-19.44.55:319][763]LogBlueprintUserMessages: [MotionControllerPawn_2] 44
+[2019.02.11-19.44.56:521][817]LogBlueprintUserMessages: [MotionControllerPawn_2] 43
+[2019.02.11-19.44.57:764][873]LogBlueprintUserMessages: [MotionControllerPawn_2] 42
+[2019.02.11-19.44.58:965][927]LogBlueprintUserMessages: [MotionControllerPawn_2] 41
+[2019.02.11-19.45.00:189][982]LogBlueprintUserMessages: [MotionControllerPawn_2] 40
+[2019.02.11-19.45.01:050][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.45.01:064][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.45.01:078][ 20]LogSlate: Window 'MyProject3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.11-19.45.01:090][ 20]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.45.01:132][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.11-19.45.01:132][ 20]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Minimal_Default_2'
+[2019.02.11-19.45.01:190][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.45.01:239][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.02.11-19.45.01:249][ 21]LogProfilingDebugging: Allocated a 1170 x 543 texture for HMD canvas layer
+[2019.02.11-19.45.05:779][289]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.45.05:807][289]LogSlate: Window 'Message Log' being destroyed
+[2019.02.11-19.45.38:167][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.45.38:428][228]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_21A4A469841C2A5F7A898E7A02252911B.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.11-19.45.38:453][228]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.269
+[2019.02.11-19.45.54:471][189]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume3)
+[2019.02.11-19.46.13:590][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.46.13:848][328]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Saved/Minimal_Default_2E3816533450CE11188CFDC9A429A7938.tmp' to '../../../../../../Users/Gretchen/Documents/humanStuff/MyProject3/Content/StarterContent/Maps/Minimal_Default_2.umap'
+[2019.02.11-19.46.13:872][328]LogFileHelpers: Saving map 'Minimal_Default_2' took 0.265
+[2019.02.11-19.47.09:457][659]LogEditorViewport: Clicking on Actor (LMB): ShoppingCarts_C (ShoppingCarts4)
+[2019.02.11-19.47.18:607][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.11-19.47.32:479][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.47.49:954][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.11-19.47.55:486][282]LogUObjectArray: Warning: Empty slot
+[2019.02.11-19.47.55:487][282]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.11-19.47.55:756][282]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.269 s
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: 
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: Stack: 
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff993bd8304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff993be81ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff99103bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff98fba769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff98fb60917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff9a2fb7c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff9a3204393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff9a3012d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff9a300ee18 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff9a300e483 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.11-19.47.55:756][282]LogOutputDevice: Error: [Callstack] 0x00007ff779077094 UE4Editor.exe!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ff77908596c UE4Editor.exe!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ff7790859ea UE4Editor.exe!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ff7790948da UE4Editor.exe!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ff77909659a UE4Editor.exe!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ffa13fb3034 KERNEL32.DLL!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: [Callstack] 0x00007ffa15cd3691 ntdll.dll!UnknownFunction []
+[2019.02.11-19.47.55:757][282]LogOutputDevice: Error: 
+[2019.02.11-19.47.55:767][282]LogStats:                SubmitErrorReport -  0.000 s

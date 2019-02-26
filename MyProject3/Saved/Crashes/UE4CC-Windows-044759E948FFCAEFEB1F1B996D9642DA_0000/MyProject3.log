@@ -1,0 +1,1502 @@
+﻿Log file open, 01/25/19 12:18:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject3
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.404089
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.098s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.01.25-17.18.53:138][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.01.25-17.18.53:138][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:139][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.25-17.18.53:141][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.25-17.18.53:142][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.25-17.18.53:142][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-17.18.53:142][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.01.25-17.18.53:150][  0]LogHAL: Display: Platform has ~ 16 GB [17018638336 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.01.25-17.18.53:150][  0]LogInit: Going up to parent DeviceProfile []
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.01.25-17.18.53:150][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.01.25-17.18.53:151][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.01.25-17.18.53:151][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.01.25-17.18.53:151][  0]LogInit: Computer: MSI
+[2019.01.25-17.18.53:151][  0]LogInit: User: Gretchen
+[2019.01.25-17.18.53:151][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.01.25-17.18.53:151][  0]LogInit: High frequency timer resolution =2.156254 MHz
+[2019.01.25-17.18.53:151][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.01.25-17.18.53:151][  0]LogMemory: Platform Memory Stats for Windows
+[2019.01.25-17.18.53:151][  0]LogMemory: Process Physical Memory: 103.45 MB used, 103.45 MB peak
+[2019.01.25-17.18.53:151][  0]LogMemory: Process Virtual Memory: 86.34 MB used, 86.34 MB peak
+[2019.01.25-17.18.53:151][  0]LogMemory: Physical Memory: 4075.32 MB used,  12154.92 MB free, 16230.24 MB total
+[2019.01.25-17.18.53:151][  0]LogMemory: Virtual Memory: 4665.10 MB used,  134213064.00 MB free, 134217728.00 MB total
+[2019.01.25-17.18.53:337][  0]LogInit: Using OS detected language (en-US).
+[2019.01.25-17.18.53:337][  0]LogInit: Using OS detected locale (en-US).
+[2019.01.25-17.18.53:338][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.01.25-17.18.53:644][  0]LogStreaming: Display: Took  0.308s to InitEngineTextLocalization.
+[2019.01.25-17.18.53:645][  0]LogInit: Setting process to per monitor DPI aware
+[2019.01.25-17.18.53:669][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.01.25-17.18.53:669][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.01.25-17.18.53:855][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.25-17.18.53:855][  0]LogD3D11RHI: D3D11 adapters:
+[2019.01.25-17.18.53:936][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.01.25-17.18.53:936][  0]LogD3D11RHI:       6052/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.01.25-17.18.53:946][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.01.25-17.18.53:946][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.01.25-17.18.53:949][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.01.25-17.18.53:949][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.01.25-17.18.53:949][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.01.25-17.18.53:972][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.01.25-17.18.53:972][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.01.25-17.18.53:972][  0]LogWindows: EnumDisplayDevices:
+[2019.01.25-17.18.53:972][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.01.25-17.18.53:973][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.01.25-17.18.53:973][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.01.25-17.18.53:974][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.01.25-17.18.53:974][  0]LogD3D11RHI:   Driver Version: 398.35 (internal:24.21.13.9835, unified:398.35)
+[2019.01.25-17.18.53:974][  0]LogD3D11RHI:      Driver Date: 6-21-2018
+[2019.01.25-17.18.53:974][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.01.25-17.18.54:007][  0]LogD3D11RHI: Async texture creation enabled
+[2019.01.25-17.18.54:025][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.01.25-17.18.54:504][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.01.25-17.18.54:515][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.01.25-17.18.54:526][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.01.25-17.18.54:537][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.01.25-17.18.54:548][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.01.25-17.18.54:559][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.01.25-17.18.54:569][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.01.25-17.18.54:580][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.01.25-17.18.54:586][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:647][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.01.25-17.18.54:649][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.01.25-17.18.54:705][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.25-17.18.54:705][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.01.25-17.18.54:724][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.25-17.18.54:724][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.01.25-17.18.54:734][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.01.25-17.18.54:743][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.01.25-17.18.54:753][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.01.25-17.18.54:764][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.01.25-17.18.54:800][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.25-17.18.54:800][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.01.25-17.18.54:800][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.01.25-17.18.54:850][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Intermediate/Shaders/WorkingDirectory/19820/).
+[2019.01.25-17.18.54:850][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gretchen/AppData/Local/Temp/UnrealShaderWorkingDir/968908AB4F50F7CFBDACDC872D2EE310/'.
+[2019.01.25-17.18.54:852][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.01.25-17.18.54:852][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.01.25-17.18.54:852][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.01.25-17.18.55:288][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: Loaded boot cache 0.05s 85MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.25-17.18.55:339][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.01.25-17.18.55:350][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.01.25-17.18.55:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.01.25-17.18.55:350][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.01.25-17.18.55:363][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gretchen/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.01.25-17.18.55:363][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.01.25-17.18.55:363][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.01.25-17.18.55:385][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.01.25-17.18.55:386][  0]LogSlate: Using FreeType 2.6.0
+[2019.01.25-17.18.55:387][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.01.25-17.18.55:464][  0]LogAssetRegistry: FAssetRegistry took 0.0313 seconds to start up
+[2019.01.25-17.18.55:716][  0]LogInit: Selected Device Profile: [Windows]
+[2019.01.25-17.18.55:843][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.01.25-17.18.55:846][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.01.25-17.18.55:846][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.01.25-17.18.55:846][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.01.25-17.18.55:846][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.01.25-17.18.55:856][  0]LogNetVersion: MyProject3 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2916331349)
+[2019.01.25-17.18.56:265][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.070553 seconds
+[2019.01.25-17.18.56:269][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.01.25-17.18.56:269][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.01.25-17.18.56:269][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.01.25-17.18.57:010][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.01.25-17.18.57:023][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.01.25-17.18.57:858][  0]SourceControl: Source control is disabled
+[2019.01.25-17.18.57:858][  0]SourceControl: Source control is disabled
+[2019.01.25-17.18.57:859][  0]SourceControl: Source control is disabled
+[2019.01.25-17.18.57:860][  0]SourceControl: Source control is disabled
+[2019.01.25-17.18.58:011][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.01.25-17.18.58:233][  0]LogOcInput: OculusInput pre-init called
+[2019.01.25-17.18.58:357][  0]LogEngine: Initializing Engine...
+[2019.01.25-17.18.58:381][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2019.01.25-17.18.58:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.25-17.18.58:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-17.18.58:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.25-17.18.58:382][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-17.18.58:575][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.01.25-17.18.58:586][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.01.25-17.18.58:594][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-17.18.58:760][  0]LogInit: FAudioDevice initialized.
+[2019.01.25-17.18.58:760][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.01.25-17.18.58:972][  0]LogDerivedDataCache: Saved boot cache 0.21s 85MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.01.25-17.18.58:978][  0]LogInit: Texture streaming: Enabled
+[2019.01.25-17.18.58:995][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.01.25-17.18.59:005][  0]LogInit: Transaction tracking system initialized
+[2019.01.25-17.18.59:025][  0]BlueprintLog: New page: Editor Load
+[2019.01.25-17.18.59:088][  0]LocalizationService: Localization service is disabled
+[2019.01.25-17.18.59:502][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/465Projects/MyProject3/Content/' took 0.01s
+[2019.01.25-17.18.59:502][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.01.25-17.18.59:502][  0]LogCook: Display: Mobile HDR setting 1
+[2019.01.25-17.18.59:502][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.01.25-17.18.59:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.01.25-17.18.59:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.01.25-17.18.59:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.01.25-17.18.59:502][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.01.25-17.18.59:611][  0]SourceControl: Source control is disabled
+[2019.01.25-17.18.59:611][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.25-17.18.59:611][  0]LightingResults: New page: Lighting Build
+[2019.01.25-17.18.59:614][  0]MapCheck: New page: Map Check
+[2019.01.25-17.18.59:614][  0]LightingResults: New page: Lighting Build
+[2019.01.25-17.18.59:640][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:640][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:640][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Conveyor
+[2019.01.25-17.18.59:640][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:641][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:641][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Conveyor
+[2019.01.25-17.18.59:902][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:902][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:902][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Spawner
+[2019.01.25-17.18.59:902][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:903][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/WhoKnows
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:903][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Timer
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:903][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Conveyor
+[2019.01.25-17.18.59:903][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:904][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:904][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/WhoKnows
+[2019.01.25-17.18.59:917][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:918][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:918][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Conveyor
+[2019.01.25-17.18.59:918][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:918][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:918][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Spawner
+[2019.01.25-17.18.59:918][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:918][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:918][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/WhoKnows
+[2019.01.25-17.18.59:942][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:942][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:942][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Timer
+[2019.01.25-17.18.59:950][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:951][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Conveyor
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:951][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/Spawner
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:951][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Blueprints/WhoKnows
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:951][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:952][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Timer
+[2019.01.25-17.18.59:953][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:953][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading ../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Content/VirtualRealityBP/Maps/StartupMap.umap.
+[2019.01.25-17.18.59:953][  0]LoadErrors: Error: /Game/VirtualRealityBP/Maps/StartupMap : Can't find file for asset. /Game/Timer
+[2019.01.25-17.18.59:954][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:954][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:954][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:954][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:954][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading NULL.
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:955][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading NULL.
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.18.59:956][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading NULL.
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:957][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.18.59:958][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:958][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:958][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Conveyor'
+[2019.01.25-17.18.59:958][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Conveyor' while loading NULL.
+[2019.01.25-17.18.59:962][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:962][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:962][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/WhoKnows'
+[2019.01.25-17.18.59:962][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/WhoKnows' while loading NULL.
+[2019.01.25-17.18.59:965][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:965][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading NULL.
+[2019.01.25-17.18.59:965][  0]LogLinker: Warning: Can't find file '/Game/Blueprints/Spawner'
+[2019.01.25-17.18.59:965][  0]LogLinker: Warning: Can't find file for asset '/Game/Blueprints/Spawner' while loading NULL.
+[2019.01.25-17.18.59:966][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:966][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.18.59:966][  0]LogLinker: Warning: Can't find file '/Game/Timer'
+[2019.01.25-17.18.59:966][  0]LogLinker: Warning: Can't find file for asset '/Game/Timer' while loading NULL.
+[2019.01.25-17.19.00:196][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-17.19.00:207][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.25-17.19.00:235][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.25-17.19.00:235][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.147ms to complete.
+[2019.01.25-17.19.00:235][  0]LogFileHelpers: Loading map 'StartupMap' took 0.624
+[2019.01.25-17.19.00:356][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.19.00:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.19.00:368][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.19.00:373][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.19.00:391][  0]LogCollectionManager: Loaded 0 collections in 0.001434 seconds
+[2019.01.25-17.19.00:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/465Projects/MyProject3/Saved/Collections/' took 0.01s
+[2019.01.25-17.19.00:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/465Projects/MyProject3/Content/Developers/Gretchen/Collections/' took 0.01s
+[2019.01.25-17.19.00:462][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gretchen/Documents/465Projects/MyProject3/Content/Collections/' took 0.01s
+[2019.01.25-17.19.00:462][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.01.25-17.19.00:473][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2651 classes and 620 folders.
+[2019.01.25-17.19.00:494][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-17.19.00:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:510][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:512][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:526][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:541][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:543][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:545][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:547][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:549][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:552][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:553][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:556][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:559][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:560][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:562][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:564][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:566][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:573][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:576][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:581][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.01.25-17.19.00:694][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-17.19.00:717][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.01.25-17.19.00:813][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.01.25-17.19.00:814][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.01.25-17.19.00:823][  0]LogSlate: Took 0.001065 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.01.25-17.19.00:904][  0]LogRenderer: Reallocating scene render targets to support 1012x436 Format 26 NumSamples 1 (Frame:1).
+[2019.01.25-17.19.01:035][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.01.25-17.19.01:035][  0]LogLoad: (Engine Initialization) Total time: 9.72 seconds
+[2019.01.25-17.19.01:035][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.01.25-17.19.01:047][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': Conveyor_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Conveyor_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': Conveyor_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Conveyor_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': WhoKnows_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.WhoKnows_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Conveyor_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Conveyor_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Spawner_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Spawner_5
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Timer_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Timer_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': WhoKnows_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.WhoKnows_2
+[2019.01.25-17.19.01:048][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': Timer_C /Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.Timer_2
+[2019.01.25-17.19.01:095][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.01.25-17.19.01:098][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.25-17.19.01:135][  0]LogSlate: Took 0.001159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-17.19.01:336][  3]LogAssetRegistry: Asset discovery search completed in 5.8951 seconds
+[2019.01.25-17.19.01:338][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.01.25-17.19.01:338][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.01.25-17.19.02:058][ 87]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.25-17.19.06:436][550]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-17.19.06:443][550]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-17.19.16:243][681]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.19.18:045][888]LogTemp: Repeating last play command: Simulate
+[2019.01.25-17.19.18:057][888]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-17.19.18:057][888]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-17.19.18:059][888]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 7:19:18 AM)
+[2019.01.25-17.19.18:072][888]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-17.19.18:079][888]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007171s)
+[2019.01.25-17.19.18:079][888]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-17.19.18:080][888]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.01.25-17.19.18:080][888]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007851s)
+[2019.01.25-17.19.18:107][888]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-17.19.18:186][888]LogInit: FAudioDevice initialized.
+[2019.01.25-17.19.18:237][888]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-17.19.18:237][888]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-17.19.18:240][888]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2019.01.25-12.19.18
+[2019.01.25-17.19.18:244][888]LogWorld: Bringing up level for play took: 0.005161
+[2019.01.25-17.19.18:258][888]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-17.19.18:275][888]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.01.25-17.19.18:277][888]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-17.19.18:280][888]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-17.19.18:291][888]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-17.19.18:292][888]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-17.19.18:292][888]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.721
+[2019.01.25-17.19.18:301][888]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-17.19.27:327][953]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.19.43:531][843]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-17.20.00:844][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.20.01:048][700]LogHttp: Warning: 00000268AE44BEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.20.01:048][700]LogHttp: Warning: 00000268AE44BEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.20.01:048][700]LogHttp: Warning: 00000268AE44BEC0: libcurl info message cache 1 (Closing connection 0)
+[2019.01.25-17.20.01:048][700]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.22.01:075][ 31]LogHttp: Warning: 00000268AE448900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.22.01:075][ 31]LogHttp: Warning: 00000268AE448900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.22.01:075][ 31]LogHttp: Warning: 00000268AE448900: libcurl info message cache 1 (Closing connection 1)
+[2019.01.25-17.22.01:084][ 32]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.24.01:118][393]LogHttp: Warning: 00000268AE5D4CC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.24.01:118][393]LogHttp: Warning: 00000268AE5D4CC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.24.01:118][393]LogHttp: Warning: 00000268AE5D4CC0: libcurl info message cache 1 (Closing connection 2)
+[2019.01.25-17.24.01:126][394]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.26.01:174][794]LogHttp: Warning: 00000268AE44B380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.26.01:174][794]LogHttp: Warning: 00000268AE44B380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.26.01:174][794]LogHttp: Warning: 00000268AE44B380: libcurl info message cache 1 (Closing connection 3)
+[2019.01.25-17.26.01:174][794]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.28.01:204][191]LogHttp: Warning: 00000268AE5D6840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.28.01:204][191]LogHttp: Warning: 00000268AE5D6840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.28.01:204][191]LogHttp: Warning: 00000268AE5D6840: libcurl info message cache 1 (Closing connection 4)
+[2019.01.25-17.28.01:211][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.29.10:749][533]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.29.15:263][712]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-17.29.23:574][669]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Spawner.Spawner
+[2019.01.25-17.29.23:963][669]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.01.25-17.29.27:138][816]LogSlate: Took 0.000962 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.01.25-17.29.30:368][ 96]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Scanner.Scanner
+[2019.01.25-17.29.30:602][ 96]LogSlate: Took 0.000894 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.01.25-17.29.39:950][929]LogRenderer: Reallocating scene render targets to support 1012x540 Format 26 NumSamples 1 (Frame:989).
+[2019.01.25-17.29.56:039][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.30.01:252][787]LogHttp: Warning: 00000268C6B5C900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.30.01:252][787]LogHttp: Warning: 00000268C6B5C900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.30.01:252][787]LogHttp: Warning: 00000268C6B5C900: libcurl info message cache 1 (Closing connection 5)
+[2019.01.25-17.30.01:264][788]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.30.05:303][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.30.05:415][138]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-17.30.05:416][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.30.05:453][138]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-17.30.05:453][138]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-17.30.05:481][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-17.30.05:525][140]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.01.25-17.30.22:180][868]BlueprintLog: New page: Compile Spawner
+[2019.01.25-17.32.01:306][592]LogHttp: Warning: 00000268AE4CBC40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.32.01:306][592]LogHttp: Warning: 00000268AE4CBC40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.32.01:306][592]LogHttp: Warning: 00000268AE4CBC40: libcurl info message cache 1 (Closing connection 6)
+[2019.01.25-17.32.01:306][592]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.33.31:149][691]BlueprintLog: New page: Compile Spawner
+[2019.01.25-17.34.01:317][786]LogHttp: Warning: 00000268A9BBAFC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.34.01:317][786]LogHttp: Warning: 00000268A9BBAFC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.34.01:317][786]LogHttp: Warning: 00000268A9BBAFC0: libcurl info message cache 1 (Closing connection 7)
+[2019.01.25-17.34.01:317][786]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.35.37:131][974]LogSlate: Took 0.001178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.01.25-17.36.01:354][298]LogHttp: Warning: 00000268A9C3A840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.36.01:354][298]LogHttp: Warning: 00000268A9C3A840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.36.01:354][298]LogHttp: Warning: 00000268A9C3A840: libcurl info message cache 1 (Closing connection 8)
+[2019.01.25-17.36.01:354][298]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.37.15:550][ 42]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.01.25-17.37.19:091][349]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.25-17.37.19:104][349]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.25-17.37.21:360][577]BlueprintLog: New page: Compile Spawner
+[2019.01.25-17.38.01:396][600]LogHttp: Warning: 00000268A8CF2D40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.38.01:396][600]LogHttp: Warning: 00000268A8CF2D40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.38.01:396][600]LogHttp: Warning: 00000268A8CF2D40: libcurl info message cache 1 (Closing connection 9)
+[2019.01.25-17.38.01:396][600]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.39.48:486][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.024
+[2019.01.25-17.39.48:490][757]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Spawner] ([1] browsable assets)...
+[2019.01.25-17.39.48:490][757]OBJ SavePackage: Finished generating thumbnails for package [/Game/Spawner]
+[2019.01.25-17.39.48:490][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Spawner" FILE="../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Spawner_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.01.25-17.39.48:505][757]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Spawner_Auto1307203E64DFC00D4A484E6B6031180B7.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Spawner_Auto1.uasset'
+[2019.01.25-17.39.48:507][757]LogFileHelpers: Auto-saving content packages took 0.020
+[2019.01.25-17.40.01:421][187]LogHttp: Warning: 00000268A8E716C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.40.01:421][187]LogHttp: Warning: 00000268A8E716C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.40.01:421][187]LogHttp: Warning: 00000268A8E716C0: libcurl info message cache 1 (Closing connection 10)
+[2019.01.25-17.40.01:431][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.42.01:465][ 76]LogHttp: Warning: 00000268A8E71A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.42.01:465][ 76]LogHttp: Warning: 00000268A8E71A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.42.01:465][ 76]LogHttp: Warning: 00000268A8E71A80: libcurl info message cache 1 (Closing connection 11)
+[2019.01.25-17.42.01:466][ 76]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.44.01:480][718]LogHttp: Warning: 00000268A8E73C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.44.01:480][718]LogHttp: Warning: 00000268A8E73C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.44.01:480][718]LogHttp: Warning: 00000268A8E73C40: libcurl info message cache 1 (Closing connection 12)
+[2019.01.25-17.44.01:480][718]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.44.04:644][747]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.25-17.44.04:649][747]LogSlate: Window 'Spawner*' being destroyed
+[2019.01.25-17.44.04:653][747]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.01.25-17.46.01:489][669]LogHttp: Warning: 0000026891D5B100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.46.01:489][669]LogHttp: Warning: 0000026891D5B100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.46.01:489][669]LogHttp: Warning: 0000026891D5B100: libcurl info message cache 1 (Closing connection 13)
+[2019.01.25-17.46.01:497][670]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.48.01:532][ 73]LogHttp: Warning: 0000026891D5B100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.48.01:532][ 73]LogHttp: Warning: 0000026891D5B100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.48.01:532][ 73]LogHttp: Warning: 0000026891D5B100: libcurl info message cache 1 (Closing connection 14)
+[2019.01.25-17.48.01:540][ 74]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.50.01:572][451]LogHttp: Warning: 00000268A9BE5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.50.01:572][451]LogHttp: Warning: 00000268A9BE5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.50.01:572][451]LogHttp: Warning: 00000268A9BE5A80: libcurl info message cache 1 (Closing connection 15)
+[2019.01.25-17.50.01:581][452]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.50.23:607][807]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.01.25-17.50.28:080][339]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Timer.Timer
+[2019.01.25-17.52.01:623][  6]LogHttp: Warning: 0000026895901940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.52.01:623][  6]LogHttp: Warning: 0000026895901940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.52.01:623][  6]LogHttp: Warning: 0000026895901940: libcurl info message cache 1 (Closing connection 16)
+[2019.01.25-17.52.01:623][  6]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.52.08:218][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-17.52.08:331][684]BlueprintLog: New page: Compile Timer
+[2019.01.25-17.52.46:797][231]BlueprintLog: New page: Compile Timer
+[2019.01.25-17.54.01:640][131]LogHttp: Warning: 0000026907BB4B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.54.01:640][131]LogHttp: Warning: 0000026907BB4B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.54.01:640][131]LogHttp: Warning: 0000026907BB4B80: libcurl info message cache 1 (Closing connection 17)
+[2019.01.25-17.54.01:650][132]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.54.13:660][290]BlueprintLog: New page: Compile Timer
+[2019.01.25-17.54.54:415][694]BlueprintLog: New page: Compile Timer
+[2019.01.25-17.55.25:752][222]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn
+[2019.01.25-17.55.52:632][714]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-17.56.01:699][577]LogHttp: Warning: 0000026899A87600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.56.01:699][577]LogHttp: Warning: 0000026899A87600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.56.01:699][577]LogHttp: Warning: 0000026899A87600: libcurl info message cache 1 (Closing connection 18)
+[2019.01.25-17.56.01:709][578]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.56.02:356][637]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-17.58.01:751][235]LogHttp: Warning: 000002691D77FB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-17.58.01:751][235]LogHttp: Warning: 000002691D77FB00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-17.58.01:751][235]LogHttp: Warning: 000002691D77FB00: libcurl info message cache 1 (Closing connection 19)
+[2019.01.25-17.58.01:763][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-17.58.47:804][482]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-17.59.18:278][254]LogSlate: Window 'Change Variable Type' being destroyed
+[2019.01.25-17.59.28:537][ 68]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-17.59.53:772][ 21]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.00.01:784][611]LogHttp: Warning: 000002691E2C7740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.00.01:784][611]LogHttp: Warning: 000002691E2C7740: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.00.01:785][611]LogHttp: Warning: 000002691E2C7740: libcurl info message cache 1 (Closing connection 20)
+[2019.01.25-18.00.01:798][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.00.18:829][789]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/StartupMap_Auto25DC678B24432427C0CF78DB01B4C21DF.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto2.umap'
+[2019.01.25-18.00.18:834][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.222
+[2019.01.25-18.00.18:834][789]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.222
+[2019.01.25-18.00.18:839][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.01.25-18.00.18:839][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.01.25-18.00.18:943][789]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/MotionControllerPawn_Auto2BEEE13764DFABDFAC698079C220EB0D1.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto2.uasset'
+[2019.01.25-18.00.18:944][789]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Timer] ([1] browsable assets)...
+[2019.01.25-18.00.18:944][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/Timer]
+[2019.01.25-18.00.18:944][789]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer" FILE="../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Timer_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.01.25-18.00.18:954][789]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Timer_Auto2AE33B4154A9FA49BB7DF0ABF24BEE998.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Timer_Auto2.uasset'
+[2019.01.25-18.00.18:955][789]LogFileHelpers: Auto-saving content packages took 0.116
+[2019.01.25-18.01.40:032][681]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.01.49:690][288]LogSlate: Window 'Delete Variable' being destroyed
+[2019.01.25-18.02.01:825][235]LogHttp: Warning: 000002691EF66AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.02.01:825][235]LogHttp: Warning: 000002691EF66AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.02.01:825][235]LogHttp: Warning: 000002691EF66AC0: libcurl info message cache 1 (Closing connection 21)
+[2019.01.25-18.02.01:837][236]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.02.30:512][513]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.04.01:882][795]LogHttp: Warning: 00000269309FCCC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.04.01:882][795]LogHttp: Warning: 00000269309FCCC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.04.01:882][795]LogHttp: Warning: 00000269309FCCC0: libcurl info message cache 1 (Closing connection 22)
+[2019.01.25-18.04.01:895][796]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.04.42:542][113]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.05.21:555][153]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.06.01:935][494]LogHttp: Warning: 0000026933BB4540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.06.01:935][494]LogHttp: Warning: 0000026933BB4540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.06.01:935][494]LogHttp: Warning: 0000026933BB4540: libcurl info message cache 1 (Closing connection 23)
+[2019.01.25-18.06.01:935][494]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.06.42:926][875]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.06.43:249][887]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.06.44:539][973]LogEditorTransaction: Undo Move Node
+[2019.01.25-18.06.45:062][  2]LogEditorTransaction: Undo Add Node
+[2019.01.25-18.06.45:526][ 28]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.07.29:304][751]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.08.01:979][346]LogHttp: Warning: 000002691E20EE80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.08.01:979][346]LogHttp: Warning: 000002691E20EE80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.08.01:979][346]LogHttp: Warning: 000002691E20EE80: libcurl info message cache 1 (Closing connection 24)
+[2019.01.25-18.08.01:979][346]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.08.10:216][991]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.08.24:751][134]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.08.46:438][809]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.09.19:365][401]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.09.50:231][896]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.09.57:067][533]LogTemp: Repeating last play command: Simulate
+[2019.01.25-18.09.57:095][533]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.09.57:095][533]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-18.09.57:095][533]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 8:09:57 AM)
+[2019.01.25-18.09.57:096][533]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-18.09.57:103][533]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007124s)
+[2019.01.25-18.09.57:103][533]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-18.09.57:103][533]LogPlayLevel: PIE: World Init took: (0.000497s)
+[2019.01.25-18.09.57:103][533]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007723s)
+[2019.01.25-18.09.57:134][533]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-18.09.57:215][533]LogInit: FAudioDevice initialized.
+[2019.01.25-18.09.57:244][533]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-18.09.57:244][533]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-18.09.57:246][533]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2019.01.25-13.09.57
+[2019.01.25-18.09.57:246][533]LogWorld: Bringing up level for play took: 0.001692
+[2019.01.25-18.09.57:259][533]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-18.09.57:259][533]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-18.09.57:259][533]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-18.09.57:260][533]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-18.09.57:261][533]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-18.09.57:261][533]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.249
+[2019.01.25-18.09.57:266][533]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.09.58:065][616]LogBlueprintUserMessages: [MotionControllerPawn_5] 1
+[2019.01.25-18.09.59:071][736]LogBlueprintUserMessages: [MotionControllerPawn_5] 2
+[2019.01.25-18.10.00:072][856]LogBlueprintUserMessages: [MotionControllerPawn_5] 3
+[2019.01.25-18.10.01:073][976]LogBlueprintUserMessages: [MotionControllerPawn_5] 4
+[2019.01.25-18.10.02:019][ 90]LogHttp: Warning: 000002691EA21940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.10.02:019][ 90]LogHttp: Warning: 000002691EA21940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.10.02:019][ 90]LogHttp: Warning: 000002691EA21940: libcurl info message cache 1 (Closing connection 25)
+[2019.01.25-18.10.02:019][ 90]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.10.02:073][ 96]LogBlueprintUserMessages: [MotionControllerPawn_5] 5
+[2019.01.25-18.10.03:072][216]LogBlueprintUserMessages: [MotionControllerPawn_5] 6
+[2019.01.25-18.10.04:073][336]LogBlueprintUserMessages: [MotionControllerPawn_5] 7
+[2019.01.25-18.10.05:072][456]LogBlueprintUserMessages: [MotionControllerPawn_5] 8
+[2019.01.25-18.10.06:073][576]LogBlueprintUserMessages: [MotionControllerPawn_5] 9
+[2019.01.25-18.10.07:072][696]LogBlueprintUserMessages: [MotionControllerPawn_5] 10
+[2019.01.25-18.10.08:073][816]LogBlueprintUserMessages: [MotionControllerPawn_5] 11
+[2019.01.25-18.10.09:073][936]LogBlueprintUserMessages: [MotionControllerPawn_5] 12
+[2019.01.25-18.10.10:073][ 56]LogBlueprintUserMessages: [MotionControllerPawn_5] 13
+[2019.01.25-18.10.11:073][176]LogBlueprintUserMessages: [MotionControllerPawn_5] 14
+[2019.01.25-18.10.12:073][296]LogBlueprintUserMessages: [MotionControllerPawn_5] 15
+[2019.01.25-18.10.13:073][416]LogBlueprintUserMessages: [MotionControllerPawn_5] 16
+[2019.01.25-18.10.14:073][536]LogBlueprintUserMessages: [MotionControllerPawn_5] 17
+[2019.01.25-18.10.15:073][656]LogBlueprintUserMessages: [MotionControllerPawn_5] 18
+[2019.01.25-18.10.16:074][776]LogBlueprintUserMessages: [MotionControllerPawn_5] 19
+[2019.01.25-18.10.17:075][896]LogBlueprintUserMessages: [MotionControllerPawn_5] 20
+[2019.01.25-18.10.18:074][ 16]LogBlueprintUserMessages: [MotionControllerPawn_5] 21
+[2019.01.25-18.10.19:073][136]LogBlueprintUserMessages: [MotionControllerPawn_5] 22
+[2019.01.25-18.10.20:073][256]LogBlueprintUserMessages: [MotionControllerPawn_5] 23
+[2019.01.25-18.10.21:074][376]LogBlueprintUserMessages: [MotionControllerPawn_5] 24
+[2019.01.25-18.10.22:074][496]LogBlueprintUserMessages: [MotionControllerPawn_5] 25
+[2019.01.25-18.10.23:074][616]LogBlueprintUserMessages: [MotionControllerPawn_5] 26
+[2019.01.25-18.10.24:077][723]LogBlueprintUserMessages: [MotionControllerPawn_5] 27
+[2019.01.25-18.10.25:079][834]LogBlueprintUserMessages: [MotionControllerPawn_5] 28
+[2019.01.25-18.10.26:087][936]LogBlueprintUserMessages: [MotionControllerPawn_5] 29
+[2019.01.25-18.10.27:091][ 56]LogBlueprintUserMessages: [MotionControllerPawn_5] 30
+[2019.01.25-18.10.28:092][176]LogBlueprintUserMessages: [MotionControllerPawn_5] 31
+[2019.01.25-18.10.29:092][296]LogBlueprintUserMessages: [MotionControllerPawn_5] 32
+[2019.01.25-18.10.30:092][416]LogBlueprintUserMessages: [MotionControllerPawn_5] 33
+[2019.01.25-18.10.31:091][536]LogBlueprintUserMessages: [MotionControllerPawn_5] 34
+[2019.01.25-18.10.32:092][656]LogBlueprintUserMessages: [MotionControllerPawn_5] 35
+[2019.01.25-18.10.33:092][776]LogBlueprintUserMessages: [MotionControllerPawn_5] 36
+[2019.01.25-18.10.34:092][896]LogBlueprintUserMessages: [MotionControllerPawn_5] 37
+[2019.01.25-18.10.35:092][ 16]LogBlueprintUserMessages: [MotionControllerPawn_5] 38
+[2019.01.25-18.10.36:092][136]LogBlueprintUserMessages: [MotionControllerPawn_5] 39
+[2019.01.25-18.10.37:092][256]LogBlueprintUserMessages: [MotionControllerPawn_5] 40
+[2019.01.25-18.10.38:092][376]LogBlueprintUserMessages: [MotionControllerPawn_5] 41
+[2019.01.25-18.10.39:096][494]LogBlueprintUserMessages: [MotionControllerPawn_5] 42
+[2019.01.25-18.10.40:096][614]LogBlueprintUserMessages: [MotionControllerPawn_5] 43
+[2019.01.25-18.10.41:096][734]LogBlueprintUserMessages: [MotionControllerPawn_5] 44
+[2019.01.25-18.10.42:096][854]LogBlueprintUserMessages: [MotionControllerPawn_5] 45
+[2019.01.25-18.10.43:096][974]LogBlueprintUserMessages: [MotionControllerPawn_5] 46
+[2019.01.25-18.10.44:096][ 94]LogBlueprintUserMessages: [MotionControllerPawn_5] 47
+[2019.01.25-18.10.45:096][214]LogBlueprintUserMessages: [MotionControllerPawn_5] 48
+[2019.01.25-18.10.46:096][334]LogBlueprintUserMessages: [MotionControllerPawn_5] 49
+[2019.01.25-18.10.47:096][454]LogBlueprintUserMessages: [MotionControllerPawn_5] 50
+[2019.01.25-18.10.48:096][574]LogBlueprintUserMessages: [MotionControllerPawn_5] 51
+[2019.01.25-18.10.49:096][694]LogBlueprintUserMessages: [MotionControllerPawn_5] 52
+[2019.01.25-18.10.50:096][814]LogBlueprintUserMessages: [MotionControllerPawn_5] 53
+[2019.01.25-18.10.51:097][934]LogBlueprintUserMessages: [MotionControllerPawn_5] 54
+[2019.01.25-18.10.52:097][ 54]LogBlueprintUserMessages: [MotionControllerPawn_5] 55
+[2019.01.25-18.10.53:096][174]LogBlueprintUserMessages: [MotionControllerPawn_5] 56
+[2019.01.25-18.10.54:096][294]LogBlueprintUserMessages: [MotionControllerPawn_5] 57
+[2019.01.25-18.10.55:096][414]LogBlueprintUserMessages: [MotionControllerPawn_5] 58
+[2019.01.25-18.10.56:096][534]LogBlueprintUserMessages: [MotionControllerPawn_5] 59
+[2019.01.25-18.10.57:097][654]LogBlueprintUserMessages: [MotionControllerPawn_5] 60
+[2019.01.25-18.11.05:299][582]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.05:300][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.11.05:332][582]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-18.11.05:332][582]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.05:361][582]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.11.05:405][587]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.01.25-18.11.06:174][679]LogTemp: Repeating last play command: Simulate
+[2019.01.25-18.11.06:186][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.06:186][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-18.11.06:186][679]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 8:11:06 AM)
+[2019.01.25-18.11.06:186][679]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-18.11.06:193][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007584s)
+[2019.01.25-18.11.06:194][679]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-18.11.06:194][679]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2019.01.25-18.11.06:194][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.008126s)
+[2019.01.25-18.11.06:226][679]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-18.11.06:305][679]LogInit: FAudioDevice initialized.
+[2019.01.25-18.11.06:333][679]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-18.11.06:333][679]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-18.11.06:335][679]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 0) at 2019.01.25-13.11.06
+[2019.01.25-18.11.06:335][679]LogWorld: Bringing up level for play took: 0.001598
+[2019.01.25-18.11.06:348][679]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-18.11.06:348][679]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-18.11.06:348][679]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-18.11.06:349][679]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-18.11.06:350][679]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-18.11.06:350][679]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap -0.663
+[2019.01.25-18.11.06:352][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.07:168][775]LogBlueprintUserMessages: [MotionControllerPawn_5] 1
+[2019.01.25-18.11.08:168][894]LogBlueprintUserMessages: [MotionControllerPawn_5] 2
+[2019.01.25-18.11.09:169][ 14]LogBlueprintUserMessages: [MotionControllerPawn_5] 3
+[2019.01.25-18.11.10:168][134]LogBlueprintUserMessages: [MotionControllerPawn_5] 4
+[2019.01.25-18.11.11:168][254]LogBlueprintUserMessages: [MotionControllerPawn_5] 5
+[2019.01.25-18.11.11:345][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.11:345][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.11.11:382][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-18.11.11:383][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.11.11:414][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.11.11:451][279]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.01.25-18.11.46:640][922]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/StartupMap_Auto39EF1DF234277ADCCC443DDBE64E09CCB.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Maps/StartupMap_Auto3.umap'
+[2019.01.25-18.11.46:650][922]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.204
+[2019.01.25-18.11.46:650][922]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.204
+[2019.01.25-18.11.46:656][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2019.01.25-18.11.46:656][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2019.01.25-18.11.46:763][922]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/MotionControllerPawn_Auto33A6E03BC4B5DB090773C74A68C03915D.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto3.uasset'
+[2019.01.25-18.11.46:764][922]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Timer] ([1] browsable assets)...
+[2019.01.25-18.11.46:764][922]OBJ SavePackage: Finished generating thumbnails for package [/Game/Timer]
+[2019.01.25-18.11.46:764][922]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer" FILE="../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Timer_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.01.25-18.11.46:774][922]LogSavePackage: Moving '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Timer_Auto3AED894B440FE0FD33ABC9EA538A2EFA2.tmp' to '../../../../../../Users/Gretchen/Documents/465Projects/MyProject3/Saved/Autosaves/Game/Timer_Auto3.uasset'
+[2019.01.25-18.11.46:775][922]LogFileHelpers: Auto-saving content packages took 0.119
+[2019.01.25-18.12.02:037][237]LogHttp: Warning: 000002692FED0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.12.02:037][237]LogHttp: Warning: 000002692FED0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.12.02:037][237]LogHttp: Warning: 000002692FED0400: libcurl info message cache 1 (Closing connection 26)
+[2019.01.25-18.12.02:048][238]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.14.02:099][799]LogHttp: Warning: 000002692FED3880: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.14.02:099][799]LogHttp: Warning: 000002692FED3880: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.14.02:099][799]LogHttp: Warning: 000002692FED3880: libcurl info message cache 1 (Closing connection 27)
+[2019.01.25-18.14.02:112][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.14.11:884][554]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.14.11:892][554]LogBlueprint: Warning: [Compiler Timer] Could not find a variable named "Timer" in 'MotionControllerPawn_C'.
+Make sure 'MotionControllerPawn_C' has been compiled for  Set Timer
+[2019.01.25-18.14.11:893][554]LogBlueprint: Error: [Compiler Timer] The property associated with  Timer  could not be found in '/Game/Timer.Timer_C'
+[2019.01.25-18.14.12:027][554]LogBlueprint: Warning: [Compiler Timer] [3320.71] Compile of Timer failed. 1 Fatal Issue(s) 1 Warning(s) [in 142 ms] (/Game/Timer.Timer)
+[2019.01.25-18.14.16:561][909]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.14.16:566][909]LogBlueprint: Warning: [Compiler Timer] Could not find a variable named "Timer" in 'MotionControllerPawn_C'.
+Make sure 'MotionControllerPawn_C' has been compiled for  Set Timer
+[2019.01.25-18.14.16:567][909]LogBlueprint: Error: [Compiler Timer] The property associated with  Timer  could not be found in '/Game/Timer.Timer_C'
+[2019.01.25-18.14.16:694][909]LogBlueprint: Warning: [Compiler Timer] [3325.38] Compile of Timer failed. 1 Fatal Issue(s) 1 Warning(s) [in 133 ms] (/Game/Timer.Timer)
+[2019.01.25-18.14.51:022][685]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.15.39:252][356]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.16.00:656][ 40]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.16.02:170][153]LogHttp: Warning: 000002691D335E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.16.02:170][153]LogHttp: Warning: 000002691D335E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.16.02:170][153]LogHttp: Warning: 000002691D335E40: libcurl info message cache 1 (Closing connection 28)
+[2019.01.25-18.16.02:183][154]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.17.54:563][644]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.18.02:231][222]LogHttp: Warning: 00000269352DED40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.18.02:231][222]LogHttp: Warning: 00000269352DED40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.18.02:231][222]LogHttp: Warning: 00000269352DED40: libcurl info message cache 1 (Closing connection 29)
+[2019.01.25-18.18.02:231][222]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.18.35:782][134]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.19.26:312][996]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.19.32:548][349]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.20.02:276][105]LogHttp: Warning: 000002693C4D7100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.20.02:276][105]LogHttp: Warning: 000002693C4D7100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.20.02:276][105]LogHttp: Warning: 000002693C4D7100: libcurl info message cache 1 (Closing connection 30)
+[2019.01.25-18.20.02:293][106]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.20.33:500][956]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.20.48:077][821]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.21.14:605][380]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.21.40:186][883]BlueprintLog: New page: Compile MotionControllerPawn
+[2019.01.25-18.21.54:567][713]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.21.58:373][933]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.25-18.21.58:378][933]LogSlate: Window 'Find in Blueprints' being destroyed
+[2019.01.25-18.22.02:343][172]LogHttp: Warning: 000002691D77F600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.22.02:343][172]LogHttp: Warning: 000002691D77F600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.22.02:343][172]LogHttp: Warning: 000002691D77F600: libcurl info message cache 1 (Closing connection 31)
+[2019.01.25-18.22.02:343][172]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.22.05:024][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.22.05:073][334]LogTemp: Repeating last play command: Simulate
+[2019.01.25-18.22.05:108][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.22.05:108][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-18.22.05:108][334]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 8:22:05 AM)
+[2019.01.25-18.22.05:108][334]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-18.22.05:115][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007478s)
+[2019.01.25-18.22.05:116][334]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-18.22.05:116][334]LogPlayLevel: PIE: World Init took: (0.000501s)
+[2019.01.25-18.22.05:116][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.008081s)
+[2019.01.25-18.22.05:149][334]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-18.22.05:230][334]LogInit: FAudioDevice initialized.
+[2019.01.25-18.22.05:263][334]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-18.22.05:263][334]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-18.22.05:265][334]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2019.01.25-13.22.05
+[2019.01.25-18.22.05:266][334]LogWorld: Bringing up level for play took: 0.001670
+[2019.01.25-18.22.05:278][334]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-18.22.05:279][334]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-18.22.05:279][334]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-18.22.05:280][334]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-18.22.05:281][334]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-18.22.05:281][334]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.268
+[2019.01.25-18.22.05:287][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.22.09:812][606]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.22.09:813][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.22.09:845][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-18.22.09:845][606]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.22.09:873][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.22.09:918][609]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.01.25-18.22.29:074][712]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.01.25-18.22.50:298][982]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.22.53:939][186]LogTemp: Repeating last play command: Simulate
+[2019.01.25-18.22.53:951][186]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.22.53:951][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.01.25-18.22.53:951][186]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 8:22:53 AM)
+[2019.01.25-18.22.53:951][186]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-18.22.53:958][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007193s)
+[2019.01.25-18.22.53:959][186]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-18.22.53:959][186]LogPlayLevel: PIE: World Init took: (0.000448s)
+[2019.01.25-18.22.53:959][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.007737s)
+[2019.01.25-18.22.53:989][186]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-18.22.54:066][186]LogInit: FAudioDevice initialized.
+[2019.01.25-18.22.54:096][186]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-18.22.54:096][186]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-18.22.54:098][186]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2019.01.25-13.22.54
+[2019.01.25-18.22.54:098][186]LogWorld: Bringing up level for play took: 0.001580
+[2019.01.25-18.22.54:110][186]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-18.22.54:111][186]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-18.22.54:111][186]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-18.22.54:112][186]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-18.22.54:113][186]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-18.22.54:113][186]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 1.1
+[2019.01.25-18.22.54:115][186]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.23.01:442][626]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.23.01:442][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.23.01:499][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-18.23.01:500][626]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.23.01:529][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.23.01:542][627]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.01.25-18.23.16:265][466]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.16:265][466]LogEditorTransaction: Undo Move Node
+[2019.01.25-18.23.17:051][513]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.17:051][513]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.23.17:257][525]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.17:257][525]LogEditorTransaction: Undo Change Class Pin Value
+[2019.01.25-18.23.19:020][630]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.19:020][630]LogEditorTransaction: Undo Add Node
+[2019.01.25-18.23.19:277][645]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.19:277][645]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.23.19:485][657]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.19:485][657]LogEditorTransaction: Undo Create Actors
+[2019.01.25-18.23.21:078][752]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.21:078][752]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.23.21:303][765]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.21:303][765]LogEditorTransaction: Undo Add Node
+[2019.01.25-18.23.21:593][782]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.21:593][782]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.23.33:785][513]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.23.36:965][703]LogEditorTransaction: Undo Move Nodes
+[2019.01.25-18.23.37:260][720]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.23.37:457][730]LogEditorTransaction: Undo Add Node
+[2019.01.25-18.23.37:626][740]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.23.37:793][750]LogEditorTransaction: Undo Create Pin Link
+[2019.01.25-18.23.37:943][759]LogEditorTransaction: Undo Add Node
+[2019.01.25-18.23.40:486][906]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.40:486][906]LogEditorTransaction: Redo Add Node
+[2019.01.25-18.23.40:655][909]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.40:655][909]LogEditorTransaction: Redo Create Pin Link
+[2019.01.25-18.23.40:804][918]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.40:805][918]LogEditorTransaction: Redo Create Pin Link
+[2019.01.25-18.23.42:423][  8]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.42:423][  8]LogEditorTransaction: Redo Add Node
+[2019.01.25-18.23.42:577][ 16]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.42:577][ 16]LogEditorTransaction: Redo Create Pin Link
+[2019.01.25-18.23.42:727][ 25]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.42:728][ 25]LogEditorTransaction: Redo Move Nodes
+[2019.01.25-18.23.42:884][ 34]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.42:884][ 34]LogEditorTransaction: Redo Delete current selection
+[2019.01.25-18.23.49:382][423]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.49:382][423]LogEditorTransaction: Undo Delete current selection
+[2019.01.25-18.23.49:614][436]Cmd: TRANSACTION UNDO
+[2019.01.25-18.23.49:614][436]LogEditorTransaction: Undo Move Nodes
+[2019.01.25-18.23.50:530][490]Cmd: TRANSACTION REDO
+[2019.01.25-18.23.50:530][490]LogEditorTransaction: Redo Move Nodes
+[2019.01.25-18.23.55:955][815]BlueprintLog: New page: Compile Timer
+[2019.01.25-18.24.02:383][193]LogHttp: Warning: 000002691D335080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.01.25-18.24.02:383][193]LogHttp: Warning: 000002691D335080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.01.25-18.24.02:383][193]LogHttp: Warning: 000002691D335080: libcurl info message cache 1 (Closing connection 32)
+[2019.01.25-18.24.02:399][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B726EF2B5-403E-8FE2-BCBB-6E89FF4F1579%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=f3c671f549cc0630f31b2792650eb6fe%7Ca29c1ea0ec71402280e182d3f584ee50%7C77a5d85a-c746-4e4b-b58a-0cdd62e63f75&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.01.25-18.24.07:911][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.13:326][848]LogTemp: Repeating last play command: Simulate
+[2019.01.25-18.24.13:336][848]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.24.13:336][848]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.01.25-18.24.13:370][848]LogPlayLevel: [PlayLevel] Compiling MotionControllerPawn before play...
+[2019.01.25-18.24.13:557][848]LogPlayLevel: PlayLevel: Blueprint regeneration took 221 ms (1 blueprints)
+[2019.01.25-18.24.13:557][848]PIE: New page: SIE session: StartupMap (Jan 25, 2019, 8:24:13 AM)
+[2019.01.25-18.24.13:557][848]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap
+[2019.01.25-18.24.13:571][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013978s)
+[2019.01.25-18.24.13:572][848]LogAIModule: Creating AISystem for world StartupMap
+[2019.01.25-18.24.13:572][848]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.01.25-18.24.13:572][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/StartupMap.StartupMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap (0.014569s)
+[2019.01.25-18.24.13:604][848]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.01.25-18.24.13:682][848]LogInit: FAudioDevice initialized.
+[2019.01.25-18.24.13:709][848]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.01.25-18.24.13:709][848]LogLoad: Game class is 'GameModeBase'
+[2019.01.25-18.24.13:711][848]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap.StartupMap up for play (max tick rate 60) at 2019.01.25-13.24.13
+[2019.01.25-18.24.13:711][848]LogWorld: Bringing up level for play took: 0.001603
+[2019.01.25-18.24.13:724][848]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.01.25-18.24.13:724][848]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_5)
+[2019.01.25-18.24.13:724][848]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.01.25-18.24.13:725][848]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.01.25-18.24.13:726][848]LogBlueprintUserMessages: [MotionControllerPawn_5] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.01.25-18.24.13:726][848]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_StartupMap 0.714
+[2019.01.25-18.24.13:732][848]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.24.14:412][887]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.15:062][926]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.15:796][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.16:513][ 13]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.18:480][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.25-18.24.19:215][175]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.19:215][175]Can't find target actor or component.
+[2019.01.25-18.24.19:965][220]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.19:965][220]Can't find target actor or component.
+[2019.01.25-18.24.20:282][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.20:282][239]Can't find target actor or component.
+[2019.01.25-18.24.20:465][250]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.20:465][250]Can't find target actor or component.
+[2019.01.25-18.24.20:632][260]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.20:632][260]Can't find target actor or component.
+[2019.01.25-18.24.20:832][272]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.20:832][272]Can't find target actor or component.
+[2019.01.25-18.24.21:015][283]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.21:015][283]Can't find target actor or component.
+[2019.01.25-18.24.21:198][294]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.25-18.24.21:198][294]Can't find target actor or component.
+[2019.01.25-18.24.22:383][365]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.24.22:383][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.24.22:420][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.01.25-18.24.22:420][365]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/StartupMap.StartupMap:PersistentLevel.StartupMap'
+[2019.01.25-18.24.22:450][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.01.25-18.24.22:494][368]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.01.25-18.24.28:174][591]LogSlate: Window 'Save Content' being destroyed
+[2019.01.25-18.24.28:178][591]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2019.01.25-18.24.28:178][591]PIE: Warning: PIE failed because map save was canceled
+[2019.01.25-18.24.29:812][689]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-18.24.29:818][689]LogSlate: Window 'Message Log' being destroyed
+[2019.01.25-18.24.31:628][797]LogUObjectArray: Warning: Invalid object index 6553710
+[2019.01.25-18.24.31:628][797]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.01.25-18.24.32:520][797]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.893 s
+[2019.01.25-18.24.32:520][797]LogOutputDevice: Error: === Handled ensure: ===
+[2019.01.25-18.24.32:520][797]LogOutputDevice: Error: 
+[2019.01.25-18.24.32:520][797]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: Stack: 
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcac418304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcac4281ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcb716bcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcb4c6769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcb4c20917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb17c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcbfd64393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb72d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb48a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcbfb3b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffccb61dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffccb610de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffccb6201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffccb60ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcf4986cc1 USER32.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcf4986693 USER32.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffccb621746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ff72c065546 UE4Editor.exe!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ff72c07596c UE4Editor.exe!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ff72c0759ea UE4Editor.exe!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ff72c0848da UE4Editor.exe!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ff72c08659a UE4Editor.exe!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcf3593034 KERNEL32.DLL!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: [Callstack] 0x00007ffcf4bc1551 ntdll.dll!UnknownFunction []
+[2019.01.25-18.24.32:521][797]LogOutputDevice: Error: 
+[2019.01.25-18.24.32:531][797]LogStats:                SubmitErrorReport -  0.000 s

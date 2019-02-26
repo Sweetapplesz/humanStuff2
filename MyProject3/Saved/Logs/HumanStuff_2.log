@@ -1,0 +1,1581 @@
+﻿Log file open, 02/26/19 05:38:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: HumanStuff
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.277489
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.161s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4210H CPU @ 2.90GHz, GPU: Intel(R) HD Graphics 4600
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  /Game/StarterContent/Maps/Minimal_Default_2 -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: E:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.023s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:893][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.26-10.38.07:893][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.26-10.38.07:894][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.26-10.38.07:895][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.26-10.38.07:895][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:895][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:901][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-10.38.07:901][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-10.38.07:902][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-10.38.07:903][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:903][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-10.38.07:904][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-10.38.07:904][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-10.38.07:904][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.26-10.38.07:913][  0]LogHAL: Display: Platform has ~ 16 GB [17087881216 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.26-10.38.07:914][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.26-10.38.07:914][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.26-10.38.07:914][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.26-10.38.07:915][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.26-10.38.07:916][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.26-10.38.07:917][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Scalability.ini]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.26-10.38.07:918][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.26-10.38.07:918][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Saved/Config/Windows/Engine.ini]
+[2019.02.26-10.38.07:919][  0]LogInit: Computer: LANCE
+[2019.02.26-10.38.07:919][  0]LogInit: User: Ailsa
+[2019.02.26-10.38.07:919][  0]LogInit: CPU Page size=4096, Cores=2
+[2019.02.26-10.38.07:919][  0]LogInit: High frequency timer resolution =2.825503 MHz
+[2019.02.26-10.38.07:919][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.02.26-10.38.07:919][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.26-10.38.07:919][  0]LogMemory: Process Physical Memory: 102.82 MB used, 102.82 MB peak
+[2019.02.26-10.38.07:919][  0]LogMemory: Process Virtual Memory: 100.62 MB used, 100.62 MB peak
+[2019.02.26-10.38.07:919][  0]LogMemory: Physical Memory: 9660.51 MB used,  6635.77 MB free, 16296.27 MB total
+[2019.02.26-10.38.07:919][  0]LogMemory: Virtual Memory: 4644.93 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.02.26-10.38.07:983][  0]LogInit: Using OS detected language (en-US).
+[2019.02.26-10.38.07:983][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.26-10.38.07:985][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.26-10.38.08:840][  0]LogStreaming: Display: Took  0.858s to InitEngineTextLocalization.
+[2019.02.26-10.38.08:890][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.26-10.38.08:891][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.26-10.38.08:948][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.02.26-10.38.08:949][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.26-10.38.08:999][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.02.26-10.38.08:999][  0]LogD3D11RHI:       4064/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.26-10.38.09:011][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2019.02.26-10.38.09:011][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.26-10.38.09:015][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.26-10.38.09:015][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.26-10.38.09:015][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.26-10.38.09:084][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.26-10.38.09:084][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.02.26-10.38.09:084][  0]LogWindows: EnumDisplayDevices:
+[2019.02.26-10.38.09:084][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2019.02.26-10.38.09:085][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.26-10.38.09:086][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2019.02.26-10.38.09:087][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.26-10.38.09:087][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.02.26-10.38.09:087][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.26-10.38.09:087][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.26-10.38.09:087][  0]LogRHI: Texture pool is 2845 MB (70% of 4064 MB)
+[2019.02.26-10.38.09:119][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.26-10.38.09:141][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.26-10.38.09:850][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.26-10.38.09:875][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.26-10.38.09:895][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.26-10.38.09:903][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.26-10.38.09:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.26-10.38.09:981][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/Intermediate/Shaders/WorkingDirectory/62308/).
+[2019.02.26-10.38.09:982][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ailsa/AppData/Local/Temp/UnrealShaderWorkingDir/A4708B3D49252C4C132F498572618C28/'.
+[2019.02.26-10.38.09:985][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.26-10.38.09:985][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.26-10.38.09:985][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.26-10.38.10:872][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.26-10.38.10:968][  0]LogDerivedDataCache: Loaded boot cache 0.10s 71MB C:/Users/Ailsa/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.26-10.38.10:968][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ailsa/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.26-10.38.10:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.26-10.38.10:968][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.26-10.38.10:968][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Ailsa/Documents/GitHub/humanStuff/MyProject3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-10.38.10:969][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.26-10.38.10:986][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.26-10.38.10:987][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.26-10.38.10:987][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.02.26-10.38.10:999][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ailsa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.26-10.38.10:999][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.26-10.38.10:999][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.26-10.38.11:040][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.26-10.38.11:042][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.26-10.38.11:043][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.26-10.38.11:222][  0]LogInit: Using OS detected language (en-US).
+[2019.02.26-10.38.11:222][  0]LogInit: Using OS detected locale (en-US).
+[2019.02.26-10.38.11:222][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2019.02.26-10.38.11:223][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2019.02.26-10.38.11:223][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.02.26-10.38.11:223][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.02.26-10.38.11:779][  0]LogStreaming: Display: Took  0.557s to InitGameTextLocalization.
+[2019.02.26-10.38.11:788][  0]LogAssetRegistry: FAssetRegistry took 0.0053 seconds to start up
+[2019.02.26-10.38.12:107][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.018687 seconds
+[2019.02.26-10.38.12:299][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.26-10.38.12:502][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.26-10.38.12:508][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.26-10.38.12:508][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.26-10.38.12:508][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.26-10.38.12:508][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.26-10.38.12:524][  0]LogNetVersion: HumanStuff 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1645013271)
+[2019.02.26-10.38.13:379][  0]LogMoviePlayer: Initializing movie player
+[2019.02.26-10.38.13:498][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.26-10.38.13:510][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.26-10.38.13:615][  0]SourceControl: Source control is disabled
+[2019.02.26-10.38.13:616][  0]SourceControl: Source control is disabled
+[2019.02.26-10.38.13:617][  0]SourceControl: Source control is disabled
+[2019.02.26-10.38.13:765][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.26-10.38.13:948][  0]LogOcInput: OculusInput pre-init called
+[2019.02.26-10.38.13:968][  0]LogUObjectArray: 43226 objects as part of root set at end of initial load.
+[2019.02.26-10.38.13:968][  0]LogUObjectAllocator: 7590224 out of 0 bytes used by permanent object pool.
+[2019.02.26-10.38.13:968][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.26-10.38.14:114][  0]LogEngine: Initializing Engine...
+[2019.02.26-10.38.14:121][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2019.02.26-10.38.14:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-10.38.14:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-10.38.14:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-10.38.14:135][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-10.38.14:414][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.26-10.38.14:464][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.26-10.38.14:519][  0]LogInit: FAudioDevice initialized.
+[2019.02.26-10.38.14:531][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.26-10.38.14:531][  0]LogInit: Texture streaming: Enabled
+[2019.02.26-10.38.14:786][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.26-10.38.14:787][  0]LogInit: Display: Game Engine Initialized.
+[2019.02.26-10.38.14:787][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.26-10.38.14:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.26-10.38.14:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.26-10.38.14:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.26-10.38.14:787][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.26-10.38.14:809][  0]LogInit: Display: Starting Game.
+[2019.02.26-10.38.14:810][  0]LogNet: Browse: /Game/StarterContent/Maps/Minimal_Default_2?Name=Player
+[2019.02.26-10.38.14:810][  0]LogLoad: LoadMap: /Game/StarterContent/Maps/Minimal_Default_2?Name=Player
+[2019.02.26-10.38.16:002][  0]LoadErrors: Warning: hs_cake Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:004][  0]LoadErrors: Warning: hs_concreteBumper Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:008][  0]LoadErrors: Warning: hs_groundPlane Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:010][  0]LoadErrors: Warning: hs_lampTree Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:012][  0]LoadErrors: Warning: hs_parkingMedian Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:022][  0]LoadErrors: Warning: shelves Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:023][  0]LoadErrors: Warning: skybox2 Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:048][  0]LoadErrors: Warning: hs_bomb Min LOD value of 1 is out of range 0..0 and has been adjusted to 0. Please verify and resave the asset.
+[2019.02.26-10.38.16:439][  0]LogAIModule: Creating AISystem for world Minimal_Default_2
+[2019.02.26-10.38.16:439][  0]LogLoad: Game class is 'GameModeBase'
+[2019.02.26-10.38.16:469][  0]LogWorld: Bringing World /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2 up for play (max tick rate 0) at 2019.02.26-05.38.16
+[2019.02.26-10.38.16:471][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2019.02.26-10.38.16:471][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2019.02.26-10.38.16:471][  0]LogWorld: Bringing up level for play took: 0.031032
+[2019.02.26-10.38.16:472][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.26-10.38.16:478][  0]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (TimeFunctionTick) or object (MotionControllerPawn_2)
+[2019.02.26-10.38.16:478][  0]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Make_Hands
+[2019.02.26-10.38.16:482][  0]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+Left
+[2019.02.26-10.38.16:484][  0]LogBlueprintUserMessages: [MotionControllerPawn_2] 
+
+
+
+
+
+
+
+
+
+
+
+Right
+[2019.02.26-10.38.16:485][  0]LogLoad: Took 1.674767 seconds to LoadMap(/Game/StarterContent/Maps/Minimal_Default_2)
+[2019.02.26-10.38.16:565][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 26 NumSamples 1 (Frame:1).
+[2019.02.26-10.38.16:565][  0]LogLoad: (Engine Initialization) Total time: 12.29 seconds
+[2019.02.26-10.38.16:565][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.26-10.38.16:593][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.26-10.38.16:600][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.26-10.38.17:797][ 36]LogBlueprintUserMessages: [MotionControllerPawn_2] 109
+[2019.02.26-10.38.17:814][ 37]LogScript: Warning: Accessed None trying to read property ScanVar
+	Spawner_C /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.Spawner_2
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner:0D27
+[2019.02.26-10.38.17:815][ 37]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/Spawner.Spawner_C:SpawnItem
+	Function /Game/Blueprints/Spawner.Spawner_C:ExecuteUbergraph_Spawner
+
+[2019.02.26-10.38.19:017][111]LogBlueprintUserMessages: [MotionControllerPawn_2] 108
+[2019.02.26-10.38.20:230][186]LogBlueprintUserMessages: [MotionControllerPawn_2] 107
+[2019.02.26-10.38.21:442][261]LogBlueprintUserMessages: [MotionControllerPawn_2] 106
+[2019.02.26-10.38.22:653][336]LogBlueprintUserMessages: [MotionControllerPawn_2] 105
+[2019.02.26-10.38.23:867][411]LogBlueprintUserMessages: [MotionControllerPawn_2] 104
+[2019.02.26-10.38.25:077][486]LogBlueprintUserMessages: [MotionControllerPawn_2] 103
+[2019.02.26-10.38.26:298][561]LogBlueprintUserMessages: [MotionControllerPawn_2] 102
+[2019.02.26-10.38.27:512][636]LogBlueprintUserMessages: [MotionControllerPawn_2] 101
+[2019.02.26-10.38.28:727][711]LogBlueprintUserMessages: [MotionControllerPawn_2] 100
+[2019.02.26-10.38.29:944][786]LogBlueprintUserMessages: [MotionControllerPawn_2] 99
+[2019.02.26-10.38.31:154][861]LogBlueprintUserMessages: [MotionControllerPawn_2] 98
+[2019.02.26-10.38.32:364][936]LogBlueprintUserMessages: [MotionControllerPawn_2] 97
+[2019.02.26-10.38.33:579][ 11]LogBlueprintUserMessages: [MotionControllerPawn_2] 96
+[2019.02.26-10.38.34:802][ 86]LogBlueprintUserMessages: [MotionControllerPawn_2] 95
+[2019.02.26-10.38.36:014][161]LogBlueprintUserMessages: [MotionControllerPawn_2] 94
+[2019.02.26-10.38.37:223][236]LogBlueprintUserMessages: [MotionControllerPawn_2] 93
+[2019.02.26-10.38.38:435][311]LogBlueprintUserMessages: [MotionControllerPawn_2] 92
+[2019.02.26-10.38.39:647][386]LogBlueprintUserMessages: [MotionControllerPawn_2] 91
+[2019.02.26-10.38.40:861][461]LogBlueprintUserMessages: [MotionControllerPawn_2] 90
+[2019.02.26-10.38.42:073][536]LogBlueprintUserMessages: [MotionControllerPawn_2] 89
+[2019.02.26-10.38.43:285][611]LogBlueprintUserMessages: [MotionControllerPawn_2] 88
+[2019.02.26-10.38.44:500][685]LogBlueprintUserMessages: [MotionControllerPawn_2] 87
+[2019.02.26-10.38.45:713][760]LogBlueprintUserMessages: [MotionControllerPawn_2] 86
+[2019.02.26-10.38.46:926][835]LogBlueprintUserMessages: [MotionControllerPawn_2] 85
+[2019.02.26-10.38.48:137][910]LogBlueprintUserMessages: [MotionControllerPawn_2] 84
+[2019.02.26-10.38.53:480][952]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BabyCarts_C /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BabyCarts_C_0
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts:001E
+[2019.02.26-10.38.53:480][952]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:AddAlien
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+
+[2019.02.26-10.38.58:016][952]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BabyCarts_C /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BabyCarts_C_1
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts:001E
+[2019.02.26-10.38.58:016][952]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:AddAlien
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+
+[2019.02.26-10.39.02:694][952]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BabyCarts_C /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BabyCarts_C_2
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts:001E
+[2019.02.26-10.39.02:694][952]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:AddAlien
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+
+[2019.02.26-10.39.15:730][952]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	BabyCarts_C /Game/StarterContent/Maps/Minimal_Default_2.Minimal_Default_2:PersistentLevel.BabyCarts_C_3
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts:001E
+[2019.02.26-10.39.15:736][952]LogScript: Warning: Script call stack:
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:AddAlien
+	Function /Game/Blueprints/BabyCarts.BabyCarts_C:ExecuteUbergraph_BabyCarts
+
+[2019.02.26-10.39.16:100][953]LogAudio: Warning: Waited 71.422684ms for audio thread.
+[2019.02.26-10.39.16:136][953]LogAudio: Warning: Waited 107.401054ms for audio thread.
+[2019.02.26-10.39.16:172][953]LogAudio: Warning: Waited 143.373764ms for audio thread.
+[2019.02.26-10.39.16:208][953]LogAudio: Warning: Waited 179.355682ms for audio thread.
+[2019.02.26-10.39.16:244][953]LogAudio: Warning: Waited 215.375809ms for audio thread.
+[2019.02.26-10.39.16:280][953]LogAudio: Warning: Waited 251.328705ms for audio thread.
+[2019.02.26-10.39.16:316][953]LogAudio: Warning: Waited 287.299988ms for audio thread.
+[2019.02.26-10.39.16:352][953]LogAudio: Warning: Waited 323.283661ms for audio thread.
+[2019.02.26-10.39.16:388][953]LogAudio: Warning: Waited 359.257813ms for audio thread.
+[2019.02.26-10.39.16:424][953]LogAudio: Warning: Waited 395.241821ms for audio thread.
+[2019.02.26-10.39.16:460][953]LogAudio: Warning: Waited 431.213837ms for audio thread.
+[2019.02.26-10.39.16:496][953]LogAudio: Warning: Waited 467.195740ms for audio thread.
+[2019.02.26-10.39.16:532][953]LogAudio: Warning: Waited 503.173401ms for audio thread.
+[2019.02.26-10.39.16:568][953]LogAudio: Warning: Waited 539.151062ms for audio thread.
+[2019.02.26-10.39.16:604][953]LogAudio: Warning: Waited 575.159180ms for audio thread.
+[2019.02.26-10.39.16:640][953]LogAudio: Warning: Waited 611.112427ms for audio thread.
+[2019.02.26-10.39.16:676][953]LogAudio: Warning: Waited 647.099670ms for audio thread.
+[2019.02.26-10.39.16:712][953]LogAudio: Warning: Waited 683.071655ms for audio thread.
+[2019.02.26-10.39.16:748][953]LogAudio: Warning: Waited 719.052490ms for audio thread.
+[2019.02.26-10.39.16:784][953]LogAudio: Warning: Waited 755.028748ms for audio thread.
+[2019.02.26-10.39.16:820][953]LogAudio: Warning: Waited 791.010315ms for audio thread.
+[2019.02.26-10.39.16:856][953]LogAudio: Warning: Waited 826.984741ms for audio thread.
+[2019.02.26-10.39.16:892][953]LogAudio: Warning: Waited 862.977356ms for audio thread.
+[2019.02.26-10.39.16:931][953]LogAudio: Warning: Waited 902.524597ms for audio thread.
+[2019.02.26-10.39.16:972][953]LogAudio: Warning: Waited 943.699585ms for audio thread.
+[2019.02.26-10.39.17:008][953]LogAudio: Warning: Waited 979.493896ms for audio thread.
+[2019.02.26-10.39.17:045][953]LogAudio: Warning: Waited 1015.907288ms for audio thread.
+[2019.02.26-10.39.17:081][953]LogAudio: Warning: Waited 1051.898682ms for audio thread.
+[2019.02.26-10.39.17:117][953]LogAudio: Warning: Waited 1088.408325ms for audio thread.
+[2019.02.26-10.39.17:153][953]LogAudio: Warning: Waited 1123.832153ms for audio thread.
+[2019.02.26-10.39.17:189][953]LogAudio: Warning: Waited 1159.821167ms for audio thread.
+[2019.02.26-10.39.17:225][953]LogAudio: Warning: Waited 1195.820313ms for audio thread.
+[2019.02.26-10.39.17:260][953]LogAudio: Warning: Waited 1230.786865ms for audio thread.
+[2019.02.26-10.39.17:296][953]LogAudio: Warning: Waited 1266.779785ms for audio thread.
+[2019.02.26-10.39.17:332][953]LogAudio: Warning: Waited 1302.743652ms for audio thread.
+[2019.02.26-10.39.17:368][953]LogAudio: Warning: Waited 1338.742188ms for audio thread.
+[2019.02.26-10.39.17:404][953]LogAudio: Warning: Waited 1374.711670ms for audio thread.
+[2019.02.26-10.39.17:440][953]LogAudio: Warning: Waited 1410.730713ms for audio thread.
+[2019.02.26-10.39.17:476][953]LogAudio: Warning: Waited 1446.701416ms for audio thread.
+[2019.02.26-10.39.17:512][953]LogAudio: Warning: Waited 1482.657104ms for audio thread.
+[2019.02.26-10.39.17:548][953]LogAudio: Warning: Waited 1518.624023ms for audio thread.
+[2019.02.26-10.39.17:584][953]LogAudio: Warning: Waited 1554.606812ms for audio thread.
+[2019.02.26-10.39.17:620][953]LogAudio: Warning: Waited 1590.592163ms for audio thread.
+[2019.02.26-10.39.17:656][953]LogAudio: Warning: Waited 1626.591064ms for audio thread.
+[2019.02.26-10.39.17:692][953]LogAudio: Warning: Waited 1662.602417ms for audio thread.
+[2019.02.26-10.39.17:728][953]LogAudio: Warning: Waited 1698.719482ms for audio thread.
+[2019.02.26-10.39.17:763][953]LogAudio: Warning: Waited 1734.623535ms for audio thread.
+[2019.02.26-10.39.17:799][953]LogAudio: Warning: Waited 1770.473877ms for audio thread.
+[2019.02.26-10.39.17:835][953]LogAudio: Warning: Waited 1806.461304ms for audio thread.
+[2019.02.26-10.39.17:871][953]LogAudio: Warning: Waited 1842.463135ms for audio thread.
+[2019.02.26-10.39.17:907][953]LogAudio: Warning: Waited 1878.412842ms for audio thread.
+[2019.02.26-10.39.17:943][953]LogAudio: Warning: Waited 1914.398926ms for audio thread.
+[2019.02.26-10.39.17:979][953]LogAudio: Warning: Waited 1950.411377ms for audio thread.
+[2019.02.26-10.39.18:015][953]LogAudio: Warning: Waited 1986.361694ms for audio thread.
+[2019.02.26-10.39.18:051][953]LogAudio: Warning: Waited 2022.326904ms for audio thread.
+[2019.02.26-10.39.18:087][953]LogAudio: Warning: Waited 2058.323486ms for audio thread.
+[2019.02.26-10.39.18:123][953]LogAudio: Warning: Waited 2094.289795ms for audio thread.
+[2019.02.26-10.39.18:159][953]LogAudio: Warning: Waited 2130.278809ms for audio thread.
+[2019.02.26-10.39.18:195][953]LogAudio: Warning: Waited 2166.302734ms for audio thread.
+[2019.02.26-10.39.18:231][953]LogAudio: Warning: Waited 2202.228760ms for audio thread.
+[2019.02.26-10.39.18:267][953]LogAudio: Warning: Waited 2238.235352ms for audio thread.
+[2019.02.26-10.39.18:303][953]LogAudio: Warning: Waited 2274.185791ms for audio thread.
+[2019.02.26-10.39.18:339][953]LogAudio: Warning: Waited 2310.167236ms for audio thread.
+[2019.02.26-10.39.18:375][953]LogAudio: Warning: Waited 2346.265381ms for audio thread.
+[2019.02.26-10.39.18:411][953]LogAudio: Warning: Waited 2382.145508ms for audio thread.
+[2019.02.26-10.39.18:447][953]LogAudio: Warning: Waited 2418.106689ms for audio thread.
+[2019.02.26-10.39.18:483][953]LogAudio: Warning: Waited 2454.127197ms for audio thread.
+[2019.02.26-10.39.18:519][953]LogAudio: Warning: Waited 2490.073975ms for audio thread.
+[2019.02.26-10.39.18:556][953]LogAudio: Warning: Waited 2527.349609ms for audio thread.
+[2019.02.26-10.39.18:592][953]LogAudio: Warning: Waited 2563.065186ms for audio thread.
+[2019.02.26-10.39.18:628][953]LogAudio: Warning: Waited 2598.997803ms for audio thread.
+[2019.02.26-10.39.18:664][953]LogAudio: Warning: Waited 2634.982666ms for audio thread.
+[2019.02.26-10.39.18:700][953]LogAudio: Warning: Waited 2670.953613ms for audio thread.
+[2019.02.26-10.39.18:736][953]LogAudio: Warning: Waited 2706.936279ms for audio thread.
+[2019.02.26-10.39.18:772][953]LogAudio: Warning: Waited 2742.912842ms for audio thread.
+[2019.02.26-10.39.18:808][953]LogAudio: Warning: Waited 2778.901611ms for audio thread.
+[2019.02.26-10.39.18:844][953]LogAudio: Warning: Waited 2814.917480ms for audio thread.
+[2019.02.26-10.39.18:882][953]LogAudio: Warning: Waited 2853.585938ms for audio thread.
+[2019.02.26-10.39.18:918][953]LogAudio: Warning: Waited 2888.840820ms for audio thread.
+[2019.02.26-10.39.18:955][953]LogAudio: Warning: Waited 2926.406494ms for audio thread.
+[2019.02.26-10.39.18:991][953]LogAudio: Warning: Waited 2961.819092ms for audio thread.
+[2019.02.26-10.39.19:027][953]LogAudio: Warning: Waited 2997.792969ms for audio thread.
+[2019.02.26-10.39.19:063][953]LogAudio: Warning: Waited 3033.744873ms for audio thread.
+[2019.02.26-10.39.19:099][953]LogAudio: Warning: Waited 3069.722168ms for audio thread.
+[2019.02.26-10.39.19:135][953]LogAudio: Warning: Waited 3105.715088ms for audio thread.
+[2019.02.26-10.39.19:171][953]LogAudio: Warning: Waited 3141.699707ms for audio thread.
+[2019.02.26-10.39.19:207][953]LogAudio: Warning: Waited 3177.663574ms for audio thread.
+[2019.02.26-10.39.19:243][953]LogAudio: Warning: Waited 3213.651855ms for audio thread.
+[2019.02.26-10.39.19:279][953]LogAudio: Warning: Waited 3249.619873ms for audio thread.
+[2019.02.26-10.39.19:315][953]LogAudio: Warning: Waited 3285.611328ms for audio thread.
+[2019.02.26-10.39.19:351][953]LogAudio: Warning: Waited 3321.609619ms for audio thread.
+[2019.02.26-10.39.19:387][953]LogAudio: Warning: Waited 3357.574951ms for audio thread.
+[2019.02.26-10.39.19:423][953]LogAudio: Warning: Waited 3393.544189ms for audio thread.
+[2019.02.26-10.39.19:459][953]LogAudio: Warning: Waited 3429.532227ms for audio thread.
+[2019.02.26-10.39.19:494][953]LogAudio: Warning: Waited 3465.500732ms for audio thread.
+[2019.02.26-10.39.19:530][953]LogAudio: Warning: Waited 3501.485596ms for audio thread.
+[2019.02.26-10.39.19:566][953]LogAudio: Warning: Waited 3537.456299ms for audio thread.
+[2019.02.26-10.39.19:602][953]LogAudio: Warning: Waited 3573.447998ms for audio thread.
+[2019.02.26-10.39.19:638][953]LogAudio: Warning: Waited 3610.107666ms for audio thread.
+[2019.02.26-10.39.19:674][953]LogAudio: Warning: Waited 3645.391846ms for audio thread.
+[2019.02.26-10.39.19:710][953]LogAudio: Warning: Waited 3681.371582ms for audio thread.
+[2019.02.26-10.39.19:746][953]LogAudio: Warning: Waited 3717.354980ms for audio thread.
+[2019.02.26-10.39.19:782][953]LogAudio: Warning: Waited 3753.341797ms for audio thread.
+[2019.02.26-10.39.19:818][953]LogAudio: Warning: Waited 3789.310547ms for audio thread.
+[2019.02.26-10.39.19:854][953]LogAudio: Warning: Waited 3825.302246ms for audio thread.
+[2019.02.26-10.39.19:890][953]LogAudio: Warning: Waited 3861.271240ms for audio thread.
+[2019.02.26-10.39.19:926][953]LogAudio: Warning: Waited 3897.258301ms for audio thread.
+[2019.02.26-10.39.19:962][953]LogAudio: Warning: Waited 3933.228516ms for audio thread.
+[2019.02.26-10.39.19:998][953]LogAudio: Warning: Waited 3969.215088ms for audio thread.
+[2019.02.26-10.39.20:034][953]LogAudio: Warning: Waited 4005.184570ms for audio thread.
+[2019.02.26-10.39.20:070][953]LogAudio: Warning: Waited 4041.161621ms for audio thread.
+[2019.02.26-10.39.20:106][953]LogAudio: Warning: Waited 4077.142334ms for audio thread.
+[2019.02.26-10.39.20:142][953]LogAudio: Warning: Waited 4113.125488ms for audio thread.
+[2019.02.26-10.39.20:178][953]LogAudio: Warning: Waited 4149.114746ms for audio thread.
+[2019.02.26-10.39.20:214][953]LogAudio: Warning: Waited 4185.094727ms for audio thread.
+[2019.02.26-10.39.20:250][953]LogAudio: Warning: Waited 4221.064453ms for audio thread.
+[2019.02.26-10.39.20:286][953]LogAudio: Warning: Waited 4257.059570ms for audio thread.
+[2019.02.26-10.39.20:322][953]LogAudio: Warning: Waited 4293.031738ms for audio thread.
+[2019.02.26-10.39.20:358][953]LogAudio: Warning: Waited 4329.011719ms for audio thread.
+[2019.02.26-10.39.20:394][953]LogAudio: Warning: Waited 4364.979980ms for audio thread.
+[2019.02.26-10.39.20:430][953]LogAudio: Warning: Waited 4400.957031ms for audio thread.
+[2019.02.26-10.39.20:466][953]LogAudio: Warning: Waited 4436.939941ms for audio thread.
+[2019.02.26-10.39.20:502][953]LogAudio: Warning: Waited 4472.915039ms for audio thread.
+[2019.02.26-10.39.20:538][953]LogAudio: Warning: Waited 4508.904785ms for audio thread.
+[2019.02.26-10.39.20:574][953]LogAudio: Warning: Waited 4544.893066ms for audio thread.
+[2019.02.26-10.39.20:610][953]LogAudio: Warning: Waited 4580.859863ms for audio thread.
+[2019.02.26-10.39.20:646][953]LogAudio: Warning: Waited 4616.831055ms for audio thread.
+[2019.02.26-10.39.20:682][953]LogAudio: Warning: Waited 4652.818848ms for audio thread.
+[2019.02.26-10.39.20:718][953]LogAudio: Warning: Waited 4688.794434ms for audio thread.
+[2019.02.26-10.39.20:754][953]LogAudio: Warning: Waited 4724.771973ms for audio thread.
+[2019.02.26-10.39.20:790][953]LogAudio: Warning: Waited 4760.750488ms for audio thread.
+[2019.02.26-10.39.20:826][953]LogAudio: Warning: Waited 4796.746094ms for audio thread.
+[2019.02.26-10.39.20:862][953]LogAudio: Warning: Waited 4832.710938ms for audio thread.
+[2019.02.26-10.39.20:898][953]LogAudio: Warning: Waited 4868.684570ms for audio thread.
+[2019.02.26-10.39.20:934][953]LogAudio: Warning: Waited 4904.669434ms for audio thread.
+[2019.02.26-10.39.20:970][953]LogAudio: Warning: Waited 4940.644531ms for audio thread.
+[2019.02.26-10.39.21:006][953]LogAudio: Warning: Waited 4976.633789ms for audio thread.
+[2019.02.26-10.39.21:042][953]LogAudio: Warning: Waited 5012.608398ms for audio thread.
+[2019.02.26-10.39.21:078][953]LogAudio: Warning: Waited 5048.610840ms for audio thread.
+[2019.02.26-10.39.21:114][953]LogAudio: Warning: Waited 5084.566406ms for audio thread.
+[2019.02.26-10.39.21:150][953]LogAudio: Warning: Waited 5120.545410ms for audio thread.
+[2019.02.26-10.39.21:186][953]LogAudio: Warning: Waited 5156.522461ms for audio thread.
+[2019.02.26-10.39.21:221][953]LogAudio: Warning: Waited 5192.535156ms for audio thread.
+[2019.02.26-10.39.21:257][953]LogAudio: Warning: Waited 5228.486328ms for audio thread.
+[2019.02.26-10.39.21:293][953]LogAudio: Warning: Waited 5264.474121ms for audio thread.
+[2019.02.26-10.39.21:329][953]LogAudio: Warning: Waited 5300.448730ms for audio thread.
+[2019.02.26-10.39.21:365][953]LogAudio: Warning: Waited 5336.435059ms for audio thread.
+[2019.02.26-10.39.21:401][953]LogAudio: Warning: Waited 5372.446777ms for audio thread.
+[2019.02.26-10.39.21:437][953]LogAudio: Warning: Waited 5408.398438ms for audio thread.
+[2019.02.26-10.39.21:476][953]LogAudio: Warning: Waited 5448.312012ms for audio thread.
+[2019.02.26-10.39.21:513][953]LogAudio: Warning: Waited 5485.270996ms for audio thread.
+[2019.02.26-10.39.21:550][953]LogAudio: Warning: Waited 5521.314453ms for audio thread.
+[2019.02.26-10.39.21:599][953]LogAudio: Warning: Waited 5570.544922ms for audio thread.
+[2019.02.26-10.39.21:635][953]LogAudio: Warning: Waited 5605.516602ms for audio thread.
+[2019.02.26-10.39.21:670][953]LogAudio: Warning: Waited 5641.098145ms for audio thread.
+[2019.02.26-10.39.21:705][953]LogAudio: Warning: Waited 5676.114258ms for audio thread.
+[2019.02.26-10.39.21:741][953]LogAudio: Warning: Waited 5711.669922ms for audio thread.
+[2019.02.26-10.39.21:777][953]LogAudio: Warning: Waited 5747.652344ms for audio thread.
+[2019.02.26-10.39.21:813][953]LogAudio: Warning: Waited 5784.472168ms for audio thread.
+[2019.02.26-10.39.21:849][953]LogAudio: Warning: Waited 5819.653320ms for audio thread.
+[2019.02.26-10.39.21:885][953]LogAudio: Warning: Waited 5855.555176ms for audio thread.
+[2019.02.26-10.39.21:921][953]LogAudio: Warning: Waited 5891.591309ms for audio thread.
+[2019.02.26-10.39.21:968][953]LogAudio: Warning: Waited 5939.449219ms for audio thread.
+[2019.02.26-10.39.22:007][953]LogAudio: Warning: Waited 5978.549316ms for audio thread.
+[2019.02.26-10.39.22:046][953]LogAudio: Warning: Waited 6018.192383ms for audio thread.
+[2019.02.26-10.39.22:085][953]LogAudio: Warning: Waited 6057.392578ms for audio thread.
+[2019.02.26-10.39.22:122][953]LogAudio: Warning: Waited 6093.432617ms for audio thread.
+[2019.02.26-10.39.22:158][953]LogAudio: Warning: Waited 6130.268555ms for audio thread.
+[2019.02.26-10.39.22:194][953]LogAudio: Warning: Waited 6166.039063ms for audio thread.
+[2019.02.26-10.39.22:230][953]LogAudio: Warning: Waited 6201.369141ms for audio thread.
+[2019.02.26-10.39.22:266][953]LogAudio: Warning: Waited 6237.375488ms for audio thread.
+[2019.02.26-10.39.22:302][953]LogAudio: Warning: Waited 6273.312988ms for audio thread.
+[2019.02.26-10.39.22:338][953]LogAudio: Warning: Waited 6309.338379ms for audio thread.
+[2019.02.26-10.39.22:374][953]LogAudio: Warning: Waited 6345.309082ms for audio thread.
+[2019.02.26-10.39.22:410][953]LogAudio: Warning: Waited 6381.259277ms for audio thread.
+[2019.02.26-10.39.22:446][953]LogAudio: Warning: Waited 6417.240234ms for audio thread.
+[2019.02.26-10.39.22:482][953]LogAudio: Warning: Waited 6453.249512ms for audio thread.
+[2019.02.26-10.39.22:518][953]LogAudio: Warning: Waited 6489.250488ms for audio thread.
+[2019.02.26-10.39.22:554][953]LogAudio: Warning: Waited 6525.181152ms for audio thread.
+[2019.02.26-10.39.22:590][953]LogAudio: Warning: Waited 6561.157227ms for audio thread.
+[2019.02.26-10.39.22:626][953]LogAudio: Warning: Waited 6597.175781ms for audio thread.
+[2019.02.26-10.39.22:662][953]LogAudio: Warning: Waited 6633.107422ms for audio thread.
+[2019.02.26-10.39.22:698][953]LogAudio: Warning: Waited 6669.121094ms for audio thread.
+[2019.02.26-10.39.22:734][953]LogAudio: Warning: Waited 6705.149414ms for audio thread.
+[2019.02.26-10.39.22:770][953]LogAudio: Warning: Waited 6741.293945ms for audio thread.
+[2019.02.26-10.39.22:806][953]LogAudio: Warning: Waited 6777.029297ms for audio thread.
+[2019.02.26-10.39.22:842][953]LogAudio: Warning: Waited 6813.007813ms for audio thread.
+[2019.02.26-10.39.22:878][953]LogAudio: Warning: Waited 6848.993164ms for audio thread.
+[2019.02.26-10.39.22:914][953]LogAudio: Warning: Waited 6884.970215ms for audio thread.
+[2019.02.26-10.39.22:950][953]LogAudio: Warning: Waited 6920.946289ms for audio thread.
+[2019.02.26-10.39.22:986][953]LogAudio: Warning: Waited 6956.925293ms for audio thread.
+[2019.02.26-10.39.23:022][953]LogAudio: Warning: Waited 6992.911621ms for audio thread.
+[2019.02.26-10.39.23:058][953]LogAudio: Warning: Waited 7028.880859ms for audio thread.
+[2019.02.26-10.39.23:094][953]LogAudio: Warning: Waited 7064.873047ms for audio thread.
+[2019.02.26-10.39.23:130][953]LogAudio: Warning: Waited 7100.871094ms for audio thread.
+[2019.02.26-10.39.23:166][953]LogAudio: Warning: Waited 7136.832520ms for audio thread.
+[2019.02.26-10.39.23:202][953]LogAudio: Warning: Waited 7172.802246ms for audio thread.
+[2019.02.26-10.39.23:237][953]LogAudio: Warning: Waited 7208.294434ms for audio thread.
+[2019.02.26-10.39.23:272][953]LogAudio: Warning: Waited 7243.396973ms for audio thread.
+[2019.02.26-10.39.23:308][953]LogAudio: Warning: Waited 7278.592773ms for audio thread.
+[2019.02.26-10.39.23:343][953]LogAudio: Warning: Waited 7314.490234ms for audio thread.
+[2019.02.26-10.39.23:386][953]LogAudio: Warning: Waited 7358.393066ms for audio thread.
+[2019.02.26-10.39.23:423][953]LogAudio: Warning: Waited 7394.465820ms for audio thread.
+[2019.02.26-10.39.23:459][953]LogAudio: Warning: Waited 7430.416992ms for audio thread.
+[2019.02.26-10.39.23:495][953]LogAudio: Warning: Waited 7466.395020ms for audio thread.
+[2019.02.26-10.39.23:531][953]LogAudio: Warning: Waited 7502.380859ms for audio thread.
+[2019.02.26-10.39.23:567][953]LogAudio: Warning: Waited 7538.365234ms for audio thread.
+[2019.02.26-10.39.23:603][953]LogAudio: Warning: Waited 7574.390137ms for audio thread.
+[2019.02.26-10.39.23:640][953]LogAudio: Warning: Waited 7611.416016ms for audio thread.
+[2019.02.26-10.39.23:676][953]LogAudio: Warning: Waited 7647.472168ms for audio thread.
+[2019.02.26-10.39.23:712][953]LogAudio: Warning: Waited 7683.273438ms for audio thread.
+[2019.02.26-10.39.23:748][953]LogAudio: Warning: Waited 7719.248535ms for audio thread.
+[2019.02.26-10.39.23:784][953]LogAudio: Warning: Waited 7755.243652ms for audio thread.
+[2019.02.26-10.39.23:820][953]LogAudio: Warning: Waited 7791.206543ms for audio thread.
+[2019.02.26-10.39.23:856][953]LogAudio: Warning: Waited 7827.226563ms for audio thread.
+[2019.02.26-10.39.23:892][953]LogAudio: Warning: Waited 7863.169434ms for audio thread.
+[2019.02.26-10.39.23:928][953]LogAudio: Warning: Waited 7899.166016ms for audio thread.
+[2019.02.26-10.39.23:964][953]LogAudio: Warning: Waited 7935.126465ms for audio thread.
+[2019.02.26-10.39.24:000][953]LogAudio: Warning: Waited 7971.107910ms for audio thread.
+[2019.02.26-10.39.24:036][953]LogAudio: Warning: Waited 8007.101074ms for audio thread.
+[2019.02.26-10.39.24:072][953]LogAudio: Warning: Waited 8043.064941ms for audio thread.
+[2019.02.26-10.39.24:108][953]LogAudio: Warning: Waited 8079.061523ms for audio thread.
+[2019.02.26-10.39.24:144][953]LogAudio: Warning: Waited 8115.203125ms for audio thread.
+[2019.02.26-10.39.24:180][953]LogAudio: Warning: Waited 8151.104004ms for audio thread.
+[2019.02.26-10.39.24:216][953]LogAudio: Warning: Waited 8186.984863ms for audio thread.
+[2019.02.26-10.39.24:252][953]LogAudio: Warning: Waited 8222.993164ms for audio thread.
+[2019.02.26-10.39.24:288][953]LogAudio: Warning: Waited 8258.940430ms for audio thread.
+[2019.02.26-10.39.24:324][953]LogAudio: Warning: Waited 8294.917969ms for audio thread.
+[2019.02.26-10.39.24:360][953]LogAudio: Warning: Waited 8330.901367ms for audio thread.
+[2019.02.26-10.39.24:396][953]LogAudio: Warning: Waited 8366.887695ms for audio thread.
+[2019.02.26-10.39.24:432][953]LogAudio: Warning: Waited 8402.855469ms for audio thread.
+[2019.02.26-10.39.24:468][953]LogAudio: Warning: Waited 8438.833984ms for audio thread.
+[2019.02.26-10.39.24:504][953]LogAudio: Warning: Waited 8474.808594ms for audio thread.
+[2019.02.26-10.39.24:540][953]LogAudio: Warning: Waited 8510.798828ms for audio thread.
+[2019.02.26-10.39.24:576][953]LogAudio: Warning: Waited 8546.775391ms for audio thread.
+[2019.02.26-10.39.24:612][953]LogAudio: Warning: Waited 8582.754883ms for audio thread.
+[2019.02.26-10.39.24:648][953]LogAudio: Warning: Waited 8618.731445ms for audio thread.
+[2019.02.26-10.39.24:684][953]LogAudio: Warning: Waited 8654.734375ms for audio thread.
+[2019.02.26-10.39.24:720][953]LogAudio: Warning: Waited 8690.692383ms for audio thread.
+[2019.02.26-10.39.24:756][953]LogAudio: Warning: Waited 8726.666992ms for audio thread.
+[2019.02.26-10.39.24:792][953]LogAudio: Warning: Waited 8762.646484ms for audio thread.
+[2019.02.26-10.39.24:828][953]LogAudio: Warning: Waited 8798.625000ms for audio thread.
+[2019.02.26-10.39.24:864][953]LogAudio: Warning: Waited 8834.606445ms for audio thread.
+[2019.02.26-10.39.24:900][953]LogAudio: Warning: Waited 8870.589844ms for audio thread.
+[2019.02.26-10.39.24:936][953]LogAudio: Warning: Waited 8906.591797ms for audio thread.
+[2019.02.26-10.39.24:972][953]LogAudio: Warning: Waited 8942.557617ms for audio thread.
+[2019.02.26-10.39.25:008][953]LogAudio: Warning: Waited 8978.536133ms for audio thread.
+[2019.02.26-10.39.25:043][953]LogAudio: Warning: Waited 9014.503906ms for audio thread.
+[2019.02.26-10.39.25:079][953]LogAudio: Warning: Waited 9050.495117ms for audio thread.
+[2019.02.26-10.39.25:115][953]LogAudio: Warning: Waited 9086.459961ms for audio thread.
+[2019.02.26-10.39.25:151][953]LogAudio: Warning: Waited 9122.455078ms for audio thread.
+[2019.02.26-10.39.25:187][953]LogAudio: Warning: Waited 9158.417969ms for audio thread.
+[2019.02.26-10.39.25:223][953]LogAudio: Warning: Waited 9194.413086ms for audio thread.
+[2019.02.26-10.39.25:259][953]LogAudio: Warning: Waited 9230.410156ms for audio thread.
+[2019.02.26-10.39.25:295][953]LogAudio: Warning: Waited 9266.360352ms for audio thread.
+[2019.02.26-10.39.25:331][953]LogAudio: Warning: Waited 9302.333984ms for audio thread.
+[2019.02.26-10.39.25:367][953]LogAudio: Warning: Waited 9338.340820ms for audio thread.
+[2019.02.26-10.39.25:403][953]LogAudio: Warning: Waited 9374.304688ms for audio thread.
+[2019.02.26-10.39.25:439][953]LogAudio: Warning: Waited 9410.276367ms for audio thread.
+[2019.02.26-10.39.25:475][953]LogAudio: Warning: Waited 9446.262695ms for audio thread.
+[2019.02.26-10.39.25:511][953]LogAudio: Warning: Waited 9482.288086ms for audio thread.
+[2019.02.26-10.39.25:547][953]LogAudio: Warning: Waited 9518.216797ms for audio thread.
+[2019.02.26-10.39.25:583][953]LogAudio: Warning: Waited 9554.225586ms for audio thread.
+[2019.02.26-10.39.25:619][953]LogAudio: Warning: Waited 9590.168945ms for audio thread.
+[2019.02.26-10.39.25:662][953]LogAudio: Warning: Waited 9633.373047ms for audio thread.
+[2019.02.26-10.39.25:698][953]LogAudio: Warning: Waited 9669.131836ms for audio thread.
+[2019.02.26-10.39.25:734][953]LogAudio: Warning: Waited 9705.131836ms for audio thread.
+[2019.02.26-10.39.25:770][953]LogAudio: Warning: Waited 9741.094727ms for audio thread.
+[2019.02.26-10.39.25:806][953]LogAudio: Warning: Waited 9777.081055ms for audio thread.
+[2019.02.26-10.39.25:842][953]LogAudio: Warning: Waited 9813.043945ms for audio thread.
+[2019.02.26-10.39.25:878][953]LogAudio: Warning: Waited 9849.026367ms for audio thread.
+[2019.02.26-10.39.25:914][953]LogAudio: Warning: Waited 9885.005859ms for audio thread.
+[2019.02.26-10.39.25:950][953]LogAudio: Warning: Waited 9920.979492ms for audio thread.
+[2019.02.26-10.39.25:986][953]LogAudio: Warning: Waited 9957.255859ms for audio thread.
+[2019.02.26-10.39.26:022][953]LogAudio: Warning: Waited 9993.165039ms for audio thread.
+[2019.02.26-10.39.26:058][953]LogAudio: Warning: Waited 10029.315430ms for audio thread.
+[2019.02.26-10.39.26:097][953]LogAudio: Warning: Waited 10067.985352ms for audio thread.
+[2019.02.26-10.39.26:133][953]LogAudio: Warning: Waited 10103.958008ms for audio thread.
+[2019.02.26-10.39.26:169][953]LogAudio: Warning: Waited 10140.430664ms for audio thread.
+[2019.02.26-10.39.26:206][953]LogAudio: Warning: Waited 10176.847656ms for audio thread.
+[2019.02.26-10.39.26:248][953]LogAudio: Warning: Waited 10218.841797ms for audio thread.
+[2019.02.26-10.39.26:284][953]LogAudio: Warning: Waited 10254.792969ms for audio thread.
+[2019.02.26-10.39.26:320][953]LogAudio: Warning: Waited 10291.169922ms for audio thread.
+[2019.02.26-10.39.26:358][953]LogAudio: Warning: Waited 10329.033203ms for audio thread.
+[2019.02.26-10.39.26:395][953]LogAudio: Warning: Waited 10365.718750ms for audio thread.
+[2019.02.26-10.39.26:431][953]LogAudio: Warning: Waited 10402.085938ms for audio thread.
+[2019.02.26-10.39.26:468][953]LogAudio: Warning: Waited 10438.718750ms for audio thread.
+[2019.02.26-10.39.26:504][953]LogAudio: Warning: Waited 10474.664063ms for audio thread.
+[2019.02.26-10.39.26:540][953]LogAudio: Warning: Waited 10510.644531ms for audio thread.
+[2019.02.26-10.39.26:576][953]LogAudio: Warning: Waited 10547.045898ms for audio thread.
+[2019.02.26-10.39.26:612][953]LogAudio: Warning: Waited 10582.624023ms for audio thread.
+[2019.02.26-10.39.26:669][953]LogAudio: Warning: Waited 10639.901367ms for audio thread.
+[2019.02.26-10.39.26:705][953]LogAudio: Warning: Waited 10676.145508ms for audio thread.
+[2019.02.26-10.39.26:741][953]LogAudio: Warning: Waited 10711.529297ms for audio thread.
+[2019.02.26-10.39.26:777][953]LogAudio: Warning: Waited 10749.369141ms for audio thread.
+[2019.02.26-10.39.26:814][953]LogAudio: Warning: Waited 10785.514648ms for audio thread.
+[2019.02.26-10.39.26:850][953]LogAudio: Warning: Waited 10821.495117ms for audio thread.
+[2019.02.26-10.39.26:886][953]LogAudio: Warning: Waited 10857.509766ms for audio thread.
+[2019.02.26-10.39.26:922][953]LogAudio: Warning: Waited 10893.423828ms for audio thread.
+[2019.02.26-10.39.26:958][953]LogAudio: Warning: Waited 10929.423828ms for audio thread.
+[2019.02.26-10.39.26:994][953]LogAudio: Warning: Waited 10965.397461ms for audio thread.
+[2019.02.26-10.39.27:030][953]LogAudio: Warning: Waited 11001.378906ms for audio thread.
+[2019.02.26-10.39.27:066][953]LogAudio: Warning: Waited 11037.340820ms for audio thread.
+[2019.02.26-10.39.27:102][953]LogAudio: Warning: Waited 11073.312500ms for audio thread.
+[2019.02.26-10.39.27:138][953]LogAudio: Warning: Waited 11109.310547ms for audio thread.
+[2019.02.26-10.39.27:174][953]LogAudio: Warning: Waited 11145.284180ms for audio thread.
+[2019.02.26-10.39.27:210][953]LogAudio: Warning: Waited 11181.251953ms for audio thread.
+[2019.02.26-10.39.27:246][953]LogAudio: Warning: Waited 11217.266602ms for audio thread.
+[2019.02.26-10.39.27:282][953]LogAudio: Warning: Waited 11253.353516ms for audio thread.
+[2019.02.26-10.39.27:318][953]LogAudio: Warning: Waited 11289.186523ms for audio thread.
+[2019.02.26-10.39.27:354][953]LogAudio: Warning: Waited 11325.200195ms for audio thread.
+[2019.02.26-10.39.27:390][953]LogAudio: Warning: Waited 11361.289063ms for audio thread.
+[2019.02.26-10.39.27:426][953]LogAudio: Warning: Waited 11397.207031ms for audio thread.
+[2019.02.26-10.39.27:462][953]LogAudio: Warning: Waited 11433.108398ms for audio thread.
+[2019.02.26-10.39.27:498][953]LogAudio: Warning: Waited 11469.095703ms for audio thread.
+[2019.02.26-10.39.27:534][953]LogAudio: Warning: Waited 11505.121094ms for audio thread.
+[2019.02.26-10.39.27:570][953]LogAudio: Warning: Waited 11541.047852ms for audio thread.
+[2019.02.26-10.39.27:606][953]LogAudio: Warning: Waited 11577.029297ms for audio thread.
+[2019.02.26-10.39.27:642][953]LogAudio: Warning: Waited 11613.031250ms for audio thread.
+[2019.02.26-10.39.27:678][953]LogAudio: Warning: Waited 11649.029297ms for audio thread.
+[2019.02.26-10.39.27:714][953]LogAudio: Warning: Waited 11684.970703ms for audio thread.
+[2019.02.26-10.39.27:750][953]LogAudio: Warning: Waited 11720.943359ms for audio thread.
+[2019.02.26-10.39.27:786][953]LogAudio: Warning: Waited 11756.954102ms for audio thread.
+[2019.02.26-10.39.27:822][953]LogAudio: Warning: Waited 11792.919922ms for audio thread.
+[2019.02.26-10.39.27:858][953]LogAudio: Warning: Waited 11828.878906ms for audio thread.
+[2019.02.26-10.39.27:894][953]LogAudio: Warning: Waited 11864.861328ms for audio thread.
+[2019.02.26-10.39.27:930][953]LogAudio: Warning: Waited 11900.859375ms for audio thread.
+[2019.02.26-10.39.27:966][953]LogAudio: Warning: Waited 11936.816406ms for audio thread.
+[2019.02.26-10.39.28:002][953]LogAudio: Warning: Waited 11972.800781ms for audio thread.
+[2019.02.26-10.39.28:038][953]LogAudio: Warning: Waited 12008.793945ms for audio thread.
+[2019.02.26-10.39.28:074][953]LogAudio: Warning: Waited 12044.756836ms for audio thread.
+[2019.02.26-10.39.28:110][953]LogAudio: Warning: Waited 12080.731445ms for audio thread.
+[2019.02.26-10.39.28:146][953]LogAudio: Warning: Waited 12116.721680ms for audio thread.
+[2019.02.26-10.39.28:182][953]LogAudio: Warning: Waited 12152.691406ms for audio thread.
+[2019.02.26-10.39.28:218][953]LogAudio: Warning: Waited 12188.677734ms for audio thread.
+[2019.02.26-10.39.28:254][953]LogAudio: Warning: Waited 12224.661133ms for audio thread.
+[2019.02.26-10.39.28:290][953]LogAudio: Warning: Waited 12260.648438ms for audio thread.
+[2019.02.26-10.39.28:326][953]LogAudio: Warning: Waited 12296.610352ms for audio thread.
+[2019.02.26-10.39.28:362][953]LogAudio: Warning: Waited 12332.589844ms for audio thread.
+[2019.02.26-10.39.28:398][953]LogAudio: Warning: Waited 12368.569336ms for audio thread.
+[2019.02.26-10.39.28:434][953]LogAudio: Warning: Waited 12404.563477ms for audio thread.
+[2019.02.26-10.39.28:470][953]LogAudio: Warning: Waited 12440.530273ms for audio thread.
+[2019.02.26-10.39.28:505][953]LogAudio: Warning: Waited 12476.501953ms for audio thread.
+[2019.02.26-10.39.28:541][953]LogAudio: Warning: Waited 12512.495117ms for audio thread.
+[2019.02.26-10.39.28:577][953]LogAudio: Warning: Waited 12548.463867ms for audio thread.
+[2019.02.26-10.39.28:613][953]LogAudio: Warning: Waited 12584.477539ms for audio thread.
+[2019.02.26-10.39.28:649][953]LogAudio: Warning: Waited 12620.432617ms for audio thread.
+[2019.02.26-10.39.28:685][953]LogAudio: Warning: Waited 12656.398438ms for audio thread.
+[2019.02.26-10.39.28:721][953]LogAudio: Warning: Waited 12692.389648ms for audio thread.
+[2019.02.26-10.39.28:757][953]LogAudio: Warning: Waited 12728.375977ms for audio thread.
+[2019.02.26-10.39.28:793][953]LogAudio: Warning: Waited 12764.340820ms for audio thread.
+[2019.02.26-10.39.28:829][953]LogAudio: Warning: Waited 12800.336914ms for audio thread.
+[2019.02.26-10.39.28:865][953]LogAudio: Warning: Waited 12836.306641ms for audio thread.
+[2019.02.26-10.39.28:901][953]LogAudio: Warning: Waited 12872.286133ms for audio thread.
+[2019.02.26-10.39.28:937][953]LogAudio: Warning: Waited 12908.257813ms for audio thread.
+[2019.02.26-10.39.28:973][953]LogAudio: Warning: Waited 12944.523438ms for audio thread.
+[2019.02.26-10.39.29:038][953]LogAudio: Warning: Waited 13009.542969ms for audio thread.
+[2019.02.26-10.39.29:083][953]LogAudio: Warning: Waited 13054.383789ms for audio thread.
+[2019.02.26-10.39.29:139][953]LogAudio: Warning: Waited 13094.845703ms for audio thread.
+[2019.02.26-10.39.29:213][953]LogAudio: Warning: Waited 13184.798828ms for audio thread.
+[2019.02.26-10.39.29:249][953]LogAudio: Warning: Waited 13220.109375ms for audio thread.
+[2019.02.26-10.39.29:285][953]LogAudio: Warning: Waited 13256.510742ms for audio thread.
+[2019.02.26-10.39.29:321][953]LogAudio: Warning: Waited 13292.207031ms for audio thread.
+[2019.02.26-10.39.29:357][953]LogAudio: Warning: Waited 13328.079102ms for audio thread.
+[2019.02.26-10.39.29:393][953]LogAudio: Warning: Waited 13364.023438ms for audio thread.
+[2019.02.26-10.39.29:429][953]LogAudio: Warning: Waited 13400.043945ms for audio thread.
+[2019.02.26-10.39.29:465][953]LogAudio: Warning: Waited 13435.991211ms for audio thread.
+[2019.02.26-10.39.29:501][953]LogAudio: Warning: Waited 13472.098633ms for audio thread.
+[2019.02.26-10.39.29:537][953]LogAudio: Warning: Waited 13507.907227ms for audio thread.
+[2019.02.26-10.39.29:573][953]LogAudio: Warning: Waited 13543.832031ms for audio thread.
+[2019.02.26-10.39.29:609][953]LogAudio: Warning: Waited 13579.804688ms for audio thread.
+[2019.02.26-10.39.29:644][953]LogAudio: Warning: Waited 13614.833008ms for audio thread.
+[2019.02.26-10.39.29:680][953]LogAudio: Warning: Waited 13650.996094ms for audio thread.
+[2019.02.26-10.39.29:716][953]LogAudio: Warning: Waited 13687.087891ms for audio thread.
+[2019.02.26-10.39.29:752][953]LogAudio: Warning: Waited 13722.817383ms for audio thread.
+[2019.02.26-10.39.29:788][953]LogAudio: Warning: Waited 13758.730469ms for audio thread.
+[2019.02.26-10.39.29:826][953]LogAudio: Warning: Waited 13798.062500ms for audio thread.
+[2019.02.26-10.39.29:863][953]LogAudio: Warning: Waited 13834.198242ms for audio thread.
+[2019.02.26-10.39.29:899][953]LogAudio: Warning: Waited 13870.203125ms for audio thread.
+[2019.02.26-10.39.29:935][953]LogAudio: Warning: Waited 13906.153320ms for audio thread.
+[2019.02.26-10.39.29:971][953]LogAudio: Warning: Waited 13942.222656ms for audio thread.
+[2019.02.26-10.39.30:007][953]LogAudio: Warning: Waited 13977.623047ms for audio thread.
+[2019.02.26-10.39.30:043][953]LogAudio: Warning: Waited 14013.876953ms for audio thread.
+[2019.02.26-10.39.30:079][953]LogAudio: Warning: Waited 14049.623047ms for audio thread.
+[2019.02.26-10.39.30:119][953]LogAudio: Warning: Waited 14089.823242ms for audio thread.
+[2019.02.26-10.39.30:157][953]LogAudio: Warning: Waited 14128.258789ms for audio thread.
+[2019.02.26-10.39.30:193][953]LogAudio: Warning: Waited 14164.522461ms for audio thread.
+[2019.02.26-10.39.30:229][953]LogAudio: Warning: Waited 14200.493164ms for audio thread.
+[2019.02.26-10.39.30:265][953]LogAudio: Warning: Waited 14236.485352ms for audio thread.
+[2019.02.26-10.39.30:301][953]LogAudio: Warning: Waited 14272.495117ms for audio thread.
+[2019.02.26-10.39.30:337][953]LogAudio: Warning: Waited 14308.480469ms for audio thread.
+[2019.02.26-10.39.30:373][953]LogAudio: Warning: Waited 14344.405273ms for audio thread.
+[2019.02.26-10.39.30:409][953]LogAudio: Warning: Waited 14380.591797ms for audio thread.
+[2019.02.26-10.39.30:445][953]LogAudio: Warning: Waited 14416.425781ms for audio thread.
+[2019.02.26-10.39.30:481][953]LogAudio: Warning: Waited 14452.345703ms for audio thread.
+[2019.02.26-10.39.30:517][953]LogAudio: Warning: Waited 14488.346680ms for audio thread.
+[2019.02.26-10.39.30:553][953]LogAudio: Warning: Waited 14524.899414ms for audio thread.
+[2019.02.26-10.39.30:589][953]LogAudio: Warning: Waited 14560.664063ms for audio thread.
+[2019.02.26-10.39.30:625][953]LogAudio: Warning: Waited 14596.915039ms for audio thread.
+[2019.02.26-10.39.30:661][953]LogAudio: Warning: Waited 14632.290039ms for audio thread.
+[2019.02.26-10.39.30:702][953]LogAudio: Warning: Waited 14673.509766ms for audio thread.
+[2019.02.26-10.39.30:775][953]LogAudio: Warning: Waited 14746.416992ms for audio thread.
+[2019.02.26-10.39.30:811][953]LogAudio: Warning: Waited 14782.213867ms for audio thread.
+[2019.02.26-10.39.30:847][953]LogAudio: Warning: Waited 14818.175781ms for audio thread.
+[2019.02.26-10.39.30:883][953]LogAudio: Warning: Waited 14854.113281ms for audio thread.
+[2019.02.26-10.39.30:919][953]LogAudio: Warning: Waited 14890.087891ms for audio thread.
+[2019.02.26-10.39.30:955][953]LogAudio: Warning: Waited 14926.092773ms for audio thread.
+[2019.02.26-10.39.30:991][953]LogAudio: Warning: Waited 14962.257813ms for audio thread.
+[2019.02.26-10.39.31:027][953]LogAudio: Warning: Waited 14998.026367ms for audio thread.
+[2019.02.26-10.39.31:063][953]LogAudio: Warning: Waited 15034.013672ms for audio thread.
+[2019.02.26-10.39.31:099][953]LogAudio: Warning: Waited 15070.006836ms for audio thread.
+[2019.02.26-10.39.31:135][953]LogAudio: Warning: Waited 15105.968750ms for audio thread.
+[2019.02.26-10.39.31:171][953]LogAudio: Warning: Waited 15141.968750ms for audio thread.
+[2019.02.26-10.39.31:207][953]LogAudio: Warning: Waited 15177.959961ms for audio thread.
+[2019.02.26-10.39.31:243][953]LogAudio: Warning: Waited 15213.957031ms for audio thread.
+[2019.02.26-10.39.31:279][953]LogAudio: Warning: Waited 15249.939453ms for audio thread.
+[2019.02.26-10.39.31:315][953]LogAudio: Warning: Waited 15285.872070ms for audio thread.
+[2019.02.26-10.39.31:351][953]LogAudio: Warning: Waited 15321.877930ms for audio thread.
+[2019.02.26-10.39.31:387][953]LogAudio: Warning: Waited 15357.821289ms for audio thread.
+[2019.02.26-10.39.31:423][953]LogAudio: Warning: Waited 15393.802734ms for audio thread.
+[2019.02.26-10.39.31:459][953]LogAudio: Warning: Waited 15429.807617ms for audio thread.
+[2019.02.26-10.39.31:495][953]LogAudio: Warning: Waited 15465.759766ms for audio thread.
+[2019.02.26-10.39.31:531][953]LogAudio: Warning: Waited 15501.810547ms for audio thread.
+[2019.02.26-10.39.31:567][953]LogAudio: Warning: Waited 15537.931641ms for audio thread.
+[2019.02.26-10.39.31:603][953]LogAudio: Warning: Waited 15573.750977ms for audio thread.
+[2019.02.26-10.39.31:639][953]LogAudio: Warning: Waited 15609.708984ms for audio thread.
+[2019.02.26-10.39.31:675][953]LogAudio: Warning: Waited 15645.660156ms for audio thread.
+[2019.02.26-10.39.31:711][953]LogAudio: Warning: Waited 15681.668945ms for audio thread.
+[2019.02.26-10.39.31:747][953]LogAudio: Warning: Waited 15717.615234ms for audio thread.
+[2019.02.26-10.39.31:783][953]LogAudio: Warning: Waited 15753.601563ms for audio thread.
+[2019.02.26-10.39.31:819][953]LogAudio: Warning: Waited 15789.567383ms for audio thread.
+[2019.02.26-10.39.31:855][953]LogAudio: Warning: Waited 15825.919922ms for audio thread.
+[2019.02.26-10.39.31:891][953]LogAudio: Warning: Waited 15861.551758ms for audio thread.
+[2019.02.26-10.39.31:926][953]LogAudio: Warning: Waited 15897.509766ms for audio thread.
+[2019.02.26-10.39.31:962][953]LogAudio: Warning: Waited 15934.212891ms for audio thread.
+[2019.02.26-10.39.31:998][953]LogAudio: Warning: Waited 15969.489258ms for audio thread.
+[2019.02.26-10.39.32:034][953]LogAudio: Warning: Waited 16006.295898ms for audio thread.
+[2019.02.26-10.39.32:070][953]LogAudio: Warning: Waited 16041.459961ms for audio thread.
+[2019.02.26-10.39.32:106][953]LogAudio: Warning: Waited 16077.436523ms for audio thread.
+[2019.02.26-10.39.32:142][953]LogAudio: Warning: Waited 16113.387695ms for audio thread.
+[2019.02.26-10.39.32:178][953]LogAudio: Warning: Waited 16149.368164ms for audio thread.
+[2019.02.26-10.39.32:214][953]LogAudio: Warning: Waited 16185.352539ms for audio thread.
+[2019.02.26-10.39.32:250][953]LogAudio: Warning: Waited 16221.327148ms for audio thread.
+[2019.02.26-10.39.32:286][953]LogAudio: Warning: Waited 16257.412109ms for audio thread.
+[2019.02.26-10.39.32:322][953]LogAudio: Warning: Waited 16293.285156ms for audio thread.
+[2019.02.26-10.39.32:358][953]LogAudio: Warning: Waited 16329.281250ms for audio thread.
+[2019.02.26-10.39.32:394][953]LogAudio: Warning: Waited 16365.268555ms for audio thread.
+[2019.02.26-10.39.32:430][953]LogAudio: Warning: Waited 16401.244141ms for audio thread.
+[2019.02.26-10.39.32:466][953]LogAudio: Warning: Waited 16437.207031ms for audio thread.
+[2019.02.26-10.39.32:502][953]LogAudio: Warning: Waited 16473.185547ms for audio thread.
+[2019.02.26-10.39.32:538][953]LogAudio: Warning: Waited 16509.171875ms for audio thread.
+[2019.02.26-10.39.32:574][953]LogAudio: Warning: Waited 16545.136719ms for audio thread.
+[2019.02.26-10.39.32:610][953]LogAudio: Warning: Waited 16581.128906ms for audio thread.
+[2019.02.26-10.39.32:646][953]LogAudio: Warning: Waited 16617.144531ms for audio thread.
+[2019.02.26-10.39.32:682][953]LogAudio: Warning: Waited 16653.130859ms for audio thread.
+[2019.02.26-10.39.32:718][953]LogAudio: Warning: Waited 16689.076172ms for audio thread.
+[2019.02.26-10.39.32:754][953]LogAudio: Warning: Waited 16725.027344ms for audio thread.
+[2019.02.26-10.39.32:790][953]LogAudio: Warning: Waited 16761.027344ms for audio thread.
+[2019.02.26-10.39.32:826][953]LogAudio: Warning: Waited 16797.037109ms for audio thread.
+[2019.02.26-10.39.32:862][953]LogAudio: Warning: Waited 16832.994141ms for audio thread.
+[2019.02.26-10.39.32:898][953]LogAudio: Warning: Waited 16868.947266ms for audio thread.
+[2019.02.26-10.39.32:934][953]LogAudio: Warning: Waited 16904.927734ms for audio thread.
+[2019.02.26-10.39.32:970][953]LogAudio: Warning: Waited 16940.933594ms for audio thread.
+[2019.02.26-10.39.33:006][953]LogAudio: Warning: Waited 16976.919922ms for audio thread.
+[2019.02.26-10.39.33:042][953]LogAudio: Warning: Waited 17012.867188ms for audio thread.
+[2019.02.26-10.39.33:078][953]LogAudio: Warning: Waited 17048.892578ms for audio thread.
+[2019.02.26-10.39.33:114][953]LogAudio: Warning: Waited 17084.914063ms for audio thread.
+[2019.02.26-10.39.33:150][953]LogAudio: Warning: Waited 17120.835938ms for audio thread.
+[2019.02.26-10.39.33:186][953]LogAudio: Warning: Waited 17156.808594ms for audio thread.
+[2019.02.26-10.39.33:222][953]LogAudio: Warning: Waited 17193.699219ms for audio thread.
+[2019.02.26-10.39.33:260][953]LogAudio: Warning: Waited 17231.005859ms for audio thread.
+[2019.02.26-10.39.33:296][953]LogAudio: Warning: Waited 17266.722656ms for audio thread.
+[2019.02.26-10.39.33:332][953]LogAudio: Warning: Waited 17302.697266ms for audio thread.
+[2019.02.26-10.39.33:368][953]LogAudio: Warning: Waited 17338.675781ms for audio thread.
+[2019.02.26-10.39.33:404][953]LogAudio: Warning: Waited 17374.658203ms for audio thread.
+[2019.02.26-10.39.33:440][953]LogAudio: Warning: Waited 17410.656250ms for audio thread.
+[2019.02.26-10.39.33:476][953]LogAudio: Warning: Waited 17446.662109ms for audio thread.
+[2019.02.26-10.39.33:512][953]LogAudio: Warning: Waited 17482.699219ms for audio thread.
+[2019.02.26-10.39.33:548][953]LogAudio: Warning: Waited 17518.582031ms for audio thread.
+[2019.02.26-10.39.33:584][953]LogAudio: Warning: Waited 17554.605469ms for audio thread.
+[2019.02.26-10.39.33:620][953]LogAudio: Warning: Waited 17590.615234ms for audio thread.
+[2019.02.26-10.39.33:656][953]LogAudio: Warning: Waited 17626.517578ms for audio thread.
+[2019.02.26-10.39.33:691][953]LogAudio: Warning: Waited 17662.515625ms for audio thread.
+[2019.02.26-10.39.33:727][953]LogAudio: Warning: Waited 17698.486328ms for audio thread.
+[2019.02.26-10.39.33:763][953]LogAudio: Warning: Waited 17734.460938ms for audio thread.
+[2019.02.26-10.39.33:799][953]LogAudio: Warning: Waited 17770.431641ms for audio thread.
+[2019.02.26-10.39.33:835][953]LogAudio: Warning: Waited 17806.425781ms for audio thread.
+[2019.02.26-10.39.33:871][953]LogAudio: Warning: Waited 17842.423828ms for audio thread.
+[2019.02.26-10.39.33:907][953]LogAudio: Warning: Waited 17878.371094ms for audio thread.
+[2019.02.26-10.39.33:943][953]LogAudio: Warning: Waited 17914.365234ms for audio thread.
+[2019.02.26-10.39.33:979][953]LogAudio: Warning: Waited 17950.341797ms for audio thread.
+[2019.02.26-10.39.34:015][953]LogAudio: Warning: Waited 17986.343750ms for audio thread.
+[2019.02.26-10.39.34:051][953]LogAudio: Warning: Waited 18022.310547ms for audio thread.
+[2019.02.26-10.39.34:087][953]LogAudio: Warning: Waited 18058.283203ms for audio thread.
+[2019.02.26-10.39.34:123][953]LogAudio: Warning: Waited 18094.238281ms for audio thread.
+[2019.02.26-10.39.34:159][953]LogAudio: Warning: Waited 18130.533203ms for audio thread.
+[2019.02.26-10.39.34:195][953]LogAudio: Warning: Waited 18166.451172ms for audio thread.
+[2019.02.26-10.39.34:231][953]LogAudio: Warning: Waited 18202.248047ms for audio thread.
+[2019.02.26-10.39.34:267][953]LogAudio: Warning: Waited 18238.195313ms for audio thread.
+[2019.02.26-10.39.34:303][953]LogAudio: Warning: Waited 18274.144531ms for audio thread.
+[2019.02.26-10.39.34:339][953]LogAudio: Warning: Waited 18310.117188ms for audio thread.
+[2019.02.26-10.39.34:375][953]LogAudio: Warning: Waited 18346.095703ms for audio thread.
+[2019.02.26-10.39.34:411][953]LogAudio: Warning: Waited 18382.093750ms for audio thread.
+[2019.02.26-10.39.34:447][953]LogAudio: Warning: Waited 18418.105469ms for audio thread.
+[2019.02.26-10.39.34:483][953]LogAudio: Warning: Waited 18454.033203ms for audio thread.
+[2019.02.26-10.39.34:519][953]LogAudio: Warning: Waited 18490.011719ms for audio thread.
+[2019.02.26-10.39.34:555][953]LogAudio: Warning: Waited 18526.039063ms for audio thread.
+[2019.02.26-10.39.34:591][953]LogAudio: Warning: Waited 18562.009766ms for audio thread.
+[2019.02.26-10.39.34:627][953]LogAudio: Warning: Waited 18597.964844ms for audio thread.
+[2019.02.26-10.39.34:663][953]LogAudio: Warning: Waited 18633.929688ms for audio thread.
+[2019.02.26-10.39.34:699][953]LogAudio: Warning: Waited 18669.949219ms for audio thread.
+[2019.02.26-10.39.34:735][953]LogAudio: Warning: Waited 18705.906250ms for audio thread.
+[2019.02.26-10.39.34:771][953]LogAudio: Warning: Waited 18741.871094ms for audio thread.
+[2019.02.26-10.39.34:807][953]LogAudio: Warning: Waited 18777.925781ms for audio thread.
+[2019.02.26-10.39.34:843][953]LogAudio: Warning: Waited 18813.882813ms for audio thread.
+[2019.02.26-10.39.34:879][953]LogAudio: Warning: Waited 18849.802734ms for audio thread.
+[2019.02.26-10.39.34:915][953]LogAudio: Warning: Waited 18885.785156ms for audio thread.
+[2019.02.26-10.39.34:951][953]LogAudio: Warning: Waited 18921.796875ms for audio thread.
+[2019.02.26-10.39.34:987][953]LogAudio: Warning: Waited 18957.746094ms for audio thread.
+[2019.02.26-10.39.35:023][953]LogAudio: Warning: Waited 18993.720703ms for audio thread.
+[2019.02.26-10.39.35:059][953]LogAudio: Warning: Waited 19029.791016ms for audio thread.
+[2019.02.26-10.39.35:095][953]LogAudio: Warning: Waited 19065.699219ms for audio thread.
+[2019.02.26-10.39.35:131][953]LogAudio: Warning: Waited 19101.685547ms for audio thread.
+[2019.02.26-10.39.35:167][953]LogAudio: Warning: Waited 19137.642578ms for audio thread.
+[2019.02.26-10.39.35:203][953]LogAudio: Warning: Waited 19173.617188ms for audio thread.
+[2019.02.26-10.39.35:239][953]LogAudio: Warning: Waited 19209.609375ms for audio thread.
+[2019.02.26-10.39.35:275][953]LogAudio: Warning: Waited 19245.578125ms for audio thread.
+[2019.02.26-10.39.35:311][953]LogAudio: Warning: Waited 19281.587891ms for audio thread.
+[2019.02.26-10.39.35:347][953]LogAudio: Warning: Waited 19317.535156ms for audio thread.
+[2019.02.26-10.39.35:383][953]LogAudio: Warning: Waited 19353.517578ms for audio thread.
+[2019.02.26-10.39.35:418][953]LogAudio: Warning: Waited 19389.498047ms for audio thread.
+[2019.02.26-10.39.35:454][953]LogAudio: Warning: Waited 19425.476563ms for audio thread.
+[2019.02.26-10.39.35:490][953]LogAudio: Warning: Waited 19461.523438ms for audio thread.
+[2019.02.26-10.39.35:526][953]LogAudio: Warning: Waited 19497.451172ms for audio thread.
+[2019.02.26-10.39.35:562][953]LogAudio: Warning: Waited 19533.417969ms for audio thread.
+[2019.02.26-10.39.35:598][953]LogAudio: Warning: Waited 19569.425781ms for audio thread.
+[2019.02.26-10.39.35:634][953]LogAudio: Warning: Waited 19605.380859ms for audio thread.
+[2019.02.26-10.39.35:670][953]LogAudio: Warning: Waited 19641.392578ms for audio thread.
+[2019.02.26-10.39.35:706][953]LogAudio: Warning: Waited 19677.359375ms for audio thread.
+[2019.02.26-10.39.35:742][953]LogAudio: Warning: Waited 19713.419922ms for audio thread.
+[2019.02.26-10.39.35:778][953]LogAudio: Warning: Waited 19749.302734ms for audio thread.
+[2019.02.26-10.39.35:814][953]LogAudio: Warning: Waited 19785.343750ms for audio thread.
+[2019.02.26-10.39.35:850][953]LogAudio: Warning: Waited 19821.330078ms for audio thread.
+[2019.02.26-10.39.35:886][953]LogAudio: Warning: Waited 19857.226563ms for audio thread.
+[2019.02.26-10.39.35:922][953]LogAudio: Warning: Waited 19893.216797ms for audio thread.
+[2019.02.26-10.39.35:958][953]LogAudio: Warning: Waited 19929.500000ms for audio thread.
+[2019.02.26-10.39.35:994][953]LogAudio: Warning: Waited 19965.175781ms for audio thread.
+[2019.02.26-10.39.36:030][953]LogAudio: Warning: Waited 20001.140625ms for audio thread.
+[2019.02.26-10.39.36:066][953]LogAudio: Warning: Waited 20037.130859ms for audio thread.
+[2019.02.26-10.39.36:102][953]LogAudio: Warning: Waited 20073.109375ms for audio thread.
+[2019.02.26-10.39.36:138][953]LogAudio: Warning: Waited 20109.089844ms for audio thread.
+[2019.02.26-10.39.36:174][953]LogAudio: Warning: Waited 20145.078125ms for audio thread.
+[2019.02.26-10.39.36:210][953]LogAudio: Warning: Waited 20181.042969ms for audio thread.
+[2019.02.26-10.39.36:246][953]LogAudio: Warning: Waited 20217.029297ms for audio thread.
+[2019.02.26-10.39.36:282][953]LogAudio: Warning: Waited 20253.021484ms for audio thread.
+[2019.02.26-10.39.36:318][953]LogAudio: Warning: Waited 20288.988281ms for audio thread.
+[2019.02.26-10.39.36:354][953]LogAudio: Warning: Waited 20325.001953ms for audio thread.
+[2019.02.26-10.39.36:391][953]LogAudio: Warning: Waited 20361.962891ms for audio thread.
+[2019.02.26-10.39.36:427][953]LogAudio: Warning: Waited 20397.933594ms for audio thread.
+[2019.02.26-10.39.36:463][953]LogAudio: Warning: Waited 20433.896484ms for audio thread.
+[2019.02.26-10.39.36:499][953]LogAudio: Warning: Waited 20469.904297ms for audio thread.
+[2019.02.26-10.39.36:535][953]LogAudio: Warning: Waited 20505.882813ms for audio thread.
+[2019.02.26-10.39.36:571][953]LogAudio: Warning: Waited 20541.845703ms for audio thread.
+[2019.02.26-10.39.36:607][953]LogAudio: Warning: Waited 20577.826172ms for audio thread.
+[2019.02.26-10.39.36:643][953]LogAudio: Warning: Waited 20613.794922ms for audio thread.
+[2019.02.26-10.39.36:679][953]LogAudio: Warning: Waited 20649.775391ms for audio thread.
+[2019.02.26-10.39.36:715][953]LogAudio: Warning: Waited 20685.767578ms for audio thread.
+[2019.02.26-10.39.36:751][953]LogAudio: Warning: Waited 20721.755859ms for audio thread.
+[2019.02.26-10.39.36:787][953]LogAudio: Warning: Waited 20757.708984ms for audio thread.
+[2019.02.26-10.39.36:823][953]LogAudio: Warning: Waited 20793.699219ms for audio thread.
+[2019.02.26-10.39.36:859][953]LogAudio: Warning: Waited 20829.724609ms for audio thread.
+[2019.02.26-10.39.36:895][953]LogAudio: Warning: Waited 20865.654297ms for audio thread.
+[2019.02.26-10.39.36:930][953]LogAudio: Warning: Waited 20900.927734ms for audio thread.
+[2019.02.26-10.39.36:966][953]LogAudio: Warning: Waited 20936.880859ms for audio thread.
+[2019.02.26-10.39.37:002][953]LogAudio: Warning: Waited 20972.861328ms for audio thread.
+[2019.02.26-10.39.37:038][953]LogAudio: Warning: Waited 21008.835938ms for audio thread.
+[2019.02.26-10.39.37:074][953]LogAudio: Warning: Waited 21044.837891ms for audio thread.
+[2019.02.26-10.39.37:110][953]LogAudio: Warning: Waited 21080.832031ms for audio thread.
+[2019.02.26-10.39.37:146][953]LogAudio: Warning: Waited 21116.775391ms for audio thread.
+[2019.02.26-10.39.37:182][953]LogAudio: Warning: Waited 21152.771484ms for audio thread.
+[2019.02.26-10.39.37:217][953]LogAudio: Warning: Waited 21187.826172ms for audio thread.
+[2019.02.26-10.39.37:253][953]LogAudio: Warning: Waited 21223.884766ms for audio thread.
+[2019.02.26-10.39.37:289][953]LogAudio: Warning: Waited 21259.839844ms for audio thread.
+[2019.02.26-10.39.37:325][953]LogAudio: Warning: Waited 21296.082031ms for audio thread.
+[2019.02.26-10.39.37:361][953]LogAudio: Warning: Waited 21331.751953ms for audio thread.
+[2019.02.26-10.39.37:397][953]LogAudio: Warning: Waited 21367.734375ms for audio thread.
+[2019.02.26-10.39.37:433][953]LogAudio: Warning: Waited 21403.779297ms for audio thread.
+[2019.02.26-10.39.37:469][953]LogAudio: Warning: Waited 21439.681641ms for audio thread.
+[2019.02.26-10.39.37:505][953]LogAudio: Warning: Waited 21475.664063ms for audio thread.
+[2019.02.26-10.39.37:540][953]LogAudio: Warning: Waited 21510.882813ms for audio thread.
+[2019.02.26-10.39.37:576][953]LogAudio: Warning: Waited 21546.871094ms for audio thread.
+[2019.02.26-10.39.37:612][953]LogAudio: Warning: Waited 21582.845703ms for audio thread.
+[2019.02.26-10.39.37:648][953]LogAudio: Warning: Waited 21618.830078ms for audio thread.
+[2019.02.26-10.39.37:684][953]LogAudio: Warning: Waited 21654.824219ms for audio thread.
+[2019.02.26-10.39.37:720][953]LogAudio: Warning: Waited 21690.796875ms for audio thread.
+[2019.02.26-10.39.37:756][953]LogAudio: Warning: Waited 21726.804688ms for audio thread.
+[2019.02.26-10.39.37:792][953]LogAudio: Warning: Waited 21762.738281ms for audio thread.
+[2019.02.26-10.39.37:828][953]LogAudio: Warning: Waited 21798.804688ms for audio thread.
+[2019.02.26-10.39.37:864][953]LogAudio: Warning: Waited 21834.738281ms for audio thread.
+[2019.02.26-10.39.37:900][953]LogAudio: Warning: Waited 21870.697266ms for audio thread.
+[2019.02.26-10.39.37:936][953]LogAudio: Warning: Waited 21906.667969ms for audio thread.
+[2019.02.26-10.39.37:972][953]LogAudio: Warning: Waited 21943.236328ms for audio thread.
+[2019.02.26-10.39.38:008][953]LogAudio: Warning: Waited 21978.640625ms for audio thread.
+[2019.02.26-10.39.38:044][953]LogAudio: Warning: Waited 22014.650391ms for audio thread.
+[2019.02.26-10.39.38:080][953]LogAudio: Warning: Waited 22050.607422ms for audio thread.
+[2019.02.26-10.39.38:116][953]LogAudio: Warning: Waited 22086.613281ms for audio thread.
+[2019.02.26-10.39.38:152][953]LogAudio: Warning: Waited 22122.548828ms for audio thread.
+[2019.02.26-10.39.38:188][953]LogAudio: Warning: Waited 22158.679688ms for audio thread.
+[2019.02.26-10.39.38:223][953]LogAudio: Warning: Waited 22195.050781ms for audio thread.
+[2019.02.26-10.39.38:259][953]LogAudio: Warning: Waited 22230.544922ms for audio thread.
+[2019.02.26-10.39.38:295][953]LogAudio: Warning: Waited 22266.505859ms for audio thread.
+[2019.02.26-10.39.38:331][953]LogAudio: Warning: Waited 22302.060547ms for audio thread.
+[2019.02.26-10.39.38:367][953]LogAudio: Warning: Waited 22337.964844ms for audio thread.
+[2019.02.26-10.39.38:403][953]LogAudio: Warning: Waited 22373.960938ms for audio thread.
+[2019.02.26-10.39.38:439][953]LogAudio: Warning: Waited 22409.894531ms for audio thread.
+[2019.02.26-10.39.38:475][953]LogAudio: Warning: Waited 22445.916016ms for audio thread.
+[2019.02.26-10.39.38:511][953]LogAudio: Warning: Waited 22481.867188ms for audio thread.
+[2019.02.26-10.39.38:546][953]LogAudio: Warning: Waited 22516.902344ms for audio thread.
+[2019.02.26-10.39.38:582][953]LogAudio: Warning: Waited 22552.941406ms for audio thread.
+[2019.02.26-10.39.38:618][953]LogAudio: Warning: Waited 22588.861328ms for audio thread.
+[2019.02.26-10.39.38:654][953]LogAudio: Warning: Waited 22624.859375ms for audio thread.
+[2019.02.26-10.39.38:690][953]LogAudio: Warning: Waited 22660.843750ms for audio thread.
+[2019.02.26-10.39.38:726][953]LogAudio: Warning: Waited 22696.826172ms for audio thread.
+[2019.02.26-10.39.38:762][953]LogAudio: Warning: Waited 22732.783203ms for audio thread.
+[2019.02.26-10.39.38:797][953]LogAudio: Warning: Waited 22768.056641ms for audio thread.
+[2019.02.26-10.39.38:833][953]LogAudio: Warning: Waited 22803.666016ms for audio thread.
+[2019.02.26-10.39.38:869][953]LogAudio: Warning: Waited 22839.605469ms for audio thread.
+[2019.02.26-10.39.38:904][953]LogAudio: Warning: Waited 22874.867188ms for audio thread.
+[2019.02.26-10.39.38:940][953]LogAudio: Warning: Waited 22910.794922ms for audio thread.
+[2019.02.26-10.39.38:975][953]LogAudio: Warning: Waited 22946.361328ms for audio thread.
+[2019.02.26-10.39.39:011][953]LogAudio: Warning: Waited 22982.212891ms for audio thread.
+[2019.02.26-10.39.39:047][953]LogAudio: Warning: Waited 23017.878906ms for audio thread.
+[2019.02.26-10.39.39:082][953]LogAudio: Warning: Waited 23053.363281ms for audio thread.
+[2019.02.26-10.39.39:118][953]LogAudio: Warning: Waited 23089.339844ms for audio thread.
+[2019.02.26-10.39.39:154][953]LogAudio: Warning: Waited 23124.539063ms for audio thread.
+[2019.02.26-10.39.39:189][953]LogAudio: Warning: Waited 23160.029297ms for audio thread.
+[2019.02.26-10.39.39:224][953]LogAudio: Warning: Waited 23195.150391ms for audio thread.
+[2019.02.26-10.39.39:260][953]LogAudio: Warning: Waited 23231.130859ms for audio thread.
+[2019.02.26-10.39.39:296][953]LogAudio: Warning: Waited 23267.222656ms for audio thread.
+[2019.02.26-10.39.39:332][953]LogAudio: Warning: Waited 23303.097656ms for audio thread.
+[2019.02.26-10.39.39:368][953]LogAudio: Warning: Waited 23339.113281ms for audio thread.
+[2019.02.26-10.39.39:403][953]LogAudio: Warning: Waited 23374.431641ms for audio thread.
+[2019.02.26-10.39.39:439][953]LogAudio: Warning: Waited 23410.658203ms for audio thread.
+[2019.02.26-10.39.39:475][953]LogAudio: Warning: Waited 23446.517578ms for audio thread.
+[2019.02.26-10.39.39:511][953]LogAudio: Warning: Waited 23481.912109ms for audio thread.
+[2019.02.26-10.39.39:546][953]LogAudio: Warning: Waited 23517.341797ms for audio thread.
+[2019.02.26-10.39.39:582][953]LogAudio: Warning: Waited 23552.746094ms for audio thread.
+[2019.02.26-10.39.39:617][953]LogAudio: Warning: Waited 23588.257813ms for audio thread.
+[2019.02.26-10.39.39:653][953]LogAudio: Warning: Waited 23623.800781ms for audio thread.
+[2019.02.26-10.39.39:688][953]LogAudio: Warning: Waited 23659.517578ms for audio thread.
+[2019.02.26-10.39.39:724][953]LogAudio: Warning: Waited 23695.392578ms for audio thread.
+[2019.02.26-10.39.39:760][953]LogAudio: Warning: Waited 23730.654297ms for audio thread.
+[2019.02.26-10.39.39:796][953]LogAudio: Warning: Waited 23766.714844ms for audio thread.
+[2019.02.26-10.39.39:831][953]LogAudio: Warning: Waited 23802.519531ms for audio thread.
+[2019.02.26-10.39.39:867][953]LogAudio: Warning: Waited 23838.765625ms for audio thread.
+[2019.02.26-10.39.39:903][953]LogAudio: Warning: Waited 23874.541016ms for audio thread.
+[2019.02.26-10.39.39:939][953]LogAudio: Warning: Waited 23910.443359ms for audio thread.
+[2019.02.26-10.39.39:975][953]LogAudio: Warning: Waited 23946.449219ms for audio thread.
+[2019.02.26-10.39.40:011][953]LogAudio: Warning: Waited 23982.404297ms for audio thread.
+[2019.02.26-10.39.40:047][953]LogAudio: Warning: Waited 24018.384766ms for audio thread.
+[2019.02.26-10.39.40:083][953]LogAudio: Warning: Waited 24054.361328ms for audio thread.
+[2019.02.26-10.39.40:119][953]LogAudio: Warning: Waited 24090.330078ms for audio thread.
+[2019.02.26-10.39.40:155][953]LogAudio: Warning: Waited 24126.357422ms for audio thread.
+[2019.02.26-10.39.40:191][953]LogAudio: Warning: Waited 24162.351563ms for audio thread.
+[2019.02.26-10.39.40:227][953]LogAudio: Warning: Waited 24198.277344ms for audio thread.
+[2019.02.26-10.39.40:263][953]LogAudio: Warning: Waited 24234.316406ms for audio thread.
+[2019.02.26-10.39.40:299][953]LogAudio: Warning: Waited 24270.232422ms for audio thread.
+[2019.02.26-10.39.40:335][953]LogAudio: Warning: Waited 24306.220703ms for audio thread.
+[2019.02.26-10.39.40:371][953]LogAudio: Warning: Waited 24342.220703ms for audio thread.
+[2019.02.26-10.39.40:407][953]LogAudio: Warning: Waited 24378.242188ms for audio thread.
+[2019.02.26-10.39.40:443][953]LogAudio: Warning: Waited 24414.347656ms for audio thread.
+[2019.02.26-10.39.40:479][953]LogAudio: Warning: Waited 24450.138672ms for audio thread.
+[2019.02.26-10.39.40:515][953]LogAudio: Warning: Waited 24486.119141ms for audio thread.
+[2019.02.26-10.39.40:551][953]LogAudio: Warning: Waited 24522.134766ms for audio thread.
+[2019.02.26-10.39.40:587][953]LogAudio: Warning: Waited 24558.109375ms for audio thread.
+[2019.02.26-10.39.40:623][953]LogAudio: Warning: Waited 24594.072266ms for audio thread.
+[2019.02.26-10.39.40:659][953]LogAudio: Warning: Waited 24630.109375ms for audio thread.
+[2019.02.26-10.39.40:695][953]LogAudio: Warning: Waited 24666.095703ms for audio thread.
+[2019.02.26-10.39.40:731][953]LogAudio: Warning: Waited 24701.992188ms for audio thread.
+[2019.02.26-10.39.40:767][953]LogAudio: Warning: Waited 24737.976563ms for audio thread.
+[2019.02.26-10.39.40:803][953]LogAudio: Warning: Waited 24773.958984ms for audio thread.
+[2019.02.26-10.39.40:839][953]LogAudio: Warning: Waited 24809.916016ms for audio thread.
+[2019.02.26-10.39.40:875][953]LogAudio: Warning: Waited 24845.898438ms for audio thread.
+[2019.02.26-10.39.40:911][953]LogAudio: Warning: Waited 24881.892578ms for audio thread.
+[2019.02.26-10.39.40:947][953]LogAudio: Warning: Waited 24917.863281ms for audio thread.
+[2019.02.26-10.39.40:983][953]LogAudio: Warning: Waited 24953.845703ms for audio thread.
+[2019.02.26-10.39.41:019][953]LogAudio: Warning: Waited 24989.816406ms for audio thread.
+[2019.02.26-10.39.41:055][953]LogAudio: Warning: Waited 25025.794922ms for audio thread.
+[2019.02.26-10.39.41:091][953]LogAudio: Warning: Waited 25061.798828ms for audio thread.
+[2019.02.26-10.39.41:127][953]LogAudio: Warning: Waited 25097.751953ms for audio thread.
+[2019.02.26-10.39.41:163][953]LogAudio: Warning: Waited 25133.820313ms for audio thread.
+[2019.02.26-10.39.41:199][953]LogAudio: Warning: Waited 25169.728516ms for audio thread.
+[2019.02.26-10.39.41:235][953]LogAudio: Warning: Waited 25205.689453ms for audio thread.
+[2019.02.26-10.39.41:271][953]LogAudio: Warning: Waited 25241.679688ms for audio thread.
+[2019.02.26-10.39.41:307][953]LogAudio: Warning: Waited 25277.648438ms for audio thread.
+[2019.02.26-10.39.41:343][953]LogAudio: Warning: Waited 25313.640625ms for audio thread.
+[2019.02.26-10.39.41:379][953]LogAudio: Warning: Waited 25349.603516ms for audio thread.
+[2019.02.26-10.39.41:415][953]LogAudio: Warning: Waited 25385.589844ms for audio thread.
+[2019.02.26-10.39.41:451][953]LogAudio: Warning: Waited 25421.578125ms for audio thread.
+[2019.02.26-10.39.41:487][953]LogAudio: Warning: Waited 25457.542969ms for audio thread.
+[2019.02.26-10.39.41:523][953]LogAudio: Warning: Waited 25493.521484ms for audio thread.
+[2019.02.26-10.39.41:558][953]LogAudio: Warning: Waited 25529.501953ms for audio thread.
+[2019.02.26-10.39.41:594][953]LogAudio: Warning: Waited 25565.500000ms for audio thread.
+[2019.02.26-10.39.41:630][953]LogAudio: Warning: Waited 25601.466797ms for audio thread.
+[2019.02.26-10.39.41:666][953]LogAudio: Warning: Waited 25637.447266ms for audio thread.
+[2019.02.26-10.39.41:702][953]LogAudio: Warning: Waited 25673.447266ms for audio thread.
+[2019.02.26-10.39.41:738][953]LogAudio: Warning: Waited 25709.431641ms for audio thread.
+[2019.02.26-10.39.41:774][953]LogAudio: Warning: Waited 25745.376953ms for audio thread.
+[2019.02.26-10.39.41:810][953]LogAudio: Warning: Waited 25781.357422ms for audio thread.
+[2019.02.26-10.39.41:846][953]LogAudio: Warning: Waited 25817.390625ms for audio thread.
+[2019.02.26-10.39.41:882][953]LogAudio: Warning: Waited 25852.839844ms for audio thread.
+[2019.02.26-10.39.41:917][953]LogAudio: Warning: Waited 25887.835938ms for audio thread.
+[2019.02.26-10.39.41:952][953]LogAudio: Warning: Waited 25923.322266ms for audio thread.
+[2019.02.26-10.39.41:988][953]LogAudio: Warning: Waited 25959.333984ms for audio thread.
+[2019.02.26-10.39.42:024][953]LogAudio: Warning: Waited 25994.824219ms for audio thread.
+[2019.02.26-10.39.42:059][953]LogAudio: Warning: Waited 26030.312500ms for audio thread.
+[2019.02.26-10.39.42:095][953]LogAudio: Warning: Waited 26066.621094ms for audio thread.
+[2019.02.26-10.39.42:131][953]LogAudio: Warning: Waited 26101.804688ms for audio thread.
+[2019.02.26-10.39.42:166][953]LogAudio: Warning: Waited 26136.802734ms for audio thread.
+[2019.02.26-10.39.42:201][953]LogAudio: Warning: Waited 26172.292969ms for audio thread.
+[2019.02.26-10.39.42:237][953]LogAudio: Warning: Waited 26207.781250ms for audio thread.
+[2019.02.26-10.39.42:273][953]LogAudio: Warning: Waited 26243.753906ms for audio thread.
+[2019.02.26-10.39.42:309][953]LogAudio: Warning: Waited 26279.732422ms for audio thread.
+[2019.02.26-10.39.42:345][953]LogAudio: Warning: Waited 26316.003906ms for audio thread.
+[2019.02.26-10.39.42:381][953]LogAudio: Warning: Waited 26351.705078ms for audio thread.
+[2019.02.26-10.39.42:417][953]LogAudio: Warning: Waited 26387.669922ms for audio thread.
+[2019.02.26-10.39.42:453][953]LogAudio: Warning: Waited 26423.648438ms for audio thread.
+[2019.02.26-10.39.42:489][953]LogAudio: Warning: Waited 26459.626953ms for audio thread.
+[2019.02.26-10.39.42:525][953]LogAudio: Warning: Waited 26495.615234ms for audio thread.
+[2019.02.26-10.39.42:561][953]LogAudio: Warning: Waited 26531.593750ms for audio thread.
+[2019.02.26-10.39.42:597][953]LogAudio: Warning: Waited 26567.568359ms for audio thread.
+[2019.02.26-10.39.42:633][953]LogAudio: Warning: Waited 26603.544922ms for audio thread.
+[2019.02.26-10.39.42:669][953]LogAudio: Warning: Waited 26639.527344ms for audio thread.
+[2019.02.26-10.39.42:704][953]LogAudio: Warning: Waited 26676.054688ms for audio thread.
+[2019.02.26-10.39.42:740][953]LogAudio: Warning: Waited 26711.517578ms for audio thread.
+[2019.02.26-10.39.42:776][953]LogAudio: Warning: Waited 26747.476563ms for audio thread.
+[2019.02.26-10.39.42:812][953]LogAudio: Warning: Waited 26783.457031ms for audio thread.
+[2019.02.26-10.39.42:848][953]LogAudio: Warning: Waited 26819.429688ms for audio thread.
+[2019.02.26-10.39.42:884][953]LogAudio: Warning: Waited 26855.404297ms for audio thread.
+[2019.02.26-10.39.42:920][953]LogAudio: Warning: Waited 26891.378906ms for audio thread.
+[2019.02.26-10.39.42:956][953]LogAudio: Warning: Waited 26927.369141ms for audio thread.
+[2019.02.26-10.39.42:992][953]LogAudio: Warning: Waited 26963.343750ms for audio thread.
+[2019.02.26-10.39.43:028][953]LogAudio: Warning: Waited 26999.333984ms for audio thread.
+[2019.02.26-10.39.43:064][953]LogAudio: Warning: Waited 27035.296875ms for audio thread.
+[2019.02.26-10.39.43:100][953]LogAudio: Warning: Waited 27071.273438ms for audio thread.
+[2019.02.26-10.39.43:136][953]LogAudio: Warning: Waited 27107.257813ms for audio thread.
+[2019.02.26-10.39.43:172][953]LogAudio: Warning: Waited 27143.271484ms for audio thread.
+[2019.02.26-10.39.43:208][953]LogAudio: Warning: Waited 27179.240234ms for audio thread.
+[2019.02.26-10.39.43:244][953]LogAudio: Warning: Waited 27215.201172ms for audio thread.
+[2019.02.26-10.39.43:280][953]LogAudio: Warning: Waited 27251.175781ms for audio thread.
+[2019.02.26-10.39.43:316][953]LogAudio: Warning: Waited 27287.187500ms for audio thread.
+[2019.02.26-10.39.43:352][953]LogAudio: Warning: Waited 27323.132813ms for audio thread.
+[2019.02.26-10.39.43:388][953]LogAudio: Warning: Waited 27359.113281ms for audio thread.
+[2019.02.26-10.39.43:424][953]LogAudio: Warning: Waited 27395.105469ms for audio thread.
+[2019.02.26-10.39.43:460][953]LogAudio: Warning: Waited 27431.076172ms for audio thread.
+[2019.02.26-10.39.43:496][953]LogAudio: Warning: Waited 27467.082031ms for audio thread.
+[2019.02.26-10.39.43:532][953]LogAudio: Warning: Waited 27503.042969ms for audio thread.
+[2019.02.26-10.39.43:569][953]LogAudio: Warning: Waited 27539.968750ms for audio thread.
+[2019.02.26-10.39.43:605][953]LogAudio: Warning: Waited 27576.029297ms for audio thread.
+[2019.02.26-10.39.43:641][953]LogAudio: Warning: Waited 27611.978516ms for audio thread.
+[2019.02.26-10.39.43:677][953]LogAudio: Warning: Waited 27648.035156ms for audio thread.
+[2019.02.26-10.39.43:713][953]LogAudio: Warning: Waited 27684.029297ms for audio thread.
+[2019.02.26-10.39.43:749][953]LogAudio: Warning: Waited 27719.929688ms for audio thread.
+[2019.02.26-10.39.43:785][953]LogAudio: Warning: Waited 27755.904297ms for audio thread.
+[2019.02.26-10.39.43:821][953]LogAudio: Warning: Waited 27791.976563ms for audio thread.
+[2019.02.26-10.39.43:857][953]LogAudio: Warning: Waited 27827.873047ms for audio thread.
+[2019.02.26-10.39.43:893][953]LogAudio: Warning: Waited 27863.853516ms for audio thread.
+[2019.02.26-10.39.43:929][953]LogAudio: Warning: Waited 27899.871094ms for audio thread.
+[2019.02.26-10.39.43:965][953]LogAudio: Warning: Waited 27935.783203ms for audio thread.
+[2019.02.26-10.39.44:001][953]LogAudio: Warning: Waited 27971.808594ms for audio thread.
+[2019.02.26-10.39.44:037][953]LogAudio: Warning: Waited 28007.791016ms for audio thread.
+[2019.02.26-10.39.44:073][953]LogAudio: Warning: Waited 28043.742188ms for audio thread.
+[2019.02.26-10.39.44:109][953]LogAudio: Warning: Waited 28079.835938ms for audio thread.
+[2019.02.26-10.39.44:145][953]LogAudio: Warning: Waited 28115.697266ms for audio thread.
+[2019.02.26-10.39.44:181][953]LogAudio: Warning: Waited 28151.748047ms for audio thread.
+[2019.02.26-10.39.44:217][953]LogAudio: Warning: Waited 28188.572266ms for audio thread.
+[2019.02.26-10.39.44:256][953]LogAudio: Warning: Waited 28226.683594ms for audio thread.
+[2019.02.26-10.39.44:292][953]LogAudio: Warning: Waited 28262.587891ms for audio thread.
+[2019.02.26-10.39.44:328][953]LogAudio: Warning: Waited 28298.646484ms for audio thread.
+[2019.02.26-10.39.44:379][953]LogAudio: Warning: Waited 28350.029297ms for audio thread.
+[2019.02.26-10.39.44:415][953]LogAudio: Warning: Waited 28385.568359ms for audio thread.
+[2019.02.26-10.39.44:450][953]LogAudio: Warning: Waited 28421.507813ms for audio thread.
+[2019.02.26-10.39.44:486][953]LogAudio: Warning: Waited 28457.484375ms for audio thread.
+[2019.02.26-10.39.44:522][953]LogAudio: Warning: Waited 28493.496094ms for audio thread.
+[2019.02.26-10.39.44:558][953]LogAudio: Warning: Waited 28529.470703ms for audio thread.
+[2019.02.26-10.39.44:594][953]LogAudio: Warning: Waited 28565.750000ms for audio thread.
+[2019.02.26-10.39.44:632][953]LogAudio: Warning: Waited 28604.078125ms for audio thread.
+[2019.02.26-10.39.44:668][953]LogAudio: Warning: Waited 28639.716797ms for audio thread.
+[2019.02.26-10.39.44:704][953]LogAudio: Warning: Waited 28675.529297ms for audio thread.
+[2019.02.26-10.39.44:741][953]LogAudio: Warning: Waited 28712.779297ms for audio thread.
+[2019.02.26-10.39.44:777][953]LogAudio: Warning: Waited 28748.703125ms for audio thread.
+[2019.02.26-10.39.44:813][953]LogAudio: Warning: Waited 28784.312500ms for audio thread.
+[2019.02.26-10.39.44:849][953]LogAudio: Warning: Waited 28820.398438ms for audio thread.
+[2019.02.26-10.39.44:885][953]LogAudio: Warning: Waited 28856.333984ms for audio thread.
+[2019.02.26-10.39.44:921][953]LogAudio: Warning: Waited 28892.267578ms for audio thread.
+[2019.02.26-10.39.44:957][953]LogAudio: Warning: Waited 28928.257813ms for audio thread.
+[2019.02.26-10.39.44:993][953]LogAudio: Warning: Waited 28964.234375ms for audio thread.
+[2019.02.26-10.39.45:029][953]LogAudio: Warning: Waited 29000.169922ms for audio thread.
+[2019.02.26-10.39.45:065][953]LogAudio: Warning: Waited 29036.273438ms for audio thread.
+[2019.02.26-10.39.45:101][953]LogAudio: Warning: Waited 29072.462891ms for audio thread.
+[2019.02.26-10.39.45:138][953]LogAudio: Warning: Waited 29108.873047ms for audio thread.
+[2019.02.26-10.39.45:174][953]LogAudio: Warning: Waited 29144.626953ms for audio thread.
+[2019.02.26-10.39.45:210][953]LogAudio: Warning: Waited 29180.617188ms for audio thread.
+[2019.02.26-10.39.45:246][953]LogAudio: Warning: Waited 29217.076172ms for audio thread.
+[2019.02.26-10.39.45:283][953]LogAudio: Warning: Waited 29253.541016ms for audio thread.
+[2019.02.26-10.39.45:319][953]LogAudio: Warning: Waited 29289.529297ms for audio thread.
+[2019.02.26-10.39.45:354][953]LogAudio: Warning: Waited 29325.582031ms for audio thread.
+[2019.02.26-10.39.45:390][953]LogAudio: Warning: Waited 29361.492188ms for audio thread.
+[2019.02.26-10.39.45:426][953]LogAudio: Warning: Waited 29397.509766ms for audio thread.
+[2019.02.26-10.39.45:462][953]LogAudio: Warning: Waited 29433.449219ms for audio thread.
+[2019.02.26-10.39.45:498][953]LogAudio: Warning: Waited 29469.414063ms for audio thread.
+[2019.02.26-10.39.45:534][953]LogAudio: Warning: Waited 29505.386719ms for audio thread.
+[2019.02.26-10.39.45:570][953]LogAudio: Warning: Waited 29541.392578ms for audio thread.
+[2019.02.26-10.39.45:606][953]LogAudio: Warning: Waited 29577.623047ms for audio thread.
+[2019.02.26-10.39.45:642][953]LogAudio: Warning: Waited 29614.136719ms for audio thread.
+[2019.02.26-10.39.45:678][953]LogAudio: Warning: Waited 29649.677734ms for audio thread.
+[2019.02.26-10.39.45:714][953]LogAudio: Warning: Waited 29685.345703ms for audio thread.
+[2019.02.26-10.39.45:750][953]LogAudio: Warning: Waited 29721.724609ms for audio thread.
+[2019.02.26-10.39.45:786][953]LogAudio: Warning: Waited 29757.296875ms for audio thread.
+[2019.02.26-10.39.45:822][953]LogAudio: Warning: Waited 29793.234375ms for audio thread.
+[2019.02.26-10.39.45:858][953]LogAudio: Warning: Waited 29829.218750ms for audio thread.
+[2019.02.26-10.39.45:894][953]LogAudio: Warning: Waited 29865.185547ms for audio thread.
+[2019.02.26-10.39.45:930][953]LogAudio: Warning: Waited 29901.197266ms for audio thread.
+[2019.02.26-10.39.45:965][953]LogAudio: Warning: Waited 29936.488281ms for audio thread.
+[2019.02.26-10.39.46:001][953]LogAudio: Warning: Waited 29972.513672ms for audio thread.
+[2019.02.26-10.39.46:037][953]LogAudio: Warning: Waited 30008.443359ms for audio thread.
+[2019.02.26-10.39.46:073][953]LogAudio: Warning: Waited 30044.435547ms for audio thread.
+[2019.02.26-10.39.46:109][953]LogAudio: Warning: Waited 30080.416016ms for audio thread.
+[2019.02.26-10.39.46:145][953]LogAudio: Warning: Waited 30116.414063ms for audio thread.
+[2019.02.26-10.39.46:181][953]LogAudio: Warning: Waited 30152.361328ms for audio thread.
+[2019.02.26-10.39.46:217][953]LogAudio: Warning: Waited 30188.365234ms for audio thread.
+[2019.02.26-10.39.46:253][953]LogAudio: Warning: Waited 30224.324219ms for audio thread.
+[2019.02.26-10.39.46:289][953]LogAudio: Warning: Waited 30260.294922ms for audio thread.
+[2019.02.26-10.39.46:325][953]LogAudio: Warning: Waited 30296.355469ms for audio thread.
+[2019.02.26-10.39.46:361][953]LogAudio: Warning: Waited 30332.384766ms for audio thread.
+[2019.02.26-10.39.46:397][953]LogAudio: Warning: Waited 30368.433594ms for audio thread.
+[2019.02.26-10.39.46:433][953]LogAudio: Warning: Waited 30404.218750ms for audio thread.
+[2019.02.26-10.39.46:469][953]LogAudio: Warning: Waited 30440.199219ms for audio thread.
+[2019.02.26-10.39.46:505][953]LogAudio: Warning: Waited 30476.169922ms for audio thread.
+[2019.02.26-10.39.46:540][953]LogAudio: Warning: Waited 30511.283203ms for audio thread.
+[2019.02.26-10.39.46:576][953]LogAudio: Warning: Waited 30547.251953ms for audio thread.
+[2019.02.26-10.39.46:612][953]LogAudio: Warning: Waited 30583.226563ms for audio thread.
+[2019.02.26-10.39.46:648][953]LogAudio: Warning: Waited 30619.210938ms for audio thread.
+[2019.02.26-10.39.46:684][953]LogAudio: Warning: Waited 30655.191406ms for audio thread.
+[2019.02.26-10.39.46:720][953]LogAudio: Warning: Waited 30691.167969ms for audio thread.
+[2019.02.26-10.39.46:756][953]LogAudio: Warning: Waited 30727.242188ms for audio thread.
+[2019.02.26-10.39.46:792][953]LogAudio: Warning: Waited 30763.132813ms for audio thread.
+[2019.02.26-10.39.46:828][953]LogAudio: Warning: Waited 30799.125000ms for audio thread.
+[2019.02.26-10.39.46:864][953]LogAudio: Warning: Waited 30835.091797ms for audio thread.
+[2019.02.26-10.39.46:900][953]LogAudio: Warning: Waited 30871.072266ms for audio thread.
+[2019.02.26-10.39.46:935][953]LogAudio: Warning: Waited 30906.421875ms for audio thread.
+[2019.02.26-10.39.46:971][953]LogAudio: Warning: Waited 30942.349609ms for audio thread.
+[2019.02.26-10.39.47:007][953]LogAudio: Warning: Waited 30978.328125ms for audio thread.
+[2019.02.26-10.39.47:043][953]LogAudio: Warning: Waited 31014.302734ms for audio thread.
+[2019.02.26-10.39.47:079][953]LogAudio: Warning: Waited 31050.285156ms for audio thread.
+[2019.02.26-10.39.47:115][953]LogAudio: Warning: Waited 31086.390625ms for audio thread.
+[2019.02.26-10.39.47:151][953]LogAudio: Warning: Waited 31122.263672ms for audio thread.
+[2019.02.26-10.39.47:187][953]LogAudio: Warning: Waited 31158.251953ms for audio thread.
+[2019.02.26-10.39.47:223][953]LogAudio: Warning: Waited 31194.199219ms for audio thread.
+[2019.02.26-10.39.47:259][953]LogAudio: Warning: Waited 31230.412109ms for audio thread.
+[2019.02.26-10.39.47:295][953]LogAudio: Warning: Waited 31266.156250ms for audio thread.
+[2019.02.26-10.39.47:331][953]LogAudio: Warning: Waited 31302.138672ms for audio thread.
+[2019.02.26-10.39.47:367][953]LogAudio: Warning: Waited 31338.156250ms for audio thread.
+[2019.02.26-10.39.47:403][953]LogAudio: Warning: Waited 31374.136719ms for audio thread.
+[2019.02.26-10.39.47:439][953]LogAudio: Warning: Waited 31410.101563ms for audio thread.
+[2019.02.26-10.39.47:475][953]LogAudio: Warning: Waited 31446.148438ms for audio thread.
+[2019.02.26-10.39.47:511][953]LogAudio: Warning: Waited 31482.300781ms for audio thread.
+[2019.02.26-10.39.47:547][953]LogAudio: Warning: Waited 31518.023438ms for audio thread.
+[2019.02.26-10.39.47:583][953]LogAudio: Warning: Waited 31554.025391ms for audio thread.
+[2019.02.26-10.39.47:619][953]LogAudio: Warning: Waited 31589.976563ms for audio thread.
+[2019.02.26-10.39.47:655][953]LogAudio: Warning: Waited 31625.947266ms for audio thread.
+[2019.02.26-10.39.47:691][953]LogAudio: Warning: Waited 31661.988281ms for audio thread.
+[2019.02.26-10.39.47:727][953]LogAudio: Warning: Waited 31697.912109ms for audio thread.
+[2019.02.26-10.39.47:763][953]LogAudio: Warning: Waited 31733.921875ms for audio thread.
+[2019.02.26-10.39.47:799][953]LogAudio: Warning: Waited 31769.875000ms for audio thread.
+[2019.02.26-10.39.47:835][953]LogAudio: Warning: Waited 31805.857422ms for audio thread.
+[2019.02.26-10.39.47:871][953]LogAudio: Warning: Waited 31841.859375ms for audio thread.
+[2019.02.26-10.39.47:907][953]LogAudio: Warning: Waited 31877.828125ms for audio thread.
+[2019.02.26-10.39.47:943][953]LogAudio: Warning: Waited 31913.796875ms for audio thread.
+[2019.02.26-10.39.47:979][953]LogAudio: Warning: Waited 31949.814453ms for audio thread.
+[2019.02.26-10.39.48:015][953]LogAudio: Warning: Waited 31985.755859ms for audio thread.
+[2019.02.26-10.39.48:051][953]LogAudio: Warning: Waited 32021.769531ms for audio thread.
+[2019.02.26-10.39.48:087][953]LogAudio: Warning: Waited 32057.712891ms for audio thread.
+[2019.02.26-10.39.48:123][953]LogAudio: Warning: Waited 32093.722656ms for audio thread.
+[2019.02.26-10.39.48:159][953]LogAudio: Warning: Waited 32129.673828ms for audio thread.
+[2019.02.26-10.39.48:195][953]LogAudio: Warning: Waited 32165.882813ms for audio thread.
+[2019.02.26-10.39.48:231][953]LogAudio: Warning: Waited 32201.640625ms for audio thread.
+[2019.02.26-10.39.48:267][953]LogAudio: Warning: Waited 32237.601563ms for audio thread.
+[2019.02.26-10.39.48:303][953]LogAudio: Warning: Waited 32273.585938ms for audio thread.
+[2019.02.26-10.39.48:339][953]LogAudio: Warning: Waited 32309.566406ms for audio thread.
+[2019.02.26-10.39.48:375][953]LogAudio: Warning: Waited 32345.554688ms for audio thread.
+[2019.02.26-10.39.48:411][953]LogAudio: Warning: Waited 32381.523438ms for audio thread.
+[2019.02.26-10.39.48:446][953]LogAudio: Warning: Waited 32417.521484ms for audio thread.
+[2019.02.26-10.39.48:482][953]LogAudio: Warning: Waited 32453.578125ms for audio thread.
+[2019.02.26-10.39.48:518][953]LogAudio: Warning: Waited 32489.453125ms for audio thread.
+[2019.02.26-10.39.48:554][953]LogAudio: Warning: Waited 32525.486328ms for audio thread.
+[2019.02.26-10.39.48:591][953]LogAudio: Warning: Waited 32562.408203ms for audio thread.
+[2019.02.26-10.39.48:627][953]LogAudio: Warning: Waited 32598.396484ms for audio thread.
+[2019.02.26-10.39.48:663][953]LogAudio: Warning: Waited 32634.365234ms for audio thread.
+[2019.02.26-10.39.48:699][953]LogAudio: Warning: Waited 32670.410156ms for audio thread.
+[2019.02.26-10.39.48:735][953]LogAudio: Warning: Waited 32706.337891ms for audio thread.
+[2019.02.26-10.39.48:771][953]LogAudio: Warning: Waited 32742.312500ms for audio thread.
+[2019.02.26-10.39.48:807][953]LogAudio: Warning: Waited 32778.437500ms for audio thread.
+[2019.02.26-10.39.48:843][953]LogAudio: Warning: Waited 32814.285156ms for audio thread.
+[2019.02.26-10.39.48:879][953]LogAudio: Warning: Waited 32850.273438ms for audio thread.
+[2019.02.26-10.39.48:915][953]LogAudio: Warning: Waited 32886.328125ms for audio thread.
+[2019.02.26-10.39.48:951][953]LogAudio: Warning: Waited 32922.199219ms for audio thread.
+[2019.02.26-10.39.48:987][953]LogAudio: Warning: Waited 32958.183594ms for audio thread.
+[2019.02.26-10.39.49:023][953]LogAudio: Warning: Waited 32994.164063ms for audio thread.
+[2019.02.26-10.39.49:059][953]LogAudio: Warning: Waited 33030.144531ms for audio thread.
+[2019.02.26-10.39.49:095][953]LogAudio: Warning: Waited 33066.203125ms for audio thread.
+[2019.02.26-10.39.49:131][953]LogAudio: Warning: Waited 33102.148438ms for audio thread.
+[2019.02.26-10.39.49:166][953]LogAudio: Warning: Waited 33137.390625ms for audio thread.
+[2019.02.26-10.39.49:202][953]LogAudio: Warning: Waited 33173.355469ms for audio thread.
+[2019.02.26-10.39.49:238][953]LogAudio: Warning: Waited 33209.351563ms for audio thread.
+[2019.02.26-10.39.49:274][953]LogAudio: Warning: Waited 33245.324219ms for audio thread.
+[2019.02.26-10.39.49:310][953]LogAudio: Warning: Waited 33281.289063ms for audio thread.
+[2019.02.26-10.39.49:346][953]LogAudio: Warning: Waited 33317.273438ms for audio thread.
+[2019.02.26-10.39.49:382][953]LogAudio: Warning: Waited 33353.250000ms for audio thread.
+[2019.02.26-10.39.49:418][953]LogAudio: Warning: Waited 33389.222656ms for audio thread.
+[2019.02.26-10.39.49:454][953]LogAudio: Warning: Waited 33425.242188ms for audio thread.
+[2019.02.26-10.39.49:490][953]LogAudio: Warning: Waited 33461.203125ms for audio thread.
+[2019.02.26-10.39.49:526][953]LogAudio: Warning: Waited 33497.406250ms for audio thread.
+[2019.02.26-10.39.49:562][953]LogAudio: Warning: Waited 33532.582031ms for audio thread.
+[2019.02.26-10.39.49:598][953]LogAudio: Warning: Waited 33568.554688ms for audio thread.
+[2019.02.26-10.39.49:634][953]LogAudio: Warning: Waited 33604.562500ms for audio thread.
+[2019.02.26-10.39.49:670][953]LogAudio: Warning: Waited 33640.519531ms for audio thread.
+[2019.02.26-10.39.49:705][953]LogAudio: Warning: Waited 33676.500000ms for audio thread.
+[2019.02.26-10.39.49:741][953]LogAudio: Warning: Waited 33712.503906ms for audio thread.
+[2019.02.26-10.39.49:777][953]LogAudio: Warning: Waited 33748.453125ms for audio thread.
+[2019.02.26-10.39.49:813][953]LogAudio: Warning: Waited 33784.433594ms for audio thread.
+[2019.02.26-10.39.49:849][953]LogAudio: Warning: Waited 33820.449219ms for audio thread.
+[2019.02.26-10.39.49:885][953]LogAudio: Warning: Waited 33856.421875ms for audio thread.
+[2019.02.26-10.39.49:921][953]LogAudio: Warning: Waited 33892.371094ms for audio thread.
+[2019.02.26-10.39.49:957][953]LogAudio: Warning: Waited 33928.351563ms for audio thread.
+[2019.02.26-10.39.49:993][953]LogAudio: Warning: Waited 33964.328125ms for audio thread.
+[2019.02.26-10.39.50:029][953]LogAudio: Warning: Waited 34000.308594ms for audio thread.
+[2019.02.26-10.39.50:065][953]LogAudio: Warning: Waited 34036.285156ms for audio thread.
+[2019.02.26-10.39.50:101][953]LogAudio: Warning: Waited 34072.265625ms for audio thread.
+[2019.02.26-10.39.50:137][953]LogAudio: Warning: Waited 34108.277344ms for audio thread.
+[2019.02.26-10.39.50:173][953]LogAudio: Warning: Waited 34144.273438ms for audio thread.
+[2019.02.26-10.39.50:209][953]LogAudio: Warning: Waited 34180.203125ms for audio thread.
+[2019.02.26-10.39.50:245][953]LogAudio: Warning: Waited 34215.757813ms for audio thread.
+[2019.02.26-10.39.50:281][953]LogAudio: Warning: Waited 34251.648438ms for audio thread.
+[2019.02.26-10.39.50:317][953]LogAudio: Warning: Waited 34287.625000ms for audio thread.
+[2019.02.26-10.39.50:353][953]LogAudio: Warning: Waited 34323.632813ms for audio thread.
+[2019.02.26-10.39.50:389][953]LogAudio: Warning: Waited 34359.578125ms for audio thread.
+[2019.02.26-10.39.50:425][953]LogAudio: Warning: Waited 34395.574219ms for audio thread.
+[2019.02.26-10.39.50:461][953]LogAudio: Warning: Waited 34431.539063ms for audio thread.
+[2019.02.26-10.39.50:497][953]LogAudio: Warning: Waited 34467.585938ms for audio thread.
+[2019.02.26-10.39.50:532][953]LogAudio: Warning: Waited 34503.515625ms for audio thread.
+[2019.02.26-10.39.50:568][953]LogAudio: Warning: Waited 34539.492188ms for audio thread.
+[2019.02.26-10.39.50:604][953]LogAudio: Warning: Waited 34575.488281ms for audio thread.
+[2019.02.26-10.39.50:640][953]LogAudio: Warning: Waited 34611.441406ms for audio thread.
+[2019.02.26-10.39.50:676][953]LogAudio: Warning: Waited 34647.421875ms for audio thread.
+[2019.02.26-10.39.50:712][953]LogAudio: Warning: Waited 34683.390625ms for audio thread.
+[2019.02.26-10.39.50:748][953]LogAudio: Warning: Waited 34719.390625ms for audio thread.
+[2019.02.26-10.39.50:784][953]LogAudio: Warning: Waited 34755.390625ms for audio thread.
+[2019.02.26-10.39.50:820][953]LogAudio: Warning: Waited 34791.332031ms for audio thread.
+[2019.02.26-10.39.50:856][953]LogAudio: Warning: Waited 34827.347656ms for audio thread.
+[2019.02.26-10.39.50:892][953]LogAudio: Warning: Waited 34863.289063ms for audio thread.
+[2019.02.26-10.39.50:928][953]LogAudio: Warning: Waited 34899.750000ms for audio thread.
+[2019.02.26-10.39.50:964][953]LogAudio: Warning: Waited 34935.265625ms for audio thread.
+[2019.02.26-10.39.51:000][953]LogAudio: Warning: Waited 34971.253906ms for audio thread.
+[2019.02.26-10.39.51:036][953]LogAudio: Warning: Waited 35007.214844ms for audio thread.
+[2019.02.26-10.39.51:072][953]LogAudio: Warning: Waited 35043.187500ms for audio thread.
+[2019.02.26-10.39.51:108][953]LogAudio: Warning: Waited 35079.167969ms for audio thread.
+[2019.02.26-10.39.51:144][953]LogAudio: Warning: Waited 35115.164063ms for audio thread.
+[2019.02.26-10.39.51:180][953]LogAudio: Warning: Waited 35151.226563ms for audio thread.
+[2019.02.26-10.39.51:216][953]LogAudio: Warning: Waited 35187.101563ms for audio thread.
+[2019.02.26-10.39.51:251][953]LogAudio: Warning: Waited 35222.218750ms for audio thread.
+[2019.02.26-10.39.51:287][953]LogAudio: Warning: Waited 35258.179688ms for audio thread.
+[2019.02.26-10.39.51:323][953]LogAudio: Warning: Waited 35294.132813ms for audio thread.
+[2019.02.26-10.39.51:359][953]LogAudio: Warning: Waited 35330.132813ms for audio thread.
+[2019.02.26-10.39.51:395][953]LogAudio: Warning: Waited 35366.261719ms for audio thread.
+[2019.02.26-10.39.51:431][953]LogAudio: Warning: Waited 35402.093750ms for audio thread.
+[2019.02.26-10.39.51:467][953]LogAudio: Warning: Waited 35438.046875ms for audio thread.
+[2019.02.26-10.39.51:503][953]LogAudio: Warning: Waited 35474.082031ms for audio thread.
+[2019.02.26-10.39.51:539][953]LogAudio: Warning: Waited 35510.039063ms for audio thread.
