@@ -953,6 +953,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.03.01-05.16.23:727][  0]LogInit: Initializing FReadOnlyCVARCache
 [2019.03.01-05.16.23:740][  0]LogAIModule: Creating AISystem for world Untitled
 [2019.03.01-05.16.23:758][  0]LogInit: XAudio2 using 'Speakers (2- Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+<<<<<<< HEAD
 [2019.03.01-05.16.23:952][  0]LogInit: FAudioDevice initialized.
 [2019.03.01-05.16.23:952][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
 [2019.03.01-05.16.24:084][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/Gretchen/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
@@ -17319,3 +17320,5 @@ Right
 [2019.03.01-07.56.00:468][909]LogExit: Exiting.
 [2019.03.01-07.56.00:491][909]Log file closed, 03/01/19 02:56:00
 >>>>>>> parent of 1036f35... The stuff. aka the turn around and the spawn is fixed
+=======
+>>>>>>> parent of 48069fa... all the things ive made
